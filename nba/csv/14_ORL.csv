@@ -1,0 +1,260 @@
+ORLANDO MAGIC Media Delivery,,OUT OF SYNC,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,v,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140_ORL_PCC,00_DEFENSE1,000_DEFENSE1_AUDIO_v01.mov,1,"THIS TEAM HAS ISSUES ON s3 CANNOT SYNC, emailed Danny (CM)",1,140,000,024,AUDIO,34.67s,,-,47,,,,140_ORL_PCC,00_DEFENSE1,\140_ORL_PCC\00_DEFENSE1\000_DEFENSE1_AUDIO_v01.mov,-,nclc,nclc,34702,86432,16,16,1.000,CFR,29.970,7138763,PCM,Little / Signed,sowt,34702,2,L R,48000,16
+,,004_Defense1_RIB_F_v02.mov,2,,1,140,004,010,RIB_F,3s,,-,47,,,,140_ORL_PCC,00_DEFENSE1,\140_ORL_PCC\00_DEFENSE1\004_Defense1_RIB_F_v02.mov,-,nclc,nclc,3003,248268736,9504,144,66.000,CFR,29.970,93301456,-,-,-,-,-,-,-,-
+,01_DEFENSE2,010_DEFENSE2_AUDIO_v01.mov,1,,1,140,010,024,AUDIO,34.67s,,-,48,,,,140_ORL_PCC,01_DEFENSE2,\140_ORL_PCC\01_DEFENSE2\010_DEFENSE2_AUDIO_v01.mov,-,nclc,nclc,34702,80028,16,16,1.000,CFR,29.970,7110888,PCM,Little / Signed,sowt,34702,2,L R,48000,16
+,,014_Defense2_RIB_F_v02.mov,2,,1,140,014,010,RIB_F,10s,,-,48,,,,140_ORL_PCC,01_DEFENSE2,\140_ORL_PCC\01_DEFENSE2\014_Defense2_RIB_F_v02.mov,-,nclc,nclc,10010,144586828,9504,144,66.000,CFR,29.970,181035448,-,-,-,-,-,-,-,-
+,02_DEFENSE3,024_Defense3_RIB_F_v01.mov,1,,1,140,024,010,RIB_F,,,-F,35,,No audio ,,140_ORL_PCC,02_DEFENSE3,\140_ORL_PCC\02_DEFENSE3\024_Defense3_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,03_DEFENSE4,030_DEFENSE4_AUDIO_v01.mov,1,,1,140,030,024,AUDIO,35.47s,,-,36,,,,140_ORL_PCC,03_DEFENSE4,\140_ORL_PCC\03_DEFENSE4\030_DEFENSE4_AUDIO_v01.mov,-,nclc,nclc,35503,86709,16,16,1.000,CFR,29.970,7338235,PCM,Little / Signed,sowt,35503,2,L R,48000,16
+,,034_DEFENSE4_RIB_F_v02.mov,2,,1,140,034,010,RIB_F,5.33s,,-,36,,,,140_ORL_PCC,03_DEFENSE4,\140_ORL_PCC\03_DEFENSE4\034_DEFENSE4_RIB_F_v02.mov,-,nclc,nclc,5339,209992871,9504,144,66.000,CFR,29.970,140212905,-,-,-,-,-,-,-,-
+,07_HWGMagic,070_HWGMagic_AUDIO_v03.mov,3,,3,140,070,024,AUDIO,25.97s,,-,37,,,,140_ORL_PCC,07_HWGMagic,\140_ORL_PCC\07_HWGMagic\070_HWGMagic_AUDIO_v03.mov,-,nclc,nclc,25993,79896,16,16,1.000,CFR,29.970,5334249,PCM,Little / Signed,sowt,25993,2,L R,48000,16
+,,074_HWGMagic_RIB_F_v02.mov,2,,2,140,074,010,RIB_F,25.97s,,-,37,,,,140_ORL_PCC,07_HWGMagic,\140_ORL_PCC\07_HWGMagic\074_HWGMagic_RIB_F_v02.mov,-,nclc,nclc,25993,53258732,9504,144,66.000,CFR,29.970,173083905,-,-,-,-,-,-,-,-
+,08_LetsGoMagic1,080_LetsGoMagic1_AUDIO_v02.mov,2,,2,140,080,024,AUDIO,4s,,-,45,,,,140_ORL_PCC,08_LetsGoMagic1,\140_ORL_PCC\08_LetsGoMagic1\080_LetsGoMagic1_AUDIO_v02.mov,-,nclc,nclc,4004,69476,16,16,1.000,CFR,29.970,989833,PCM,Little / Signed,sowt,4004,2,L R,48000,16
+,,084_LetsGoMagic1_RIB_F_v01.mov,1,,1,140,084,010,RIB_F,4s,,-,45,,,,140_ORL_PCC,08_LetsGoMagic1,\140_ORL_PCC\08_LetsGoMagic1\084_LetsGoMagic1_RIB_F_v01.mov,-,nclc,nclc,4004,79225211,9504,144,66.000,CFR,29.970,39765802,-,-,-,-,-,-,-,-
+,09_LetsGoMagic2,090_LetsGoMagic2_AUDIO_v01.mov,1,,1,140,090,024,AUDIO,3.37s,,-,46,,,,140_ORL_PCC,09_LetsGoMagic2,\140_ORL_PCC\09_LetsGoMagic2\090_LetsGoMagic2_AUDIO_v01.mov,-,nclc,nclc,3371,75083,16,16,1.000,CFR,29.970,759681,PCM,Little / Signed,sowt,3371,2,L R,48000,16
+,,094_LetsGoMagic2_RIB_F_v01.mov,1,,1,140,094,010,RIB_F,3.37s,,-,46,,,,140_ORL_PCC,09_LetsGoMagic2,\140_ORL_PCC\09_LetsGoMagic2\094_LetsGoMagic2_RIB_F_v01.mov,-,nclc,nclc,3371,143092189,9504,144,66.000,CFR,29.970,60409859,-,-,-,-,-,-,-,-
+,11_BeatTheNets,110_BeatTheNets_AUDIO_v02.mov,2,,2,140,110,024,AUDIO,32.33s,,-,40,,Late game or close game. When ORD is on defense ,,140_ORL_PCC,11_BeatTheNets,\140_ORL_PCC\11_BeatTheNets\110_BeatTheNets_AUDIO_v02.mov,-,nclc,nclc,32366,61072,16,16,1.000,CFR,29.970,6847044,PCM,Little / Signed,sowt,32366,2,L R,48000,16
+,,111_BeatTheNets_AUD_F_v01.mov,1,,1,140,111,001,AUD_F,32.5s,,-,40,,,,140_ORL_PCC,11_BeatTheNets,\140_ORL_PCC\11_BeatTheNets\111_BeatTheNets_AUD_F_v01.mov,-,nclc,nclc,32533,1915158112,10160,1600,6.350,CFR,29.970,7788163097,-,-,-,-,-,-,-,-
+,,114_BeatTheNets_RIB_F_v01.mov,1,,1,140,114,010,RIB_F,,,-F,40,,,,140_ORL_PCC,11_BeatTheNets,\140_ORL_PCC\11_BeatTheNets\114_BeatTheNets_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,12_BeatTheKings,120_BeatTheKings_AUDIO_v02.mov,2,,2,140,120,024,AUDIO,32.33s,,-,,,,,140_ORL_PCC,12_BeatTheKings,\140_ORL_PCC\12_BeatTheKings\120_BeatTheKings_AUDIO_v02.mov,-,nclc,nclc,32366,85703,16,16,1.000,CFR,29.970,6651796,PCM,Little / Signed,sowt,32366,2,L R,48000,16
+,,121_BeatTheKings_AUD_F_v01.mov,1,,1,140,121,001,AUD_F,32.5s,,-,,,,,140_ORL_PCC,12_BeatTheKings,\140_ORL_PCC\12_BeatTheKings\121_BeatTheKings_AUD_F_v01.mov,-,nclc,nclc,32533,2183451913,10160,1600,6.350,CFR,29.970,8879197693,-,-,-,-,-,-,-,-
+,,124_BeatTheKings_RIB_F_v01.mov,1,,1,140,124,010,RIB_F,,,-F,,,,,140_ORL_PCC,12_BeatTheKings,\140_ORL_PCC\12_BeatTheKings\124_BeatTheKings_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+141_ORL_FERA,00_FanReacts01,001_FanReacts01_AUD_F_v01.mov,1,,1,141,001,001,AUD_F,7.03s,,-,53,,,,141_ORL_FERA,00_FanReacts01,\141_ORL_FERA\00_FanReacts01\001_FanReacts01_AUD_F_v01.mov,-,nclc,nclc,7041,3460254526,10160,1600,6.350,CFR,29.970,3045212039,-,-,-,-,-,-,-,-
+,01_FanReacts02,011_FanReacts02_AUD_N_v01.mov,1,"Missing AUD-S, intetional? -JL",1,141,011,002,AUD_N,7.03s,,-,54,,,,141_ORL_FERA,01_FanReacts02,\141_ORL_FERA\01_FanReacts02\011_FanReacts02_AUD_N_v01.mov,-,nclc,nclc,7041,888209783,5280,800,6.600,CFR,29.970,781692502,-,-,-,-,-,-,-,-
+,,013_FanReacts02_AUD_C_v01.mov,1,,1,141,013,004,AUD_C,7s,,-,54,,,,141_ORL_FERA,01_FanReacts02,\141_ORL_FERA\01_FanReacts02\013_FanReacts02_AUD_C_v01.mov,-,nclc,nclc,7007,1656994141,9760,800,12.200,CFR,29.970,1451347951,-,-,-,-,-,-,-,-
+,02_FanReacts03,021_FanReacts03_AUD_N_v01.mov,1,"Missing AUD-S, intetional? -JL",1,141,021,002,AUD_N,7s,,-,55,,,,141_ORL_FERA,02_FanReacts03,\141_ORL_FERA\02_FanReacts03\021_FanReacts03_AUD_N_v01.mov,-,nclc,nclc,7007,887272153,5280,800,6.600,CFR,29.970,777166652,-,-,-,-,-,-,-,-
+,,023_FanReacts03_AUD_C_v01.mov,1,,1,141,023,004,AUD_C,7s,,-,55,,,,141_ORL_FERA,02_FanReacts03,\141_ORL_FERA\02_FanReacts03\023_FanReacts03_AUD_C_v01.mov,-,nclc,nclc,7007,1660582204,9760,800,12.200,CFR,29.970,1454490630,-,-,-,-,-,-,-,-
+,03_FanReacts04,031_FanReacts04_AUD_N_v01.mov,1,"Missing AUD-S, intetional? -JL",1,141,031,002,AUD_N,7s,,-,56,,,,141_ORL_FERA,03_FanReacts04,\141_ORL_FERA\03_FanReacts04\031_FanReacts04_AUD_N_v01.mov,-,nclc,nclc,7007,895117060,5280,800,6.600,CFR,29.970,784037817,-,-,-,-,-,-,-,-
+,,033_FanReacts04_AUD_C_v01.mov,1,,1,141,033,004,AUD_C,7s,,-,56,,,,141_ORL_FERA,03_FanReacts04,\141_ORL_FERA\03_FanReacts04\033_FanReacts04_AUD_C_v01.mov,-,nclc,nclc,7007,1644201219,9760,800,12.200,CFR,29.970,1440142561,-,-,-,-,-,-,-,-
+,04_FanReacts05,041_FanReacts05_AUD_N_v01.mov,1,"Missing AUD-S, intetional? -JL",1,141,041,002,AUD_N,7s,,-,39,,,,141_ORL_FERA,04_FanReacts05,\141_ORL_FERA\04_FanReacts05\041_FanReacts05_AUD_N_v01.mov,-,nclc,nclc,7007,881381428,5280,800,6.600,CFR,29.970,772007108,-,-,-,-,-,-,-,-
+,,043_FanReacts05_AUD_C_v01.mov,1,,1,141,043,004,AUD_C,7s,,-,39,,,,141_ORL_FERA,04_FanReacts05,\141_ORL_FERA\04_FanReacts05\043_FanReacts05_AUD_C_v01.mov,-,nclc,nclc,7007,1643590968,9760,800,12.200,CFR,29.970,1439608435,-,-,-,-,-,-,-,-
+142_ORL_Image_1,00_GameOnReset,001_GameOnReset_AUD_F_v02.mov,2,,,142,001,001,AUD_F,20s,,-,,Missing in d3 -JL,,,142_ORL_Image_1,00_GameOnReset,\142_ORL_Image_1\00_GameOnReset\001_GameOnReset_AUD_F_v02.mov,-,nclc,nclc,20020,1928451939,10160,1600,6.350,CFR,29.970,4829808145,PCM,Little / Signed,sowt,20021,2,L R,48000,16
+,,004_GameOnReset_RIB_F_v02.mov,2,,1,142,004,010,RIB_F,20s,,-,,,,,142_ORL_Image_1,00_GameOnReset,\142_ORL_Image_1\00_GameOnReset\004_GameOnReset_RIB_F_v02.mov,-,nclc,nclc,20020,178757482,9504,144,66.000,CFR,29.970,448772949,-,-,-,-,-,-,-,-
+,,008_GameOnReset_SCB_v01.mov,1,,1,142,008,017,SCB,20s,,-,,,,,142_ORL_Image_1,00_GameOnReset,\142_ORL_Image_1\00_GameOnReset\008_GameOnReset_SCB_v01.mov,-,nclc,nclc,20020,344352583,1920,1080,1.778,CFR,29.970,865593085,PCM,Little / Signed,sowt,20021,2,L R,48000,16
+,01_HereComeMagic,010_HereComeMagic_AUDIO_v01.mov,1,,1,142,010,024,AUDIO,6.83s,,-,,,Player run out pre-game ,,142_ORL_Image_1,01_HereComeMagic,\142_ORL_Image_1\01_HereComeMagic\010_HereComeMagic_AUDIO_v01.mov,-,nclc,nclc,6841,49630,16,16,1.000,CFR,29.970,1397439,PCM,Little / Signed,sowt,6841,2,L R,48000,16
+,,011_HereComeMagic_AUD_F_v02.mov,2,,2,142,011,001,AUD_F,15s,,-,,,,,142_ORL_Image_1,01_HereComeMagic,\142_ORL_Image_1\01_HereComeMagic\011_HereComeMagic_AUD_F_v02.mov,-,nclc,nclc,15015,721436488,10160,1600,6.350,CFR,29.970,1354853129,-,-,-,-,-,-,-,-
+,,014_HereComeMagic_RIB_F_v02.mov,2,,1,142,014,010,RIB_F,15s,,-,,,,,142_ORL_Image_1,01_HereComeMagic,\142_ORL_Image_1\01_HereComeMagic\014_HereComeMagic_RIB_F_v02.mov,-,nclc,nclc,15015,50769677,9504,144,66.000,CFR,29.970,96338676,-,-,-,-,-,-,-,-
+,02_GameOnStatic,021_GameOnStatic_AUD_F_v01.mov,1,,1,142,021,001,AUD_F,1.03s,,-,20,,For FT if we need it ,,142_ORL_Image_1,02_GameOnStatic,\142_ORL_Image_1\02_GameOnStatic\021_GameOnStatic_AUD_F_v01.mov,-,nclc,nclc,1035,1902610430,10160,1600,6.350,CFR,29.970,246019157,-,-,-,-,-,-,-,-
+,,024_GameOnStatic_RIB_F_v02.mov,2,,1,142,024,010,RIB_F,1.03s,,-,20,,,,142_ORL_Image_1,02_GameOnStatic,\142_ORL_Image_1\02_GameOnStatic\024_GameOnStatic_RIB_F_v02.mov,-,nclc,nclc,1035,223236932,9504,144,66.000,CFR,29.970,29661534,-,-,-,-,-,-,-,-
+,,028_GameOnStatic_SCB_v01.mov,1,,1,142,028,017,SCB,1.03s,,-,20,,,,142_ORL_Image_1,02_GameOnStatic,\142_ORL_Image_1\02_GameOnStatic\028_GameOnStatic_SCB_v01.mov,-,nclc,nclc,1035,467753755,1920,1080,1.778,CFR,29.970,61722078,-,-,-,-,-,-,-,-
+143_ORL_Image_2,,,,,,,,,,,,-,,,,,143_ORL_Image_2,02_GameOnStatic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+144_ORL_Video,00_Hype01,000_Hype01_AUDIO_v01.mov,1,,1,144,000,024,AUDIO,1m9.3s,,-,31,,Game on re-set ,,144_ORL_Video,00_Hype01,\144_ORL_Video\00_Hype01\000_Hype01_AUDIO_v01.mov,-,nclc,nclc,69370,93089,16,16,1.000,CFR,29.970,14910178,PCM,Little / Signed,sowt,69370,2,L R,48000,16
+,,001_Hype01_AUD_F_v01.mov,1,,1,144,001,001,AUD_F,1m9.93s,,-,31,,,,144_ORL_Video,00_Hype01,\144_ORL_Video\00_Hype01\001_Hype01_AUD_F_v01.mov,-,nclc,nclc,70004,2723680428,10160,1600,6.350,CFR,29.970,23833412291,-,-,-,-,-,-,-,-
+,,008_Hype01_SCB_v01.mov,1,,1,144,008,017,SCB,1m9.3s,,-,31,,,,144_ORL_Video,00_Hype01,\144_ORL_Video\00_Hype01\008_Hype01_SCB_v01.mov,-,nclc,nclc,69370,423937213,1920,1080,1.778,CFR,29.970,3676779099,-,-,-,-,-,-,-,-
+,01_Hype02,010_Hype02_AUDIO_v01.mov,1,,1,144,010,024,AUDIO,1m10.9s,,-,32,,,,144_ORL_Video,01_Hype02,\144_ORL_Video\01_Hype02\010_Hype02_AUDIO_v01.mov,-,nclc,nclc,70971,92734,16,16,1.000,CFR,29.970,15093911,PCM,Little / Signed,sowt,70971,2,L R,48000,16
+,,011_Hype02_AUD_F_v01.mov,1,,1,144,011,001,AUD_F,1m9.93s,,-,32,,,,144_ORL_Video,01_Hype02,\144_ORL_Video\01_Hype02\011_Hype02_AUD_F_v01.mov,-,nclc,nclc,70004,2561928908,10160,1600,6.350,CFR,29.970,22418019025,-,-,-,-,-,-,-,-
+,,018_Hype02_SCB_v01.mov,1,,1,144,018,017,SCB,1m10.9s,,-,32,,,,144_ORL_Video,01_Hype02,\144_ORL_Video\01_Hype02\018_Hype02_SCB_v01.mov,-,nclc,nclc,70971,370872243,1920,1080,1.778,CFR,29.970,3290752324,-,-,-,-,-,-,-,-
+145_ORL_Misc,00_Shout,000_Shout_AUDIO_v01.mov,1,,1,145,000,024,AUDIO,3m29.8s,,-,30,,Big reaction moment - big 3 ptr ,,145_ORL_Misc,00_Shout,\145_ORL_Misc\00_Shout\000_Shout_AUDIO_v01.mov,-,nclc,nclc,210010,87777,16,16,1.000,CFR,29.970,42941451,PCM,Little / Signed,sowt,210010,2,L R,48000,16
+,,001_Shout_AUD_N_v01.mov,1,,1,145,001,002,AUD_N,3m29.4s,,-,30,,,,145_ORL_Misc,00_Shout,\145_ORL_Misc\00_Shout\001_Shout_AUD_N_v01.mov,-,nclc,nclc,209610,635026839,5280,800,6.600,CFR,29.970,16638640604,-,-,-,-,-,-,-,-
+,,003_Shout_AUD_C_v01.mov,1,,1,145,003,004,AUD_C,3m29.83s,,-,30,,,,145_ORL_Misc,00_Shout,\145_ORL_Misc\00_Shout\003_Shout_AUD_C_v01.mov,-,nclc,nclc,210044,1186101440,9760,800,12.200,CFR,29.970,31141769255,-,-,-,-,-,-,-,-
+,,004_Shout_RIB_F_v01.mov,1,"Missing AUD-S, Intentional? -JL",1,145,004,010,RIB_F,3m29.83s,,-,30,,,,145_ORL_Misc,00_Shout,\145_ORL_Misc\00_Shout\004_Shout_RIB_F_v01.mov,-,nclc,nclc,210044,296209348,9504,144,66.000,CFR,29.970,7777346756,-,-,-,-,-,-,-,-
+,01_SlamDunk1,010_SlamDunk1_AUDIO_v01.mov,1,,1,145,010,024,AUDIO,5.87s,,-,41,,,,145_ORL_Misc,01_SlamDunk1,\145_ORL_Misc\01_SlamDunk1\010_SlamDunk1_AUDIO_v01.mov,-,nclc,nclc,5873,55624,16,16,1.000,CFR,29.970,1209592,PCM,Little / Signed,sowt,5873,2,L R,48000,16
+,,011_SlamDunk1_AUD_F_v01.mov,1,,1,145,011,001,AUD_F,8.53s,,-,41,,,,145_ORL_Misc,01_SlamDunk1,\145_ORL_Misc\01_SlamDunk1\011_SlamDunk1_AUD_F_v01.mov,-,nclc,nclc,8542,652512181,10160,1600,6.350,CFR,29.970,697525621,-,-,-,-,-,-,-,-
+,,014_SlamDunk1_RIB_F_v02.mov,2,,1,145,014,010,RIB_F,8.53s,,-,41,,,,145_ORL_Misc,01_SlamDunk1,\145_ORL_Misc\01_SlamDunk1\014_SlamDunk1_RIB_F_v02.mov,-,nclc,nclc,8542,70644753,9504,144,66.000,CFR,29.970,82211555,-,-,-,-,-,-,-,-
+,02_SlamDunk2,,,,,,,,,,,-,,,,,145_ORL_Misc,02_SlamDunk2,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,03_AlleyOop,030_AlleyOop_AUDIO_v01.mov,1,Audio says Slam? -JL,1,145,030,024,AUDIO,5.87s,,-,44,,,,145_ORL_Misc,03_AlleyOop,\145_ORL_Misc\03_AlleyOop\030_AlleyOop_AUDIO_v01.mov,-,nclc,nclc,5873,55624,16,16,1.000,CFR,29.970,1209592,PCM,Little / Signed,sowt,5873,2,L R,48000,16
+,,031_AlleyOop_AUD_F_v01.mov,1,,1,145,031,001,AUD_F,8.53s,,-,44,,,,145_ORL_Misc,03_AlleyOop,\145_ORL_Misc\03_AlleyOop\031_AlleyOop_AUD_F_v01.mov,-,nclc,nclc,8542,647360095,10160,1600,6.350,CFR,29.970,692050829,-,-,-,-,-,-,-,-
+,,034_AlleyOop_RIB_F_v02.mov,2,,1,145,034,010,RIB_F,8.53s,,-,44,,,,145_ORL_Misc,03_AlleyOop,\145_ORL_Misc\03_AlleyOop\034_AlleyOop_RIB_F_v02.mov,-,nclc,nclc,8542,62838129,9504,144,66.000,CFR,29.970,68382294,-,-,-,-,-,-,-,-
+,04_MagicBall,041_MagicBall_AUD_F_v01.mov,1,,1,145,041,001,AUD_F,8.53s,,-,19,,,,145_ORL_Misc,04_MagicBall,\145_ORL_Misc\04_MagicBall\041_MagicBall_AUD_F_v01.mov,-,nclc,nclc,8542,648120767,10160,1600,6.350,CFR,29.970,692842639,-,-,-,-,-,-,-,-
+,,044_MagicBall_RIB_F_v02.mov,2,,1,145,044,010,RIB_F,8.53s,,-,19,,,,145_ORL_Misc,04_MagicBall,\145_ORL_Misc\04_MagicBall\044_MagicBall_RIB_F_v02.mov,-,nclc,nclc,8542,71047988,9504,144,66.000,CFR,29.970,80856889,-,-,-,-,-,-,-,-
+,05_Traveling,050_Traveling_AUDIO_v01.mov,1,Wrong sample rate -CD,1,145,050,024,AUDIO,7.4s,,-A,34,,,,145_ORL_Misc,05_Traveling,\145_ORL_Misc\05_Traveling\050_Traveling_AUDIO_v01.mov,-A,nclc,nclc,7408,60659,16,16,1.000,CFR,29.970,1405958,PCM,Little / Signed,sowt,7408,2,L R,44100,16
+,,051_Traveling_AUD_F_v01.mov,1,,1,145,051,001,AUD_F,8.53s,,-,34,,,,145_ORL_Misc,05_Traveling,\145_ORL_Misc\05_Traveling\051_Traveling_AUD_F_v01.mov,-,nclc,nclc,8542,661821829,10160,1600,6.350,CFR,29.970,707481178,-,-,-,-,-,-,-,-
+,,054_Traveling_RIB_F_v02.mov,2,,1,145,054,010,RIB_F,8.53s,,-,34,,,,145_ORL_Misc,05_Traveling,\145_ORL_Misc\05_Traveling\054_Traveling_RIB_F_v02.mov,-,nclc,nclc,8542,78232199,9504,144,66.000,CFR,29.970,88527718,-,-,-,-,-,-,-,-
+,06_ShotClockViolation,061_ShotClockViolation_AUD_F_v01.mov,1,,1,145,061,001,AUD_F,8s,,-,33,,,,145_ORL_Misc,06_ShotClockViolation,\145_ORL_Misc\06_ShotClockViolation\061_ShotClockViolation_AUD_F_v01.mov,-,nclc,nclc,8008,333925268,10160,1600,6.350,CFR,29.970,334419702,-,-,-,-,-,-,-,-
+,,064_ShotClockViolation_RIB_F_v01.mov,1,,1,145,064,010,RIB_F,8s,,-,33,,,,145_ORL_Misc,06_ShotClockViolation,\145_ORL_Misc\06_ShotClockViolation\064_ShotClockViolation_RIB_F_v01.mov,-,nclc,nclc,8008,28991799,9504,144,66.000,CFR,29.970,29256958,-,-,-,-,-,-,-,-
+,07_AndOne,071_AndOne_AUD_F_v01.mov,1,,1,145,071,001,AUD_F,8.53s,,-,51,,,,145_ORL_Misc,07_AndOne,\145_ORL_Misc\07_AndOne\071_AndOne_AUD_F_v01.mov,-,nclc,nclc,8542,649440427,10160,1600,6.350,CFR,29.970,694251679,-,-,-,-,-,-,-,-
+,,074_AndOne_RIB_F_v02.mov,2,,1,145,074,010,RIB_F,8.53s,,-,51,,,,145_ORL_Misc,07_AndOne,\145_ORL_Misc\07_AndOne\074_AndOne_RIB_F_v02.mov,-,nclc,nclc,8542,69313229,9504,144,66.000,CFR,29.970,79004627,-,-,-,-,-,-,-,-
+,08_CountTheBasket,081_CountTheBasket_AUD_F_v01.mov,1,,1,145,081,001,AUD_F,8.53s,,-,52,,,,145_ORL_Misc,08_CountTheBasket,\145_ORL_Misc\08_CountTheBasket\081_CountTheBasket_AUD_F_v01.mov,-,nclc,nclc,8542,661150191,10160,1600,6.350,CFR,29.970,706774991,-,-,-,-,-,-,-,-
+,,084_CountTheBasket_RIB_F_v02.mov,2,,1,145,084,010,RIB_F,8.53s,,-,52,,,,145_ORL_Misc,08_CountTheBasket,\145_ORL_Misc\08_CountTheBasket\084_CountTheBasket_RIB_F_v02.mov,-,nclc,nclc,8542,81275269,9504,144,66.000,CFR,29.970,91776909,-,-,-,-,-,-,-,-
+,09_ThreePointer1,090_ThreePointer1_AUDIO_v01.mov,1,,1,145,090,024,AUDIO,13.87s,,-,43,,,,145_ORL_Misc,09_ThreePointer1,\145_ORL_Misc\09_ThreePointer1\090_ThreePointer1_AUDIO_v01.mov,-,nclc,nclc,13881,50350,16,16,1.000,CFR,29.970,2803482,PCM,Little / Signed,sowt,13881,2,L R,48000,16
+,,091_ThreePointer1_AUD_F_v01.mov,1,,1,145,091,001,AUD_F,8.53s,,-,43,,,,145_ORL_Misc,09_ThreePointer1,\145_ORL_Misc\09_ThreePointer1\091_ThreePointer1_AUD_F_v01.mov,-,nclc,nclc,8542,629242997,10160,1600,6.350,CFR,29.970,672706580,-,-,-,-,-,-,-,-
+,,094_ThreePointer1_RIB_F_v02.mov,2,,1,145,094,010,RIB_F,8.53s,,-,43,,,,145_ORL_Misc,09_ThreePointer1,\145_ORL_Misc\09_ThreePointer1\094_ThreePointer1_RIB_F_v02.mov,-,nclc,nclc,8542,68270568,9504,144,66.000,CFR,29.970,78758650,-,-,-,-,-,-,-,-
+,24_MagicWin,241_MagicWin_AUD_F_v01.mov,1,,1,145,241,001,AUD_F,5.03s,,-,,,This clip is a lot ,,145_ORL_Misc,24_MagicWin,\145_ORL_Misc\24_MagicWin\241_MagicWin_AUD_F_v01.mov,-,nclc,nclc,5039,1966218875,10160,1600,6.350,CFR,29.970,1238342807,-,-,-,-,-,-,-,-
+,,244_MagicWin_RIB_F_v01.mov,1,,1,145,244,010,RIB_F,5.07s,,-,,,,,145_ORL_Misc,24_MagicWin,\145_ORL_Misc\24_MagicWin\244_MagicWin_RIB_F_v01.mov,-,nclc,nclc,5072,144181599,9504,144,66.000,CFR,29.970,91408455,-,-,-,-,-,-,-,-
+,,248_MagicWin_SCB_v01.mov,1,,1,145,248,017,SCB,5.03s,,-,,,,,145_ORL_Misc,24_MagicWin,\145_ORL_Misc\24_MagicWin\248_MagicWin_SCB_v01.mov,-,nclc,nclc,5039,229203764,1920,1080,1.778,CFR,29.970,144376832,-,-,-,-,-,-,-,-
+146_ORL_Intros_1,00_IntroVideo,000_IntroVideo_AUDIO_v01.mov,1,,1,146,000,024,AUDIO,2m29.87s,,-,,,,,146_ORL_Intros_1,00_IntroVideo,\146_ORL_Intros_1\00_IntroVideo\000_IntroVideo_AUDIO_v01.mov,-,nclc,nclc,150017,48015,16,16,1.000,CFR,29.970,30573710,PCM,Little / Signed,sowt,150017,2,L R,48000,16
+,,001_IntroVideo_AUD_F_v01.mov,1,,1,146,001,001,AUD_F,1m9.93s,,-,,,,,146_ORL_Intros_1,00_IntroVideo,\146_ORL_Intros_1\00_IntroVideo\001_IntroVideo_AUD_F_v01.mov,-,nclc,nclc,70004,2294773619,10160,1600,6.350,CFR,29.970,20080298819,-,-,-,-,-,-,-,-
+,,004_IntroVideo_RIB_F_v01.mov,1,,1,146,004,010,RIB_F,3m29.8s,,-,,,,,146_ORL_Intros_1,00_IntroVideo,\146_ORL_Intros_1\00_IntroVideo\004_IntroVideo_RIB_F_v01.mov,-,nclc,nclc,210010,208437140,9504,144,66.000,CFR,29.970,5472905008,-,-,-,-,-,-,-,-
+,,008_IntroVideo_SCB_v01.mov,1,,1,146,008,017,SCB,1m17.63s,,-,,,,,146_ORL_Intros_1,00_IntroVideo,\146_ORL_Intros_1\00_IntroVideo\008_IntroVideo_SCB_v01.mov,-,nclc,nclc,77711,325066561,1920,1080,1.778,CFR,29.970,3157732146,-,-,-,-,-,-,-,-
+,01_PlayerIDAugustin,010_PlayerIDAugustin_AUDIO_v01.mov,1,,1,146,010,024,AUDIO,12.03s,,-,,,Ribbon and Audio track ,,146_ORL_Intros_1,01_PlayerIDAugustin,\146_ORL_Intros_1\01_PlayerIDAugustin\010_PlayerIDAugustin_AUDIO_v01.mov,-,nclc,nclc,12046,88232,16,16,1.000,CFR,29.970,2494396,PCM,Little / Signed,sowt,12046,2,L R,48000,16
+,,011_PlayerIDAugustin_AUD_F_v01.mov,1,,1,146,011,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,01_PlayerIDAugustin,\146_ORL_Intros_1\01_PlayerIDAugustin\011_PlayerIDAugustin_AUD_F_v01.mov,-,nclc,nclc,8042,1193510233,10160,1600,6.350,CFR,29.970,1199685539,-,-,-,-,-,-,-,-
+,,018_PlayerIDAugustin_SCB_v01.mov,1,,1,146,018,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,01_PlayerIDAugustin,\146_ORL_Intros_1\01_PlayerIDAugustin\018_PlayerIDAugustin_SCB_v01.mov,-,nclc,nclc,9477,222025762,1920,1080,1.778,CFR,29.970,262996554,-,-,-,-,-,-,-,-
+,02_PlayerIDBamba,020_PlayerIDBamba_AUDIO_v01.mov,1,,1,146,020,024,AUDIO,11.63s,,-,,,,,146_ORL_Intros_1,02_PlayerIDBamba,\146_ORL_Intros_1\02_PlayerIDBamba\020_PlayerIDBamba_AUDIO_v01.mov,-,nclc,nclc,11645,85355,16,16,1.000,CFR,29.970,2408370,PCM,Little / Signed,sowt,11645,2,L R,48000,16
+,,021_PlayerIDBamba_AUD_F_v01.mov,1,,1,146,021,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,02_PlayerIDBamba,\146_ORL_Intros_1\02_PlayerIDBamba\021_PlayerIDBamba_AUD_F_v01.mov,-,nclc,nclc,8042,1066915106,10160,1600,6.350,CFR,29.970,1072435683,-,-,-,-,-,-,-,-
+,,028_PlayerIDBamba_SCB_v01.mov,1,,1,146,028,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,02_PlayerIDBamba,\146_ORL_Intros_1\02_PlayerIDBamba\028_PlayerIDBamba_SCB_v01.mov,-,nclc,nclc,9477,207370417,1920,1080,1.778,CFR,29.970,245636961,-,-,-,-,-,-,-,-
+,03_PlayerIDBirch,030_PlayerIDBirch_AUDIO_v01.mov,1,,1,146,030,024,AUDIO,13.13s,,-,,,,,146_ORL_Intros_1,03_PlayerIDBirch,\146_ORL_Intros_1\03_PlayerIDBirch\030_PlayerIDBirch_AUDIO_v01.mov,-,nclc,nclc,13147,85355,16,16,1.000,CFR,29.970,2714532,PCM,Little / Signed,sowt,13147,2,L R,48000,16
+,,031_PlayerIDBirch_AUD_F_v01.mov,1,,1,146,031,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,03_PlayerIDBirch,\146_ORL_Intros_1\03_PlayerIDBirch\031_PlayerIDBirch_AUD_F_v01.mov,-,nclc,nclc,8042,1108687959,10160,1600,6.350,CFR,29.970,1114424578,-,-,-,-,-,-,-,-
+,,038_PlayerIDBirch_SCB_v01.mov,1,,1,146,038,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,03_PlayerIDBirch,\146_ORL_Intros_1\03_PlayerIDBirch\038_PlayerIDBirch_SCB_v01.mov,-,nclc,nclc,9477,218027331,1920,1080,1.778,CFR,29.970,258260346,-,-,-,-,-,-,-,-
+,04_PlayerIDMCW,040_PlayerIDMCW_AUDIO_v01.mov,1,,1,146,040,024,AUDIO,13.63s,,-,,,,,146_ORL_Intros_1,04_PlayerIDMCW,\146_ORL_Intros_1\04_PlayerIDMCW\040_PlayerIDMCW_AUDIO_v01.mov,-,nclc,nclc,13647,90869,16,16,1.000,CFR,29.970,2826015,PCM,Little / Signed,sowt,13647,2,L R,48000,16
+,,041_PlayerIDMCW_AUD_F_v01.mov,1,,1,146,041,001,AUD_F,9.47s,,-,,,,,146_ORL_Intros_1,04_PlayerIDMCW,\146_ORL_Intros_1\04_PlayerIDMCW\041_PlayerIDMCW_AUD_F_v01.mov,-,nclc,nclc,9477,1141308068,10160,1600,6.350,CFR,29.970,1351902788,-,-,-,-,-,-,-,-
+,,048_PlayerIDMCW_SCB_v01.mov,1,,1,146,048,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,04_PlayerIDMCW,\146_ORL_Intros_1\04_PlayerIDMCW\048_PlayerIDMCW_SCB_v01.mov,-,nclc,nclc,9477,208648091,1920,1080,1.778,CFR,29.970,247150468,-,-,-,-,-,-,-,-
+,05_PlayerIDClark,050_PlayerIDClark_AUDIO_v01.mov,1,,1,146,050,024,AUDIO,12.83s,,-,,,,,146_ORL_Intros_1,05_PlayerIDClark,\146_ORL_Intros_1\05_PlayerIDClark\050_PlayerIDClark_AUDIO_v01.mov,-,nclc,nclc,12847,87512,16,16,1.000,CFR,29.970,2656775,PCM,Little / Signed,sowt,12847,2,L R,48000,16
+,,051_PlayerIDClark_AUD_F_v01.mov,1,,1,146,051,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,05_PlayerIDClark,\146_ORL_Intros_1\05_PlayerIDClark\051_PlayerIDClark_AUD_F_v01.mov,-,nclc,nclc,8042,2238711897,10160,1600,6.350,CFR,29.970,2250292817,-,-,-,-,-,-,-,-
+,,058_PlayerIDClark_SCB_v01.mov,1,,,146,058,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,05_PlayerIDClark,\146_ORL_Intros_1\05_PlayerIDClark\058_PlayerIDClark_SCB_v01.mov,-,nclc,nclc,9477,347096962,1920,1080,1.778,CFR,29.970,411145572,-,-,-,-,-,-,-,-
+,06_PlayerIDEnnis,060_PlayerIDEnnis_AUDIO_v01.mov,1,,1,146,060,024,AUDIO,12.43s,,-,,,,,146_ORL_Intros_1,06_PlayerIDEnnis,\146_ORL_Intros_1\06_PlayerIDEnnis\060_PlayerIDEnnis_AUDIO_v01.mov,-,nclc,nclc,12446,87992,16,16,1.000,CFR,29.970,2575791,PCM,Little / Signed,sowt,12446,2,L R,48000,16
+,,061_PlayerIDEnnis_AUD_F_v01.mov,1,,1,146,061,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,06_PlayerIDEnnis,\146_ORL_Intros_1\06_PlayerIDEnnis\061_PlayerIDEnnis_AUD_F_v01.mov,-,nclc,nclc,8042,1951237238,10160,1600,6.350,CFR,29.970,1961331386,-,-,-,-,-,-,-,-
+,,068_PlayerIDEnnis_SCB_v01.mov,1,,,146,068,017,SCB,8.07s,,-,,,,,146_ORL_Intros_1,06_PlayerIDEnnis,\146_ORL_Intros_1\06_PlayerIDEnnis\068_PlayerIDEnnis_SCB_v01.mov,-,nclc,nclc,8075,317253998,1920,1080,1.778,CFR,29.970,320220687,-,-,-,-,-,-,-,-
+,07_PlayerIDFournier,070_PlayerIDFournier_AUDIO_v01.mov,1,,1,146,070,024,AUDIO,12.4s,,-,,,,,146_ORL_Intros_1,07_PlayerIDFournier,\146_ORL_Intros_1\07_PlayerIDFournier\070_PlayerIDFournier_AUDIO_v01.mov,-,nclc,nclc,12413,85355,16,16,1.000,CFR,29.970,2564908,PCM,Little / Signed,sowt,12413,2,L R,48000,16
+,,071_PlayerIDFournier_AUD_F_v01.mov,1,,1,146,071,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,07_PlayerIDFournier,\146_ORL_Intros_1\07_PlayerIDFournier\071_PlayerIDFournier_AUD_F_v01.mov,-,nclc,nclc,8042,1156435829,10160,1600,6.350,CFR,29.970,1162419392,-,-,-,-,-,-,-,-
+,,078_PlayerIDFournier_SCB_v01.mov,1,,1,146,078,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,07_PlayerIDFournier,\146_ORL_Intros_1\07_PlayerIDFournier\078_PlayerIDFournier_SCB_v01.mov,-,nclc,nclc,9477,221979216,1920,1080,1.778,CFR,29.970,262941432,-,-,-,-,-,-,-,-
+,08_PlayerIDFrazier,081_PlayerIDFrazier_AUD_F_v01.mov,1,"All of the other player intros are three files, including an audio file. this one doesn't have an audio file -CD",1,146,081,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,08_PlayerIDFrazier,\146_ORL_Intros_1\08_PlayerIDFrazier\081_PlayerIDFrazier_AUD_F_v01.mov,-,nclc,nclc,8042,995420180,10160,1600,6.350,CFR,29.970,1000570996,-,-,-,-,-,-,-,-
+,,088_PlayerIDFrazier_SCB_v01.mov,1,,1,146,088,017,SCB,8.03s,,-,,,,,146_ORL_Intros_1,08_PlayerIDFrazier,\146_ORL_Intros_1\08_PlayerIDFrazier\088_PlayerIDFrazier_SCB_v01.mov,-,nclc,nclc,8042,189514337,1920,1080,1.778,CFR,29.970,190497215,-,-,-,-,-,-,-,-
+,09_PlayerIDFultz,090_PlayerIDFultz_AUDIO_v01.mov,1,,1,146,090,024,AUDIO,13s,,-,,,,,146_ORL_Intros_1,09_PlayerIDFultz,\146_ORL_Intros_1\09_PlayerIDFultz\090_PlayerIDFultz_AUDIO_v01.mov,-,nclc,nclc,13013,87512,16,16,1.000,CFR,29.970,2690822,PCM,Little / Signed,sowt,13013,2,L R,48000,16
+,,091_PlayerIDFultz_AUD_F_v01.mov,1,,1,146,091,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,09_PlayerIDFultz,\146_ORL_Intros_1\09_PlayerIDFultz\091_PlayerIDFultz_AUD_F_v01.mov,-,nclc,nclc,8042,1259461958,10160,1600,6.350,CFR,29.970,1265978356,-,-,-,-,-,-,-,-
+,,098_PlayerIDFultz_SCB_v01.mov,1,,1,146,098,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,09_PlayerIDFultz,\146_ORL_Intros_1\09_PlayerIDFultz\098_PlayerIDFultz_SCB_v01.mov,-,nclc,nclc,9477,234004495,1920,1080,1.778,CFR,29.970,277185562,-,-,-,-,-,-,-,-
+,10_PlayerIDGordon,100_PlayerIDGordon_AUDIO_v01.mov,1,,1,146,100,024,AUDIO,13.03s,,-,,,,,146_ORL_Intros_1,10_PlayerIDGordon,\146_ORL_Intros_1\10_PlayerIDGordon\100_PlayerIDGordon_AUDIO_v01.mov,-,nclc,nclc,13047,88951,16,16,1.000,CFR,29.970,2698515,PCM,Little / Signed,sowt,13047,2,L R,48000,16
+,,101_PlayerIDGordon_AUD_F_v01.mov,1,,1,146,101,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,10_PlayerIDGordon,\146_ORL_Intros_1\10_PlayerIDGordon\101_PlayerIDGordon_AUD_F_v01.mov,-,nclc,nclc,8042,1086609627,10160,1600,6.350,CFR,29.970,1092232061,-,-,-,-,-,-,-,-
+,,108_PlayerIDGordon_SCB_v01.mov,1,,1,146,108,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,10_PlayerIDGordon,\146_ORL_Intros_1\10_PlayerIDGordon\108_PlayerIDGordon_SCB_v01.mov,-,nclc,nclc,9477,211590058,1920,1080,1.778,CFR,29.970,250635261,-,-,-,-,-,-,-,-
+,11_PlayerIDIwundu,110_PlayerIDIwundu_AUDIO_v01.mov,1,,1,146,110,024,AUDIO,13.4s,,-,,,,,146_ORL_Intros_1,11_PlayerIDIwundu,\146_ORL_Intros_1\11_PlayerIDIwundu\110_PlayerIDIwundu_AUDIO_v01.mov,-,nclc,nclc,13414,89430,16,16,1.000,CFR,29.970,2775788,PCM,Little / Signed,sowt,13414,2,L R,48000,16
+,,111_PlayerIDIwundu_AUD_F_v01.mov,1,,1,146,111,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,11_PlayerIDIwundu,\146_ORL_Intros_1\11_PlayerIDIwundu\111_PlayerIDIwundu_AUD_F_v01.mov,-,nclc,nclc,8042,1072080422,10160,1600,6.350,CFR,29.970,1077627713,-,-,-,-,-,-,-,-
+,,118_PlayerIDIwundu_SCB_v01.mov,1,,1,146,118,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,11_PlayerIDIwundu,\146_ORL_Intros_1\11_PlayerIDIwundu\118_PlayerIDIwundu_SCB_v01.mov,-,nclc,nclc,9477,197680593,1920,1080,1.778,CFR,29.970,234159183,-,-,-,-,-,-,-,-
+,14_PlayerIDRoss,140_PlayerIDRoss_AUDIO_v01.mov,1,,1,146,140,024,AUDIO,13s,,-,,,,,146_ORL_Intros_1,14_PlayerIDRoss,\146_ORL_Intros_1\14_PlayerIDRoss\140_PlayerIDRoss_AUDIO_v01.mov,-,nclc,nclc,13013,84635,16,16,1.000,CFR,29.970,2686578,PCM,Little / Signed,sowt,13013,2,L R,48000,16
+,,141_PlayerIDRoss_AUD_F_v01.mov,1,,1,146,141,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,14_PlayerIDRoss,\146_ORL_Intros_1\14_PlayerIDRoss\141_PlayerIDRoss_AUD_F_v01.mov,-,nclc,nclc,8042,1178792872,10160,1600,6.350,CFR,29.970,1184892062,-,-,-,-,-,-,-,-
+,,148_PlayerIDRoss_SCB_v01.mov,1,,1,146,148,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,14_PlayerIDRoss,\146_ORL_Intros_1\14_PlayerIDRoss\148_PlayerIDRoss_SCB_v01.mov,-,nclc,nclc,9477,204811432,1920,1080,1.778,CFR,29.970,242605877,-,-,-,-,-,-,-,-
+,15_PlayerIDVucevic,150_PlayerIDVucevic_AUDIO_v01.mov,1,,1,146,150,024,AUDIO,14.6s,,-,,,,,146_ORL_Intros_1,15_PlayerIDVucevic,\146_ORL_Intros_1\15_PlayerIDVucevic\150_PlayerIDVucevic_AUDIO_v01.mov,-,nclc,nclc,14615,90869,16,16,1.000,CFR,29.970,3024372,PCM,Little / Signed,sowt,14615,2,L R,48000,16
+,,151_PlayerIDVucevic_AUD_F_v01.mov,1,,1,146,151,001,AUD_F,8.03s,,-,,,,,146_ORL_Intros_1,15_PlayerIDVucevic,\146_ORL_Intros_1\15_PlayerIDVucevic\151_PlayerIDVucevic_AUD_F_v01.mov,-,nclc,nclc,8042,1019562781,10160,1600,6.350,CFR,29.970,1024838459,-,-,-,-,-,-,-,-
+,,158_PlayerIDVucevic_SCB_v01.mov,1,,1,146,158,017,SCB,9.47s,,-,,,,,146_ORL_Intros_1,15_PlayerIDVucevic,\146_ORL_Intros_1\15_PlayerIDVucevic\158_PlayerIDVucevic_SCB_v01.mov,-,nclc,nclc,9477,189431208,1920,1080,1.778,CFR,29.970,224387647,-,-,-,-,-,-,-,-
+,16_CoachIDClifford,160_CoachIDClifford_AUDIO_v01.mov,1,,1,146,160,024,AUDIO,7.03s,,-,,,,,146_ORL_Intros_1,16_CoachIDClifford,\146_ORL_Intros_1\16_CoachIDClifford\160_CoachIDClifford_AUDIO_v01.mov,-,nclc,nclc,7041,91109,16,16,1.000,CFR,29.970,1472356,PCM,Little / Signed,sowt,7041,2,L R,48000,16
+147_ORL_Intros_2,00_PlayerHeroAugustin,004_PlayerHeroAugustin_RIB_F_v01.mov,1,,1,147,004,010,RIB_F,15s,,-,8,,Paired with Headshots for Big plays ,,147_ORL_Intros_2,00_PlayerHeroAugustin,\147_ORL_Intros_2\00_PlayerHeroAugustin\004_PlayerHeroAugustin_RIB_F_v01.mov,-,nclc,nclc,15015,17064223,9504,144,66.000,CFR,29.970,32335746,-,-,-,-,-,-,-,-
+,01_PlayerHeroBamba,014_PlayerHeroBamba_RIB_F_v02.mov,2,,2,147,014,010,RIB_F,15s,,-,2,,,,147_ORL_Intros_2,01_PlayerHeroBamba,\147_ORL_Intros_2\01_PlayerHeroBamba\014_PlayerHeroBamba_RIB_F_v02.mov,-,nclc,nclc,15015,15950890,9504,144,66.000,CFR,29.970,30246179,-,-,-,-,-,-,-,-
+,02_PlayerHeroBirch,024_PlayerHeroBirch_RIB_F_v01.mov,1,,1,147,024,010,RIB_F,15s,,-,10,,,,147_ORL_Intros_2,02_PlayerHeroBirch,\147_ORL_Intros_2\02_PlayerHeroBirch\024_PlayerHeroBirch_RIB_F_v01.mov,-,nclc,nclc,15015,16417346,9504,144,66.000,CFR,29.970,31121735,-,-,-,-,-,-,-,-
+,03_PlayerHeroMCW,034_PlayerHeroMCW_RIB_F_v01.mov,1,,1,147,034,010,RIB_F,15s,,-,3,,,,147_ORL_Intros_2,03_PlayerHeroMCW,\147_ORL_Intros_2\03_PlayerHeroMCW\034_PlayerHeroMCW_RIB_F_v01.mov,-,nclc,nclc,15015,24030013,9504,144,66.000,CFR,29.970,45409768,-,-,-,-,-,-,-,-
+,04_PlayerHeroClark,044_PlayerHeroClark_RIB_F_v01.mov,1,,1,147,044,010,RIB_F,15s,,-,7,,,,147_ORL_Intros_2,04_PlayerHeroClark,\147_ORL_Intros_2\04_PlayerHeroClark\044_PlayerHeroClark_RIB_F_v01.mov,-,nclc,nclc,15015,17281187,9504,144,66.000,CFR,29.970,35400896,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,05_PlayerHeroEnnis,054_PlayerHeroEnnis_RIB_F_v01.mov,1,,1,147,054,010,RIB_F,15s,,-,6,,,,147_ORL_Intros_2,05_PlayerHeroEnnis,\147_ORL_Intros_2\05_PlayerHeroEnnis\054_PlayerHeroEnnis_RIB_F_v01.mov,-,nclc,nclc,15015,17141738,9504,144,66.000,CFR,29.970,32480112,-,-,-,-,-,-,-,-
+,06_PlayerHeroFournier,064_PlayerHeroFournier_RIB_F_v01.mov,1,,1,147,064,010,RIB_F,15s,,-,5,,,,147_ORL_Intros_2,06_PlayerHeroFournier,\147_ORL_Intros_2\06_PlayerHeroFournier\064_PlayerHeroFournier_RIB_F_v01.mov,-,nclc,nclc,15015,18417226,9504,144,66.000,CFR,29.970,34875270,-,-,-,-,-,-,-,-
+,07_PlayerHeroFrazier,074_PlayerHeroFrazier_RIB_F_v01.mov,1,,1,147,074,010,RIB_F,15s,,-,13,,,,147_ORL_Intros_2,07_PlayerHeroFrazier,\147_ORL_Intros_2\07_PlayerHeroFrazier\074_PlayerHeroFrazier_RIB_F_v01.mov,-,nclc,nclc,15015,20312820,9504,144,66.000,CFR,29.970,38433062,-,-,-,-,-,-,-,-
+,08_PlayerHeroFultz,084_PlayerHeroFultz_RIB_F_v01.mov,1,,1,147,084,010,RIB_F,15s,,-,9,,,,147_ORL_Intros_2,08_PlayerHeroFultz,\147_ORL_Intros_2\08_PlayerHeroFultz\084_PlayerHeroFultz_RIB_F_v01.mov,-,nclc,nclc,15015,18351418,9504,144,66.000,CFR,29.970,34751750,-,-,-,-,-,-,-,-
+,09_PlayerHeroGordon,094_PlayerHeroGordon_RIB_F_v01.mov,1,,1,147,094,010,RIB_F,15s,,-,1,,,,147_ORL_Intros_2,09_PlayerHeroGordon,\147_ORL_Intros_2\09_PlayerHeroGordon\094_PlayerHeroGordon_RIB_F_v01.mov,-,nclc,nclc,15015,19938687,9504,144,66.000,CFR,29.970,37729243,-,-,-,-,-,-,-,-
+,10_PlayerHeroIwundu,104_PlayerHeroIwundu_RIB_F_v01.mov,1,,1,147,104,010,RIB_F,15s,,-,11,,,,147_ORL_Intros_2,10_PlayerHeroIwundu,\147_ORL_Intros_2\10_PlayerHeroIwundu\104_PlayerHeroIwundu_RIB_F_v01.mov,-,nclc,nclc,15015,18592865,9504,144,66.000,CFR,29.970,35204919,-,-,-,-,-,-,-,-
+,11_PlayerHeroJohnson,,,,,,,,,,,-,,,,,147_ORL_Intros_2,11_PlayerHeroJohnson,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,12_PlayerHeroLaw,,,,,,,,,,,-,,,,,147_ORL_Intros_2,12_PlayerHeroLaw,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,13_PlayerHeroRoss,134_PlayerHeroRoss_RIB_F_v01.mov,1,,1,147,134,010,RIB_F,15s,,-,12,,,,147_ORL_Intros_2,13_PlayerHeroRoss,\147_ORL_Intros_2\13_PlayerHeroRoss\134_PlayerHeroRoss_RIB_F_v01.mov,-,nclc,nclc,15015,18555118,9504,144,66.000,CFR,29.970,37793110,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,14_PlayerHeroVucevic,144_PlayerHeroVucevic_RIB_F_v01.mov,1,,1,147,144,010,RIB_F,15s,,-,4,,,,147_ORL_Intros_2,14_PlayerHeroVucevic,\147_ORL_Intros_2\14_PlayerHeroVucevic\144_PlayerHeroVucevic_RIB_F_v01.mov,-,nclc,nclc,15015,19319384,9504,144,66.000,CFR,29.970,36568501,-,-,-,-,-,-,-,-
+148_ORL_Intros_3,,,,,,,,,,,,-,,,,,148_ORL_Intros_3,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+149_ORL_CRN_ROTATE,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,149_ORL_CRN_ROTATE,14_PlayerHeroVucevic,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

@@ -1,0 +1,260 @@
+HOUSTON ROCKETS Media Delivery,,SYNC ACTIVE,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,CFD,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+050_HOU_PCC,00_LGR_BlueBall,004_LGR_BlueBall_RIB_F_v01.mov,1,,1,050,004,010,RIB_F,3.47s,?,-,33,,"Audio from MC, use on offense, etc ",,050_HOU_PCC,00_LGR_BlueBall,\050_HOU_PCC\00_LGR_BlueBall\004_LGR_BlueBall_RIB_F_v01.mov,-,nclc,nclc,3471,329947840,9504,144,66.000,CFR,29.970,143122026,-,-,-,-,-,-,-,-
+,01_LGR_BlueTiles,014_LGR_BlueTiles_RIB_F_v01.mov,1,,1,050,014,010,RIB_F,20.03s,,-,34,,,,050_HOU_PCC,01_LGR_BlueTiles,\050_HOU_PCC\01_LGR_BlueTiles\014_LGR_BlueTiles_RIB_F_v01.mov,-,nclc,nclc,20054,263018828,9504,144,66.000,CFR,29.970,659307768,-,-,-,-,-,-,-,-
+,02_LGR_Energy,024_LGR_Energy_RIB_F_v01.mov,1,,1,050,024,010,RIB_F,,,-F,35,,,,050_HOU_PCC,02_LGR_Energy,\050_HOU_PCC\02_LGR_Energy\024_LGR_Energy_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,03_LGR_Gold,034_LGR_Gold_RIB_F_v01.mov,1,,1,050,034,010,RIB_F,3.47s,,-,36,,,,050_HOU_PCC,03_LGR_Gold,\050_HOU_PCC\03_LGR_Gold\034_LGR_Gold_RIB_F_v01.mov,-,nclc,nclc,3471,255785478,9504,144,66.000,CFR,29.970,110952833,-,-,-,-,-,-,-,-
+,04_LGR_Paint,044_LGR_Paint_RIB_F_v01.mov,1,,1,050,044,010,RIB_F,,,-F,37,,,,050_HOU_PCC,04_LGR_Paint,\050_HOU_PCC\04_LGR_Paint\044_LGR_Paint_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,05_LGR_Signs,054_LGR_Signs_RIB_F_v01.mov,1,,1,050,054,010,RIB_F,20.03s,,-,38,,,,050_HOU_PCC,05_LGR_Signs,\050_HOU_PCC\05_LGR_Signs\054_LGR_Signs_RIB_F_v01.mov,-,nclc,nclc,20054,170754954,9504,144,66.000,CFR,29.970,428032423,-,-,-,-,-,-,-,-
+,06_Defense_Doors,064_Defense_Doors_RIB_F_v01.mov,1,,1,050,064,010,RIB_F,,,-F,41,,,,050_HOU_PCC,06_Defense_Doors,\050_HOU_PCC\06_Defense_Doors\064_Defense_Doors_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,07_Defense_Terminator,074_Defense_Terminator_RIB_F_v01.mov,1,,1,050,074,010,RIB_F,,,-F,42,,,,050_HOU_PCC,07_Defense_Terminator,\050_HOU_PCC\07_Defense_Terminator\074_Defense_Terminator_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,08_Defense_R,084_Defense_R_RIB_F_v00.mov,0,,,050,084,010,RIB_F,12.03s,,-,43,,,,050_HOU_PCC,08_Defense_R,\050_HOU_PCC\08_Defense_R\084_Defense_R_RIB_F_v00.mov,-,nclc,nclc,12046,232088541,9504,144,66.000,CFR,29.970,349452860,-,-,-,-,-,-,-,-
+,09_Defense_Fence,094_Defense_Fence_RIB_F_v01.mov,1,,1,050,094,010,RIB_F,10.23s,,-,44,,,,050_HOU_PCC,09_Defense_Fence,\050_HOU_PCC\09_Defense_Fence\094_Defense_Fence_RIB_F_v01.mov,-,nclc,nclc,10244,147677403,9504,144,66.000,CFR,29.970,189096237,-,-,-,-,-,-,-,-
+,10_Defense_Neon,104_Defense_Neon_RIB_F_v01.mov,1,,1,050,104,010,RIB_F,2s,,-,,,,,050_HOU_PCC,10_Defense_Neon,\050_HOU_PCC\10_Defense_Neon\104_Defense_Neon_RIB_F_v01.mov,-,nclc,nclc,2002,181195479,9504,144,66.000,CFR,29.970,45345382,-,-,-,-,-,-,-,-
+,11_RocketsBall,114_RocketsBall_RIB_F_v01.mov,1,,1,050,114,010,RIB_F,10.27s,,-,19,,,,050_HOU_PCC,11_RocketsBall,\050_HOU_PCC\11_RocketsBall\114_RocketsBall_RIB_F_v01.mov,-,nclc,nclc,10277,236638079,9504,144,66.000,CFR,29.970,303992664,-,-,-,-,-,-,-,-
+,12_RocketsWin,121_RocketsWin_AUD_F_v01.mov,1,,1,050,121,001,AUD_F,20.03s,,-,,,,,050_HOU_PCC,12_RocketsWin,\050_HOU_PCC\12_RocketsWin\121_RocketsWin_AUD_F_v01.mov,-,nclc,nclc,20054,3947874174,10160,1600,6.350,CFR,29.970,9896038830,-,-,-,-,-,-,-,-
+,,124_RocketsWin_RIB_F_v01.mov,1,Check Naming - MH,99,050,124,010,RIB_F,20s,,-,,This note is 5 days old -cd jul22,,,050_HOU_PCC,12_RocketsWin,\050_HOU_PCC\12_RocketsWin\124_RocketsWin_RIB_F_v01.mov,-,nclc,nclc,20020,361875680,9504,144,66.000,CFR,29.970,905600271,-,-,-,-,-,-,-,-
+,,128_RocketsWin_SCB_v01.mov,1,Check Naming - MH,99,050,128,017,SCB,20s,,-,,This note is 5 days old -cd jul22,,,050_HOU_PCC,12_RocketsWin,\050_HOU_PCC\12_RocketsWin\128_RocketsWin_SCB_v01.mov,-,nclc,nclc,20020,533808410,1920,1080,1.778,CFR,29.970,1335862379,-,-,-,-,-,-,-,-
+,13_Defense_Chains,134_Defense_Chains_RIB_F_v01.mov,1,,1,050,134,010,RIB_F,2.1s,,-,,,,,050_HOU_PCC,13_Defense_Chains,\050_HOU_PCC\13_Defense_Chains\134_Defense_Chains_RIB_F_v01.mov,-,nclc,nclc,2103,209607775,9504,144,66.000,CFR,29.970,55078298,-,-,-,-,-,-,-,-
+051_HOU_FERA,00_RedRowdies_Defense01,000_RedRowdies_Defense01_AUDIO_v00.mov,0,Kill audio - MH ,,051,000,024,AUDIO,,,-F,45,Check S3 for RIBBONS,This whole category needs RIB content paired up with it ,,051_HOU_FERA,00_RedRowdies_Defense01,\051_HOU_FERA\00_RedRowdies_Defense01\000_RedRowdies_Defense01_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,001_RedRowdies_Defense01_AUD_F_v00.mov,0,Check video file for bad frames? - CD,,051,001,001,AUD_F,,,-F,45,This file may be bad? Need to double check.,,,051_HOU_FERA,00_RedRowdies_Defense01,\051_HOU_FERA\00_RedRowdies_Defense01\001_RedRowdies_Defense01_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,01_RedRowdies_Defense02,010_RedRowdies_Defense02_AUDIO_v00.mov,0,To Be Deleted - MH,,051,010,024,AUDIO,,,-F,46,Check S3 for RIBBONS,,,051_HOU_FERA,01_RedRowdies_Defense02,\051_HOU_FERA\01_RedRowdies_Defense02\010_RedRowdies_Defense02_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,011_RedRowdies_Defense02_AUD_F_v00.mov,0,,,051,011,001,AUD_F,,,-F,46,This file may be bad? Need to double check.,,,051_HOU_FERA,01_RedRowdies_Defense02,\051_HOU_FERA\01_RedRowdies_Defense02\011_RedRowdies_Defense02_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,02_RedRowdies_LGR01,020_RedRowdies_LGR01_AUDIO_v00.mov,0,To Be Deleted - MH ,,051,020,024,AUDIO,,,-F,39,Check S3 for RIBBONS,,,051_HOU_FERA,02_RedRowdies_LGR01,\051_HOU_FERA\02_RedRowdies_LGR01\020_RedRowdies_LGR01_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,021_RedRowdies_LGR01_AUD_F_v00.mov,0,Please redeliver - MH,,051,021,001,AUD_F,,,-F,39,This file may be bad? Need to double check.,,,051_HOU_FERA,02_RedRowdies_LGR01,\051_HOU_FERA\02_RedRowdies_LGR01\021_RedRowdies_LGR01_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,03_RedRowdies_LGR02,030_RedRowdies_LGR02_AUDIO_v00.mov,0,To Be Deleted - MH ,,051,030,024,AUDIO,,,-F,40,Check S3 for RIBBONS,,,051_HOU_FERA,03_RedRowdies_LGR02,\051_HOU_FERA\03_RedRowdies_LGR02\030_RedRowdies_LGR02_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,031_RedRowdies_LGR02_AUD_F_v01.mov,1,,,051,031,001,AUD_F,,,-U,40,This file may be bad? Need to double check.,,7/21/2020 15:05:51,051_HOU_FERA,03_RedRowdies_LGR02,\051_HOU_FERA\03_RedRowdies_LGR02\031_RedRowdies_LGR02_AUD_F_v01.mov,-U,-,-,-,-,-,-,-,-,-,4834779136,-,-,-,-,-,-,-,-
+,04_RedRowdies_HR,041_RedRowdies_HR_AUD_F_v00.mov,0,Check video file for bad frames? - CD,,051,041,001,AUD_F,,,-F,,,,,051_HOU_FERA,04_RedRowdies_HR,\051_HOU_FERA\04_RedRowdies_HR\041_RedRowdies_HR_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,05_CrowdCheer03,051_CrowdCheer03_AUD_F_v00.mov,0,,,051,051,001,AUD_F,9.27s,,-,54,,,,051_HOU_FERA,05_CrowdCheer03,\051_HOU_FERA\05_CrowdCheer03\051_CrowdCheer03_AUD_F_v00.mov,-,nclc,nclc,9276,3689086853,10160,1600,6.350,CFR,29.970,4277472641,-,-,-,-,-,-,-,-
+,06_RedRowdies_CheerBIG,061_RedRowdies_CheerBIG_AUD_F_v00.mov,0,,,051,061,001,AUD_F,,,-F,56,,,,051_HOU_FERA,06_RedRowdies_CheerBIG,\051_HOU_FERA\06_RedRowdies_CheerBIG\061_RedRowdies_CheerBIG_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,07_RedRowdies_CheerMID,071_RedRowdies_CheerMID_AUD_F_v00.mov,0,,,051,071,001,AUD_F,,,-F,55,,,,051_HOU_FERA,07_RedRowdies_CheerMID,\051_HOU_FERA\07_RedRowdies_CheerMID\071_RedRowdies_CheerMID_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,08_CrowdCheer02,081_CrowdCheer02_AUD_F_v00.mov,0,,,051,081,001,AUD_F,6.47s,,-,53,,,,051_HOU_FERA,08_CrowdCheer02,\051_HOU_FERA\08_CrowdCheer02\081_CrowdCheer02_AUD_F_v00.mov,-,nclc,nclc,6474,2709940182,10160,1600,6.350,CFR,29.970,2192729936,-,-,-,-,-,-,-,-
+,09_CrowdCheer01,091_CrowdCheer01_AUD_F_v00.mov,0,,,051,091,001,AUD_F,6.47s,,-,,,,,051_HOU_FERA,09_CrowdCheer01,\051_HOU_FERA\09_CrowdCheer01\091_CrowdCheer01_AUD_F_v00.mov,-,nclc,nclc,6474,4362532715,10160,1600,6.350,CFR,29.970,3529912750,-,-,-,-,-,-,-,-
+,10_ClutchCityDancers_LGR01,100_ClutchCityDancers_LGR01_AUDIO_v01.mov,1,,,051,100,024,AUDIO,,,-F,,,Useful for timeouts ,,051_HOU_FERA,10_ClutchCityDancers_LGR01,\051_HOU_FERA\10_ClutchCityDancers_LGR01\100_ClutchCityDancers_LGR01_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,101_ClutchCityDancers_LGR01_AUD_F_v00.mov,0,,,051,101,001,AUD_F,,,-F,,,,,051_HOU_FERA,10_ClutchCityDancers_LGR01,\051_HOU_FERA\10_ClutchCityDancers_LGR01\101_ClutchCityDancers_LGR01_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,11_ClutchCityDancers_Defense01,110_ClutchCityDancers_Defense01_AUDIO_v00.mov,0,,,051,110,024,AUDIO,,,-F,47,,,,051_HOU_FERA,11_ClutchCityDancers_Defense01,\051_HOU_FERA\11_ClutchCityDancers_Defense01\110_ClutchCityDancers_Defense01_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,111_ClutchCityDancers_Defense01_AUD_F_v00.mov,0,,,051,111,001,AUD_F,,,-F,47,,,,051_HOU_FERA,11_ClutchCityDancers_Defense01,\051_HOU_FERA\11_ClutchCityDancers_Defense01\111_ClutchCityDancers_Defense01_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,12_ClutchCityDancers_Defense02,120_ClutchCityDancers_Defense02_AUDIO_v00.mov,0,,,051,120,024,AUDIO,,,-F,,,,,051_HOU_FERA,12_ClutchCityDancers_Defense02,\051_HOU_FERA\12_ClutchCityDancers_Defense02\120_ClutchCityDancers_Defense02_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,121_ClutchCityDancers_Defense02_AUD_F_v00.mov,0,,,051,121,001,AUD_F,,,-F,,,,,051_HOU_FERA,12_ClutchCityDancers_Defense02,\051_HOU_FERA\12_ClutchCityDancers_Defense02\121_ClutchCityDancers_Defense02_AUD_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,13_ClutchMascot_Defense,131_ClutchMascot_Defense_AUD_F_v00.mov,0,,,051,131,001,AUD_F,7.47s,,-,48,,,,051_HOU_FERA,13_ClutchMascot_Defense,\051_HOU_FERA\13_ClutchMascot_Defense\131_ClutchMascot_Defense_AUD_F_v00.mov,-,nclc,nclc,7475,3341828102,10160,1600,6.350,CFR,29.970,3122164192,-,-,-,-,-,-,-,-
+052_HOU_Image_1,00_LogoLoop_OneMission,001_LogoLoop_OneMission_AUD_F_v00.mov,0,,,052,001,001,AUD_F,28.03s,,-,18,,"Generic screensaver, Warm ups , half-time, etc ",,052_HOU_Image_1,00_LogoLoop_OneMission,\052_HOU_Image_1\00_LogoLoop_OneMission\001_LogoLoop_OneMission_AUD_F_v00.mov,-,nclc,nclc,28062,2606527227,10160,1600,6.350,CFR,29.970,9147853796,PCM,Little / Signed,sowt,28062,2,L R,44100,16
+,,004_LogoLoop_OneMission_RIB_F_v01.mov,1,,,052,004,010,RIB_F,,,-F,18,,,,052_HOU_Image_1,00_LogoLoop_OneMission,\052_HOU_Image_1\00_LogoLoop_OneMission\004_LogoLoop_OneMission_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_LogoLoop_OneMission_SCB_v00.mov,0,,,052,008,017,SCB,28.03s,,-,18,,,,052_HOU_Image_1,00_LogoLoop_OneMission,\052_HOU_Image_1\00_LogoLoop_OneMission\008_LogoLoop_OneMission_SCB_v00.mov,-,nclc,nclc,28062,259121500,1920,1080,1.778,CFR,29.970,913921966,PCM,Little / Signed,sowt,28062,2,L R,44100,16
+,01_LogoLoop_Wordmark,011_LogoLoop_Wordmark_AUD_F_v00.mov,0,,,052,011,001,AUD_F,20.03s,,-,64,,,,052_HOU_Image_1,01_LogoLoop_Wordmark,\052_HOU_Image_1\01_LogoLoop_Wordmark\011_LogoLoop_Wordmark_AUD_F_v00.mov,-,nclc,nclc,20054,224118657,10160,1600,6.350,CFR,29.970,565377966,PCM,Little / Signed,sowt,20054,2,L R,44100,16
+,,014_LogoLoop_Wordmark_RIB_F_v00.mov,0,Check for update - V1 - MH,,052,014,010,RIB_F,,,-F,64,,,,052_HOU_Image_1,01_LogoLoop_Wordmark,\052_HOU_Image_1\01_LogoLoop_Wordmark\014_LogoLoop_Wordmark_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,02_Logo_OneMissionSTILL,021_Logo_OneMission_AUD_F_v01.mov,1,,,052,021,001,AUD_F,0.03s,,-,,,Static of above ,,052_HOU_Image_1,02_Logo_OneMissionSTILL,\052_HOU_Image_1\02_Logo_OneMissionSTILL\021_Logo_OneMission_AUD_F_v01.mov,-,nclc,nclc,34,1660150028,10160,1600,6.350,CFR,29.970,6924896,-,-,-,-,-,-,-,-
+,,024_Logo_OneMission_RIB_F_v01.mov,1,,,052,024,010,RIB_F,0.03s,,-,,,,,052_HOU_Image_1,02_Logo_OneMissionSTILL,\052_HOU_Image_1\02_Logo_OneMissionSTILL\024_Logo_OneMission_RIB_F_v01.mov,-,nclc,nclc,34,183817039,9504,144,66.000,CFR,29.970,767351,-,-,-,-,-,-,-,-
+,,028_Logo_OneMission_SCB_v00.mov,0,,,052,028,017,SCB,,,-F,,,,,052_HOU_Image_1,02_Logo_OneMissionSTILL,\052_HOU_Image_1\02_Logo_OneMissionSTILL\028_Logo_OneMission_SCB_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+053_HOU_Image_2,,,,,,,,,,,,-,,,,,053_HOU_Image_2,02_Logo_OneMissionSTILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+054_HOU_Video,00_Intro_OneMission,000_Intro_OneMission_AUDIO_v00.mov,0,Wrong audio sampling rate -jg,,054,000,024,AUDIO,,,-F,,,,,054_HOU_Video,00_Intro_OneMission,\054_HOU_Video\00_Intro_OneMission\000_Intro_OneMission_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,001_Intro_OneMission_AUD_F_v00.mov,0,,,054,001,001,AUD_F,1m14.9s,,-,,,,,054_HOU_Video,00_Intro_OneMission,\054_HOU_Video\00_Intro_OneMission\001_Intro_OneMission_AUD_F_v00.mov,-,nclc,nclc,74975,2471441471,10160,1600,6.350,CFR,29.970,23162060469,-,-,-,-,-,-,-,-
+,,004_Intro_OneMission_RIB_F_v00.mov,0,,,054,004,010,RIB_F,1m14.9s,,-,,,,,054_HOU_Video,00_Intro_OneMission,\054_HOU_Video\00_Intro_OneMission\004_Intro_OneMission_RIB_F_v00.mov,-,nclc,nclc,74975,256740676,9504,144,66.000,CFR,29.970,2406159342,-,-,-,-,-,-,-,-
+,,008_Intro_OneMission_SCB_v00.mov,0,,,054,008,017,SCB,3m3.27s,,-,,,,,054_HOU_Video,00_Intro_OneMission,\054_HOU_Video\00_Intro_OneMission\008_Intro_OneMission_SCB_v00.mov,-,nclc,nclc,183450,398807546,1920,1080,1.778,CFR,29.970,9179860168,PCM,Little / Signed,sowt,183450,2,L R,44100,16
+,01_TScottHype,010_TScottHype_AUDIO_v00.mov,0,,,054,010,024,AUDIO,,,-F,,,Only hype pumper - 4th QR lead in ,,054_HOU_Video,01_TScottHype,\054_HOU_Video\01_TScottHype\010_TScottHype_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,014_TScottHype_RIB_F_v00.mov,0,,,054,014,010,RIB_F,13.13s,,-,,,,,054_HOU_Video,01_TScottHype,\054_HOU_Video\01_TScottHype\014_TScottHype_RIB_F_v00.mov,-,nclc,nclc,13147,241799414,9504,144,66.000,CFR,29.970,397355254,-,-,-,-,-,-,-,-
+,,018_TScottHype_SCB_v00.mov,0,,,054,018,017,SCB,1m10.43s,,-,,,,,054_HOU_Video,01_TScottHype,\054_HOU_Video\01_TScottHype\018_TScottHype_SCB_v00.mov,-,nclc,nclc,70504,413734628,1920,1080,1.778,CFR,29.970,3660111477,PCM,Little / Signed,sowt,70504,2,L R,48000,16
+055_HOU_Misc,00_Harden_Beard,004_Harden_Beard_RIB_F_v01.mov,1,,,055,004,010,RIB_F,20.03s,,-,8,,Player Prompts below for in Game ,7/21/2020 15:18:36,055_HOU_Misc,00_Harden_Beard,\055_HOU_Misc\00_Harden_Beard\004_Harden_Beard_RIB_F_v01.mov,-,nclc,nclc,20054,100653402,9504,144,66.000,CFR,29.970,252309452,-,-,-,-,-,-,-,-
+,01_Harden_MVB,014_Harden_MVB_RIB_F_v01.mov,1,,,055,014,010,RIB_F,7.03s,,-,20,,,7/21/2020 16:29:36,055_HOU_Misc,01_Harden_MVB,\055_HOU_Misc\01_Harden_MVB\014_Harden_MVB_RIB_F_v01.mov,-,nclc,nclc,7041,327852623,9504,144,66.000,CFR,29.970,288527987,-,-,-,-,-,-,-,-
+,02_Harden_Schwag,024_Harden_Schwag_RIB_F_v01.mov,1,,,055,024,010,RIB_F,3.57s,,-,21,,,7/21/2020 17:02:41,055_HOU_Misc,02_Harden_Schwag,\055_HOU_Misc\02_Harden_Schwag\024_Harden_Schwag_RIB_F_v01.mov,-,nclc,nclc,3571,265870749,9504,144,66.000,CFR,29.970,118654267,-,-,-,-,-,-,-,-
+,03_Harden_Dimes,034_Harden_Dimes_RIB_F_v01.mov,1,,,055,034,010,RIB_F,8.73s,,-,,,,7/21/2020 17:03:04,055_HOU_Misc,03_Harden_Dimes,\055_HOU_Misc\03_Harden_Dimes\034_Harden_Dimes_RIB_F_v01.mov,-,nclc,nclc,8743,152854660,9504,144,66.000,CFR,29.970,167036063,-,-,-,-,-,-,-,-
+,04_Gordon_Flash,044_Gordon_Flash_RIB_F_v02.mov,2,,,055,044,010,RIB_F,5.53s,,-,6,,,7/21/2020 17:03:18,055_HOU_Misc,04_Gordon_Flash,\055_HOU_Misc\04_Gordon_Flash\044_Gordon_Flash_RIB_F_v02.mov,-,nclc,nclc,5539,215106682,9504,144,66.000,CFR,29.970,148933057,-,-,-,-,-,-,-,-
+,05_Gordon_Splash,054_Gordon_Splash_RIB_F_v01.mov,1,,,055,054,010,RIB_F,6.1s,,-,24,,,7/21/2020 17:04:20,055_HOU_Misc,05_Gordon_Splash,\055_HOU_Misc\05_Gordon_Splash\054_Gordon_Splash_RIB_F_v01.mov,-,nclc,nclc,6107,90968314,9504,144,66.000,CFR,29.970,69434732,-,-,-,-,-,-,-,-
+,06_Gordon_Paint,064_Gordon_Paint_RIB_F_v01.mov,1,,,055,064,010,RIB_F,4.17s,,-,,,,7/21/2020 17:06:08,055_HOU_Misc,06_Gordon_Paint,\055_HOU_Misc\06_Gordon_Paint\064_Gordon_Paint_RIB_F_v01.mov,-,nclc,nclc,4171,114093575,9504,144,66.000,CFR,29.970,59484856,-,-,-,-,-,-,-,-
+,07_House_Arrow,074_House_Arrow_RIB_F_v01.mov,1,,,055,074,010,RIB_F,4s,,-,3,,,7/21/2020 17:07:30,055_HOU_Misc,07_House_Arrow,\055_HOU_Misc\07_House_Arrow\074_House_Arrow_RIB_F_v01.mov,-,nclc,nclc,4004,231808827,9504,144,66.000,CFR,29.970,116022070,-,-,-,-,-,-,-,-
+,08_Covington_RoCo,084_Covington_RoCo_RIB_F_v01.mov,1,,,055,084,010,RIB_F,5.53s,,-,15,,,7/21/2020 17:12:14,055_HOU_Misc,08_Covington_RoCo,\055_HOU_Misc\08_Covington_RoCo\084_Covington_RoCo_RIB_F_v01.mov,-,nclc,nclc,5539,355662711,9504,144,66.000,CFR,29.970,246248292,-,-,-,-,-,-,-,-
+,09_Covington_Lord,094_Covington_Lord_RIB_F_v01.mov,1,,,055,094,010,RIB_F,5s,,-,,,,7/21/2020 17:18:50,055_HOU_Misc,09_Covington_Lord,\055_HOU_Misc\09_Covington_Lord\094_Covington_Lord_RIB_F_v01.mov,-,nclc,nclc,5005,260432521,9504,144,66.000,CFR,29.970,162935135,-,-,-,-,-,-,-,-
+,10_McLemore_Ice,104_McLemore_Ice_RIB_F_v01.mov,1,,,055,104,010,RIB_F,6.03s,,-,9,,,7/21/2020 17:18:57,055_HOU_Misc,10_McLemore_Ice,\055_HOU_Misc\10_McLemore_Ice\104_McLemore_Ice_RIB_F_v01.mov,-,nclc,nclc,6040,280582269,9504,144,66.000,CFR,29.970,211819736,-,-,-,-,-,-,-,-
+,11_Westbrook_TheBrodie,114_Westbrook_TheBrodie_RIB_F_v01.mov,1,,,055,114,010,RIB_F,5.2s,,-,1,,,,055_HOU_Misc,11_Westbrook_TheBrodie,\055_HOU_Misc\11_Westbrook_TheBrodie\114_Westbrook_TheBrodie_RIB_F_v01.mov,-,nclc,nclc,5206,337220795,9504,144,66.000,CFR,29.970,220414751,PCM,Little / Signed,sowt,5206,2,L R,48000,16
+,12_Westbrook_Psycho,124_Westbrook_Psycho_RIB_F_v00.mov,0,,,055,124,010,RIB_F,,,-F,22,,,,055_HOU_Misc,12_Westbrook_Psycho,\055_HOU_Misc\12_Westbrook_Psycho\124_Westbrook_Psycho_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,13_Westbrook_Cradle,134_Westbrook_Cradle_RIB_F_v00.mov,0,,,055,134,010,RIB_F,6.03s,,-,,,,,055_HOU_Misc,13_Westbrook_Cradle,\055_HOU_Misc\13_Westbrook_Cradle\134_Westbrook_Cradle_RIB_F_v00.mov,-,nclc,nclc,6040,223226123,9504,144,66.000,CFR,29.970,168520315,-,-,-,-,-,-,-,-
+,14_Westbrook_WhyNot,144_Westbrook_WhyNot_RIB_F_v00.mov,0,,,055,144,010,RIB_F,,,-F,23,,,,055_HOU_Misc,14_Westbrook_WhyNot,\055_HOU_Misc\14_Westbrook_WhyNot\144_Westbrook_WhyNot_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,15_Tucker_Hologram,154_Tucker_Hologram_RIB_F_v00.mov,0,,,055,154,010,RIB_F,,,-F,,,,,055_HOU_Misc,15_Tucker_Hologram,\055_HOU_Misc\15_Tucker_Hologram\154_Tucker_Hologram_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,16_Tucker_Corner,164_Tucker_Corner_RIB_F_v00.mov,0,,,055,164,010,RIB_F,,,-F,10,,Specific Corner 3ptr,,055_HOU_Misc,16_Tucker_Corner,\055_HOU_Misc\16_Tucker_Corner\164_Tucker_Corner_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,17_Rivers_Waves,174_Rivers_Waves_RIB_F_v00.mov,0,,,055,174,010,RIB_F,,,-F,13,,,,055_HOU_Misc,17_Rivers_Waves,\055_HOU_Misc\17_Rivers_Waves\174_Rivers_Waves_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,18_Rockets_Energy01,184_Rockets_Energy01_RIB_F_v01.mov,1,"Bad file not playing, 0 frames -CD",,055,184,010,RIB_F,,,-F,29,,Energy into a time out - RIB only ,,055_HOU_Misc,18_Rockets_Energy01,\055_HOU_Misc\18_Rockets_Energy01\184_Rockets_Energy01_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,,,,,,,,,,,-,,,,,055_HOU_Misc,18_Rockets_Energy01,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,19_Rockets_Energy02,194_Rockets_Energy02_RIB_F_v01.mov,1,"Bad file not playing, 0 frames -CD",,055,194,010,RIB_F,,,-F,30,,,,055_HOU_Misc,19_Rockets_Energy02,\055_HOU_Misc\19_Rockets_Energy02\194_Rockets_Energy02_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,,,,,,,,,,,-,,,,,055_HOU_Misc,19_Rockets_Energy02,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,20_Rockets_Energy03,204_Rockets_Energy03_RIB_F_v01.mov,1,"Bad file not playing, 0 frames -CD",,055,204,010,RIB_F,,,-F,31,,,,055_HOU_Misc,20_Rockets_Energy03,\055_HOU_Misc\20_Rockets_Energy03\204_Rockets_Energy03_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,,,,,,,,,,,-,,,,,055_HOU_Misc,20_Rockets_Energy03,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,21_Rockets_Energy04,214_Rockets_Energy04_RIB_F_v00.mov,0,"Bad file not playing, 0 frames -CD",,055,214,010,RIB_F,,,-F,32,This is an old version not a new file,,,055_HOU_Misc,21_Rockets_Energy04,\055_HOU_Misc\21_Rockets_Energy04\214_Rockets_Energy04_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,214_Rockets_Energy04_RIB_F_v01.mov,1,,,055,214,010,RIB_F,,,-F,,,,,055_HOU_Misc,21_Rockets_Energy04,\055_HOU_Misc\21_Rockets_Energy04\214_Rockets_Energy04_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+056_HOU_Intros_1,00_Carroll,001_Lineups_Carroll_AUD_F_v00.mov,0,,,056,001,001,AUD_F,16.07s,,-,,,"Intros, using PA announcer ",,056_HOU_Intros_1,00_Carroll,\056_HOU_Intros_1\00_Carroll\001_Lineups_Carroll_AUD_F_v00.mov,-,nclc,nclc,16083,2144680778,10160,1600,6.350,CFR,29.970,4311551902,-,-,-,-,-,-,-,-
+,,004_Lineups_Carroll_RIB_F_v01.mov,1,,,056,004,010,RIB_F,8.03s,,-,5,,,,056_HOU_Intros_1,00_Carroll,\056_HOU_Intros_1\00_Carroll\004_Lineups_Carroll_RIB_F_v01.mov,-,nclc,nclc,8042,268741150,9504,144,66.000,CFR,29.970,270133648,-,-,-,-,-,-,-,-
+,,008_Lineups_Carroll_SCB_v00.mov,0,,,056,008,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,00_Carroll,\056_HOU_Intros_1\00_Carroll\008_Lineups_Carroll_SCB_v00.mov,-,nclc,nclc,16083,339128171,1920,1080,1.778,CFR,29.970,689946498,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,01_Chandler,011_Lineups_Chandler_AUD_F_v00.mov,0,,,056,011,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,01_Chandler,\056_HOU_Intros_1\01_Chandler\011_Lineups_Chandler_AUD_F_v00.mov,-,nclc,nclc,16083,1266154552,10160,1600,6.350,CFR,29.970,2553439472,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,014_Lineups_Chandler_RIB_F_v01.mov,1,,,056,014,010,RIB_F,8.03s,,-,12,,,,056_HOU_Intros_1,01_Chandler,\056_HOU_Intros_1\01_Chandler\014_Lineups_Chandler_RIB_F_v01.mov,-,nclc,nclc,8042,260700961,9504,144,66.000,CFR,29.970,262051876,-,-,-,-,-,-,-,-
+,,018_Lineups_Chandler_SCB_v00.mov,0,,,056,018,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,01_Chandler,\056_HOU_Intros_1\01_Chandler\018_Lineups_Chandler_SCB_v00.mov,-,nclc,nclc,16083,179102976,1920,1080,1.778,CFR,29.970,360063115,-,-,-,-,-,-,-,-
+,02_Clemons,021_Lineups_Clemons_AUD_F_v00.mov,0,,,056,021,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,02_Clemons,\056_HOU_Intros_1\02_Clemons\021_Lineups_Clemons_AUD_F_v00.mov,-,nclc,nclc,16083,1266154552,10160,1600,6.350,CFR,29.970,2553439472,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,024_Lineups_Clemons_RIB_F_v01.mov,1,,,056,024,010,RIB_F,8.03s,,-,2,,,,056_HOU_Intros_1,02_Clemons,\056_HOU_Intros_1\02_Clemons\024_Lineups_Clemons_RIB_F_v01.mov,-,nclc,nclc,8042,259951529,9504,144,66.000,CFR,29.970,261298568,-,-,-,-,-,-,-,-
+,,028_Lineups_Clemons_SCB_v00.mov,0,,,056,028,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,02_Clemons,\056_HOU_Intros_1\02_Clemons\028_Lineups_Clemons_SCB_v00.mov,-,nclc,nclc,16083,179102976,1920,1080,1.778,CFR,29.970,360063115,-,-,-,-,-,-,-,-
+,03_Covington,031_Lineups_Covington_AUD_F_v00.mov,0,,,056,031,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,03_Covington,\056_HOU_Intros_1\03_Covington\031_Lineups_Covington_AUD_F_v00.mov,-,nclc,nclc,16083,2224835075,10160,1600,6.350,CFR,29.970,4480134459,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,034_Lineups_Covington_RIB_F_v01.mov,1,,,056,034,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,03_Covington,\056_HOU_Intros_1\03_Covington\034_Lineups_Covington_RIB_F_v01.mov,-,nclc,nclc,8042,272809170,9504,144,66.000,CFR,29.970,274222707,-,-,-,-,-,-,-,-
+,,038_Lineups_Covington_SCB_v00.mov,0,,,056,038,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,03_Covington,\056_HOU_Intros_1\03_Covington\038_Lineups_Covington_SCB_v00.mov,-,nclc,nclc,16083,389674989,1920,1080,1.778,CFR,29.970,791562975,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,04_Gordon,041_Lineups_Gordon_AUD_F_v00.mov,0,,,056,041,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,04_Gordon,\056_HOU_Intros_1\04_Gordon\041_Lineups_Gordon_AUD_F_v00.mov,-,nclc,nclc,16083,2711700257,10160,1600,6.350,CFR,29.970,5455352667,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,044_Lineups_Gordon_RIB_F_v01.mov,1,,,056,044,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,04_Gordon,\056_HOU_Intros_1\04_Gordon\044_Lineups_Gordon_RIB_F_v01.mov,-,nclc,nclc,8042,254191969,9504,144,66.000,CFR,29.970,255509221,-,-,-,-,-,-,-,-
+,,048_Lineups_Gordon_SCB_v00.mov,0,,,056,048,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,04_Gordon,\056_HOU_Intros_1\04_Gordon\048_Lineups_Gordon_SCB_v00.mov,-,nclc,nclc,16083,423049798,1920,1080,1.778,CFR,29.970,850480026,-,-,-,-,-,-,-,-
+,05_Green,051_Lineups_Green_AUD_F_v00.mov,0,,,056,051,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,05_Green,\056_HOU_Intros_1\05_Green\051_Lineups_Green_AUD_F_v00.mov,-,nclc,nclc,16083,2202852773,10160,1600,6.350,CFR,29.970,4436620940,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,054_Lineups_Green_RIB_F_v01.mov,1,,,056,054,010,RIB_F,8.03s,,-,14,,,,056_HOU_Intros_1,05_Green,\056_HOU_Intros_1\05_Green\054_Lineups_Green_RIB_F_v01.mov,-,nclc,nclc,8042,264190055,9504,144,66.000,CFR,29.970,273790603,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,,058_Lineups_Green_SCB_v00.mov,0,,,056,058,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,05_Green,\056_HOU_Intros_1\05_Green\058_Lineups_Green_SCB_v00.mov,-,nclc,nclc,16083,378308770,1920,1080,1.778,CFR,29.970,768712967,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,06_Harden,061_Lineups_Harden_AUD_F_v00.mov,0,,,056,061,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,06_Harden,\056_HOU_Intros_1\06_Harden\061_Lineups_Harden_AUD_F_v00.mov,-,nclc,nclc,16083,2827329465,10160,1600,6.350,CFR,29.970,5691355247,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,064_Lineups_Harden_RIB_F_v01.mov,1,,,056,064,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,06_Harden,\056_HOU_Intros_1\06_Harden\064_Lineups_Harden_RIB_F_v01.mov,-,nclc,nclc,8042,255079764,9504,144,66.000,CFR,29.970,256401607,-,-,-,-,-,-,-,-
+,,068_Lineups_Harden_SCB_v00.mov,0,,,056,068,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,06_Harden,\056_HOU_Intros_1\06_Harden\068_Lineups_Harden_SCB_v00.mov,-,nclc,nclc,16083,443737283,1920,1080,1.778,CFR,29.970,900246747,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,07_House,071_Lineups_House_AUD_F_v00.mov,0,,,056,071,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,07_House,\056_HOU_Intros_1\07_House\071_Lineups_House_AUD_F_v00.mov,-,nclc,nclc,16083,2773462842,10160,1600,6.350,CFR,29.970,5575619947,-,-,-,-,-,-,-,-
+,,074_Lineups_House_RIB_F_v01.mov,1,,,056,074,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,07_House,\056_HOU_Intros_1\07_House\074_Lineups_House_RIB_F_v01.mov,-,nclc,nclc,8042,257623319,9504,144,66.000,CFR,29.970,258958317,-,-,-,-,-,-,-,-
+,,078_Lineups_House_SCB_v00.mov,0,,,056,078,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,07_House,\056_HOU_Intros_1\07_House\078_Lineups_House_SCB_v00.mov,-,nclc,nclc,16083,433827727,1920,1080,1.778,CFR,29.970,872147367,-,-,-,-,-,-,-,-
+,08_McLemore,081_Lineups_McLemore_AUD_F_v00.mov,0,,,056,081,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,08_McLemore,\056_HOU_Intros_1\08_McLemore\081_Lineups_McLemore_AUD_F_v00.mov,-,nclc,nclc,16083,2776035925,10160,1600,6.350,CFR,29.970,5585400875,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,084_Lineups_McLemore_RIB_F_v00.mov,0,,,056,084,010,RIB_F,,,-F,,We have a v01 in the server,,,056_HOU_Intros_1,08_McLemore,\056_HOU_Intros_1\08_McLemore\084_Lineups_McLemore_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,088_Lineups_McLemore_SCB_v00.mov,0,,,056,088,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,08_McLemore,\056_HOU_Intros_1\08_McLemore\088_Lineups_McLemore_SCB_v00.mov,-,nclc,nclc,16083,403377903,1920,1080,1.778,CFR,29.970,819110566,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,09_Nwaba,091_Lineups_Nwaba_AUD_F_v00.mov,0,,,056,091,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,09_Nwaba,\056_HOU_Intros_1\09_Nwaba\091_Lineups_Nwaba_AUD_F_v00.mov,-,nclc,nclc,16083,1266154552,10160,1600,6.350,CFR,29.970,2553439472,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,094_Lineups_Nwaba_RIB_F_v00.mov,0,,,056,094,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,09_Nwaba,\056_HOU_Intros_1\09_Nwaba\094_Lineups_Nwaba_RIB_F_v00.mov,-,nclc,nclc,8042,217221135,9504,144,66.000,CFR,29.970,218347192,-,-,-,-,-,-,-,-
+,,098_Lineups_Nwaba_SCB_v00.mov,0,,,056,098,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,09_Nwaba,\056_HOU_Intros_1\09_Nwaba\098_Lineups_Nwaba_SCB_v00.mov,-,nclc,nclc,16083,179102976,1920,1080,1.778,CFR,29.970,360063115,-,-,-,-,-,-,-,-
+,10_Rivers,101_Lineups_Rivers_AUD_F_v00.mov,0,,,056,101,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,10_Rivers,\056_HOU_Intros_1\10_Rivers\101_Lineups_Rivers_AUD_F_v00.mov,-,nclc,nclc,16083,2858943755,10160,1600,6.350,CFR,29.970,5754960463,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,104_Lineups_Rivers_RIB_F_v01.mov,1,,,056,104,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,10_Rivers,\056_HOU_Intros_1\10_Rivers\104_Lineups_Rivers_RIB_F_v01.mov,-,nclc,nclc,8042,253053721,9504,144,66.000,CFR,29.970,254365086,-,-,-,-,-,-,-,-
+,,108_Lineups_Rivers_SCB_v00.mov,0,,,056,108,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,10_Rivers,\056_HOU_Intros_1\10_Rivers\108_Lineups_Rivers_SCB_v00.mov,-,nclc,nclc,16083,430103347,1920,1080,1.778,CFR,29.970,872837869,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,11_Tucker,111_Lineups_Tucker_AUD_F_v00.mov,0,,,056,111,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,11_Tucker,\056_HOU_Intros_1\11_Tucker\111_Lineups_Tucker_AUD_F_v00.mov,-,nclc,nclc,16083,2965417699,10160,1600,6.350,CFR,29.970,5968960055,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,114_Lineups_Tucker_RIB_F_v01.mov,1,,,056,114,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,11_Tucker,\056_HOU_Intros_1\11_Tucker\114_Lineups_Tucker_RIB_F_v01.mov,-,nclc,nclc,8042,253841426,9504,144,66.000,CFR,29.970,255156865,-,-,-,-,-,-,-,-
+,,118_Lineups_Tucker_SCB_v00.mov,0,,,056,118,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,11_Tucker,\056_HOU_Intros_1\11_Tucker\118_Lineups_Tucker_SCB_v00.mov,-,nclc,nclc,16083,451435257,1920,1080,1.778,CFR,29.970,915722365,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,12_Westbrook,124_Lineups_Westbrook_RIB_F_v01.mov,1,,,056,124,010,RIB_F,8.03s,,-,,Are we missing an AUD file for this look?,,,056_HOU_Intros_1,12_Westbrook,\056_HOU_Intros_1\12_Westbrook\124_Lineups_Westbrook_RIB_F_v01.mov,-,nclc,nclc,8042,264940119,9504,144,66.000,CFR,29.970,266312959,-,-,-,-,-,-,-,-
+,,124_Lineups_Westbrook_RIB_F_v01.mov,1,,,056,124,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,12_Westbrook,\056_HOU_Intros_1\12_Westbrook\124_Lineups_Westbrook_RIB_F_v01.mov,-,nclc,nclc,8042,264940119,9504,144,66.000,CFR,29.970,266312959,-,-,-,-,-,-,-,-
+,,128_Lineups_Westbrook_SCB_v00.mov,0,,,056,128,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,12_Westbrook,\056_HOU_Intros_1\12_Westbrook\128_Lineups_Westbrook_SCB_v00.mov,-,nclc,nclc,16083,424136058,1920,1080,1.778,CFR,29.970,860841567,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,13_Rockets,131_Lineups_Rockets_AUD_F_v00.mov,0,,,056,131,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,13_Rockets,\056_HOU_Intros_1\13_Rockets\131_Lineups_Rockets_AUD_F_v00.mov,-,nclc,nclc,16083,1266154552,10160,1600,6.350,CFR,29.970,2553439472,PCM,Little / Signed,sowt,16083,2,L R,44100,16
+,,134_Lineups_Rockets_RIB_F_v01.mov,1,,,056,134,010,RIB_F,8.03s,,-,,,,,056_HOU_Intros_1,13_Rockets,\056_HOU_Intros_1\13_Rockets\134_Lineups_Rockets_RIB_F_v01.mov,-,nclc,nclc,8042,259144814,9504,144,66.000,CFR,29.970,260487681,-,-,-,-,-,-,-,-
+,,138_Lineups_Rockets_SCB_v00.mov,0,,,056,138,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,13_Rockets,\056_HOU_Intros_1\13_Rockets\138_Lineups_Rockets_SCB_v00.mov,-,nclc,nclc,16083,179102976,1920,1080,1.778,CFR,29.970,360063115,-,-,-,-,-,-,-,-
+,14_MbahaMoute,141_Lineups_MbahaMoute_AUD_F_v01.mov,1,,,056,141,001,AUD_F,16.07s,,-,,,,,056_HOU_Intros_1,14_MbahaMoute,\056_HOU_Intros_1\14_MbahaMoute\141_Lineups_MbahaMoute_AUD_F_v01.mov,-,nclc,nclc,16083,1428281046,10160,1600,6.350,CFR,29.970,2871340302,-,-,-,-,-,-,-,-
+,,144_Lineups_MbahaMoute_RIB_F_v01.mov,1,,,056,144,010,RIB_F,8.03s,,-,7,,,,056_HOU_Intros_1,14_MbahaMoute,\056_HOU_Intros_1\14_MbahaMoute\144_Lineups_MbahaMoute_RIB_F_v01.mov,-,nclc,nclc,8042,275711497,9504,144,66.000,CFR,29.970,285374502,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,,148_Lineups_MbahaMoute_SCB_v00.mov,0,,,056,148,017,SCB,16.07s,,-,,,,,056_HOU_Intros_1,14_MbahaMoute,\056_HOU_Intros_1\14_MbahaMoute\148_Lineups_MbahaMoute_SCB_v00.mov,-,nclc,nclc,16083,179102976,1920,1080,1.778,CFR,29.970,360063115,-,-,-,-,-,-,-,-
+057_HOU_Intros_2,,,,,,,,,,,,-,,,,,057_HOU_Intros_2,14_MbahaMoute,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+058_HOU_Intros_3,,,,,,,,,,,,-,,,,,058_HOU_Intros_3,14_MbahaMoute,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+059_HOU_CRN_ROTATE,00_Adidas,007_adidas_CRN_v01.mov,1,,,059,007,014,CRN,,,-,,,,7/23/2020 20:14:44,059_HOU_CRN_ROTATE,00_Adidas,\059_HOU_CRN_ROTATE\00_Adidas\007_adidas_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,01_ATT,017_ATT_CRN_v01.mov,1,,,059,017,014,CRN,,,-,,,,7/23/2020 20:14:44,059_HOU_CRN_ROTATE,01_ATT,\059_HOU_CRN_ROTATE\01_ATT\017_ATT_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,02_BBVA,027_BBVA_CRN_v01.mov,1,,,059,027,014,CRN,,,-,,,,7/23/2020 20:14:45,059_HOU_CRN_ROTATE,02_BBVA,\059_HOU_CRN_ROTATE\02_BBVA\027_BBVA_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,03_FrostBank,037_FrostBank_CRN_V01.mov,1,,,059,037,014,CRN,,,-,,,,7/23/2020 20:14:45,059_HOU_CRN_ROTATE,03_FrostBank,\059_HOU_CRN_ROTATE\03_FrostBank\037_FrostBank_CRN_V01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,04_Kroger,047_Kroger_CRN_V01.mov,1,,,059,047,014,CRN,,,-,,,,7/23/2020 20:14:46,059_HOU_CRN_ROTATE,04_Kroger,\059_HOU_CRN_ROTATE\04_Kroger\047_Kroger_CRN_V01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,05_MemorialHermann,057_MemorialHermann_CRN_V01.mov,1,,,059,057,014,CRN,,,-,,,,7/23/2020 20:14:46,059_HOU_CRN_ROTATE,05_MemorialHermann,\059_HOU_CRN_ROTATE\05_MemorialHermann\057_MemorialHermann_CRN_V01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,06_MIchelobUltra,067_MichelobUltra_CRN_V01.mov,1,,,059,067,014,CRN,,,-,,,,7/23/2020 20:14:48,059_HOU_CRN_ROTATE,06_MIchelobUltra,\059_HOU_CRN_ROTATE\06_MIchelobUltra\067_MichelobUltra_CRN_V01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,07_Reliant,077_Reliant_CRN_v01.mov,1,,,059,077,014,CRN,,,-,,,,7/23/2020 20:14:49,059_HOU_CRN_ROTATE,07_Reliant,\059_HOU_CRN_ROTATE\07_Reliant\077_Reliant_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,08_Toyota,087_Toyota_CRN_V01.mov,1,,,059,087,014,CRN,,,-,,,,7/23/2020 20:14:50,059_HOU_CRN_ROTATE,08_Toyota,\059_HOU_CRN_ROTATE\08_Toyota\087_Toyota_CRN_V01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,059_HOU_CRN_ROTATE,08_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

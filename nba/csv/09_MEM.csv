@@ -1,0 +1,260 @@
+MEMPHIS GRIZZLIES Media Delivery,,SYNC ACTIVE,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+090_MEM_PCC,,,,,,,,,,,,-,,,,,090_MEM_PCC,,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+091_MEM_FARE,,,,,,,,,,,,-,,,,,091_MEM_FARE,,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+092_MEM_Image_1,,,,,,,,,,,,-,,,,,092_MEM_Image_1,,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+093_MEM_Image_2,,,,,,,,,,,,-,,,,,093_MEM_Image_2,,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+094_MEM_Video,00_MemphisVsErrrbody,001_MemphisVsErrrbody_AUD_F_v02.mov,1,,1,094,001,001,AUD_F,,,-F,,,"Generic Take Over - Does not have to take over everything, everytime . Only for main season",,094_MEM_Video,00_MemphisVsErrrbody,\094_MEM_Video\00_MemphisVsErrrbody\001_MemphisVsErrrbody_AUD_F_v02.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,004_MemphisVsErrrbody_RIB_F_v02.mov,1,,1,094,004,010,RIB_F,,,-F,,,,,094_MEM_Video,00_MemphisVsErrrbody,\094_MEM_Video\00_MemphisVsErrrbody\004_MemphisVsErrrbody_RIB_F_v02.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,007_MemphisVsErrbody_CRN_v01.mov,1,,1,094,007,014,CRN,,,-F,,,,,094_MEM_Video,00_MemphisVsErrrbody,\094_MEM_Video\00_MemphisVsErrrbody\007_MemphisVsErrbody_CRN_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_MemphisVsErrrbody_SCB_v02.mov,,,,094,008,017,SCB,,,-,,,,,094_MEM_Video,00_MemphisVsErrrbody,\094_MEM_Video\00_MemphisVsErrrbody\008_MemphisVsErrrbody_SCB_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,01_BelieveMemphis,011_BelieveMemphis_AUD_F_v01.mov,1,,1,094,011,001,AUD_F,10s,,-,,,Used ONLY for playoffs. Dont use any other time ,,094_MEM_Video,01_BelieveMemphis,\094_MEM_Video\01_BelieveMemphis\011_BelieveMemphis_AUD_F_v01.mov,-,nclc,nclc,10010,326966772,10160,1600,6.350,CFR,29.970,411431931,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,014_BelieveMemphis_RIB_F_v01.mov,1,,1,094,014,010,RIB_F,10s,,-,,,,,094_MEM_Video,01_BelieveMemphis,\094_MEM_Video\01_BelieveMemphis\014_BelieveMemphis_RIB_F_v01.mov,-,nclc,nclc,10010,52313743,9504,144,66.000,CFR,29.970,67575198,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,018_BelieveMemphis_SCB_v01.mov,1,,1,094,018,017,SCB,20s,,-,,,,,094_MEM_Video,01_BelieveMemphis,\094_MEM_Video\01_BelieveMemphis\018_BelieveMemphis_SCB_v01.mov,-,nclc,nclc,20020,57404645,1920,1080,1.778,CFR,29.970,147471153,PCM,Little / Signed,sowt,20020,2,L R,44100,16
+,02_KirkWhalumAnthem,020_KirkWhalumAnthem_AUDIO_v01.mov,,,,094,020,024,AUDIO,,,-,,,,,094_MEM_Video,02_KirkWhalumAnthem,\094_MEM_Video\02_KirkWhalumAnthem\020_KirkWhalumAnthem_AUDIO_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,028_KirkWhalumAnthem_SCB_v01.mov,,,,094,028,017,SCB,,,-,,,,,094_MEM_Video,02_KirkWhalumAnthem,\094_MEM_Video\02_KirkWhalumAnthem\028_KirkWhalumAnthem_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,03_GrizzFans_1,031_GrizzFans_1_AUD_F_v01.mov,,,,094,031,001,AUD_F,,,-,,,,,094_MEM_Video,03_GrizzFans_1,\094_MEM_Video\03_GrizzFans_1\031_GrizzFans_1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,04_ShakyaAnthem,040_ShakyaAnthem_AUDIO_v01.mov,,,,094,040,024,AUDIO,,,-,,,,,094_MEM_Video,04_ShakyaAnthem,\094_MEM_Video\04_ShakyaAnthem\040_ShakyaAnthem_AUDIO_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,048_ShakyaAnthem_SCB_v01.mov,,,,094,048,017,SCB,,,-,,,,,094_MEM_Video,04_ShakyaAnthem,\094_MEM_Video\04_ShakyaAnthem\048_ShakyaAnthem_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,05_GrizzTeamOpen,050_GrizzTeamOpen_AUDIO_v01.mov,,,,094,050,024,AUDIO,,,-,,,,,094_MEM_Video,05_GrizzTeamOpen,\094_MEM_Video\05_GrizzTeamOpen\050_GrizzTeamOpen_AUDIO_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,058_GrizzTeamOpen_SCB_v01.mov,,,,094,058,017,SCB,,,-,,,,,094_MEM_Video,05_GrizzTeamOpen,\094_MEM_Video\05_GrizzTeamOpen\058_GrizzTeamOpen_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,06_MakeSomeNoise,061_MakeSomeNoise_AUD_F_v01.mov,,,,094,061,001,AUD_F,,,-,,,,,094_MEM_Video,06_MakeSomeNoise,\094_MEM_Video\06_MakeSomeNoise\061_MakeSomeNoise_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,064_MakeSomeNoise_RIB_F_v01.mov,,,,094,064,010,RIB_F,,,-,,,,,094_MEM_Video,06_MakeSomeNoise,\094_MEM_Video\06_MakeSomeNoise\064_MakeSomeNoise_RIB_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,067_MakeSomeNoise_CRN_v01.mov,,,,094,067,014,CRN,,,-,,,,,094_MEM_Video,06_MakeSomeNoise,\094_MEM_Video\06_MakeSomeNoise\067_MakeSomeNoise_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,068_MakeSomeNoise_SCB_v01.mov,,,,094,068,017,SCB,,,-,,,,,094_MEM_Video,06_MakeSomeNoise,\094_MEM_Video\06_MakeSomeNoise\068_MakeSomeNoise_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,07_MemphisMemphisMemphis,071_MemphisMemphisMemphis_AUD_F_v02.mov,,,,094,071,001,AUD_F,,,-,,,,,094_MEM_Video,07_MemphisMemphisMemphis,\094_MEM_Video\07_MemphisMemphisMemphis\071_MemphisMemphisMemphis_AUD_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,074_MemphisMemphisMemphis_RIB_F_v01.mov,,,,094,074,010,RIB_F,,,-,,,,,094_MEM_Video,07_MemphisMemphisMemphis,\094_MEM_Video\07_MemphisMemphisMemphis\074_MemphisMemphisMemphis_RIB_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,078_MemphisMemphisMemphis_SCB_v01.mov,,,,094,078,017,SCB,,,-,,,,,094_MEM_Video,07_MemphisMemphisMemphis,\094_MEM_Video\07_MemphisMemphisMemphis\078_MemphisMemphisMemphis_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,08_GrizzTipOff,,,,,,,,,,,-,,,,,094_MEM_Video,08_GrizzTipOff,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,09_Highlights_3pt,,,,,,,,,,,-,,,,,094_MEM_Video,09_Highlights_3pt,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,10_GrizzFans_2,,,,,,,,,,,-,,,,,094_MEM_Video,10_GrizzFans_2,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+095_MEM_Misc,,,,,,,,,,,,-,,,,,095_MEM_Misc,10_GrizzFans_2,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+096_MEM_Intros_1,00_DeAnthony_Melton,000_DeanthonyMelton_Intro1_AUDIO_v01.mov,1,,1,096,000,024,AUDIO,,,-F,1,,,,096_MEM_Intros_1,00_DeAnthony_Melton,\096_MEM_Intros_1\00_DeAnthony_Melton\000_DeanthonyMelton_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,001_DeanthonyMelton_Intro1_AUD_F_v02.mov,2,,,096,001,001,AUD_F,,,-,,,,7/23/2020 21:26:36,096_MEM_Intros_1,00_DeAnthony_Melton,\096_MEM_Intros_1\00_DeAnthony_Melton\001_DeanthonyMelton_Intro1_AUD_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,004_DeAnthonyMelton_Intro1_RIB_F_v02.mov,2,,,096,004,010,RIB_F,,,-,,,,7/23/2020 21:26:36,096_MEM_Intros_1,00_DeAnthony_Melton,\096_MEM_Intros_1\00_DeAnthony_Melton\004_DeAnthonyMelton_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,008_DeanthonyMelton_Intro1_SCB_v01.mov,1,,,096,008,017,SCB,,,-,,,,,096_MEM_Intros_1,00_DeAnthony_Melton,\096_MEM_Intros_1\00_DeAnthony_Melton\008_DeanthonyMelton_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,01_Kyle_Anderson,010_KyleAnderson_Intro1_AUDIO_v01.mov,1,,1,096,010,024,AUDIO,,,-F,2,,,,096_MEM_Intros_1,01_Kyle_Anderson,\096_MEM_Intros_1\01_Kyle_Anderson\010_KyleAnderson_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,011_KyleAnderson_Intro1_AUD_F_v01.mov,1,,,096,011,001,AUD_F,,,-,,,,7/23/2020 21:26:31,096_MEM_Intros_1,01_Kyle_Anderson,\096_MEM_Intros_1\01_Kyle_Anderson\011_KyleAnderson_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,014_KyleAnderson_Intro1_RIB_F_v02.mov,2,,,096,014,010,RIB_F,,,-,,,,7/23/2020 21:26:31,096_MEM_Intros_1,01_Kyle_Anderson,\096_MEM_Intros_1\01_Kyle_Anderson\014_KyleAnderson_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,018_KyleAnderson_Intro1_SCB_v01.mov,1,,,096,018,017,SCB,,,-,,,,7/23/2020 21:26:31,096_MEM_Intros_1,01_Kyle_Anderson,\096_MEM_Intros_1\01_Kyle_Anderson\018_KyleAnderson_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,02_Anthony_Tolliver,024_AnthonyTolliver_Intro1_RIB_F_v02.mov,2,,1,096,024,010,RIB_F,,,-F,15,,,7/23/2020 21:26:38,096_MEM_Intros_1,02_Anthony_Tolliver,\096_MEM_Intros_1\02_Anthony_Tolliver\024_AnthonyTolliver_Intro1_RIB_F_v02.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,03_Brandon_Clarke,030_BrandonClarke_Intro1_AUDIO_v01.mov,1,,1,096,030,024,AUDIO,,,-F,8,,,,096_MEM_Intros_1,03_Brandon_Clarke,\096_MEM_Intros_1\03_Brandon_Clarke\030_BrandonClarke_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,031_BrandonClarke_Intro1_AUD_F_v01.mov,1,,,096,031,001,AUD_F,,,-,,,,7/23/2020 21:26:29,096_MEM_Intros_1,03_Brandon_Clarke,\096_MEM_Intros_1\03_Brandon_Clarke\031_BrandonClarke_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,034_BrandonClarke_Intro1_RIB_F_v02.mov,2,,,096,034,010,RIB_F,,,-,,,,7/23/2020 21:26:29,096_MEM_Intros_1,03_Brandon_Clarke,\096_MEM_Intros_1\03_Brandon_Clarke\034_BrandonClarke_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,038_BrandonClarke_Intro1_SCB_v01.mov,1,,,096,038,017,SCB,,,-,,,,7/23/2020 21:26:29,096_MEM_Intros_1,03_Brandon_Clarke,\096_MEM_Intros_1\03_Brandon_Clarke\038_BrandonClarke_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,04_Dillon_Brooks,040_DillonBrooks_Intro1_AUDIO_v01.mov,1,,1,096,040,024,AUDIO,,,-F,14,,,,096_MEM_Intros_1,04_Dillon_Brooks,\096_MEM_Intros_1\04_Dillon_Brooks\040_DillonBrooks_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,041_DillonBrooks_Intro1_AUD_F_v01.mov,1,,,096,041,001,AUD_F,,,-,,,,7/23/2020 21:26:26,096_MEM_Intros_1,04_Dillon_Brooks,\096_MEM_Intros_1\04_Dillon_Brooks\041_DillonBrooks_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,044_DillonBrooks_Intro1_RIB_F_v02.mov,2,,,096,044,010,RIB_F,,,-,,,,7/23/2020 21:26:25,096_MEM_Intros_1,04_Dillon_Brooks,\096_MEM_Intros_1\04_Dillon_Brooks\044_DillonBrooks_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,048_DillonBrooks_Intro1_SCB_v01.mov,1,,,096,048,017,SCB,,,-,,,,7/23/2020 21:26:25,096_MEM_Intros_1,04_Dillon_Brooks,\096_MEM_Intros_1\04_Dillon_Brooks\048_DillonBrooks_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,05_Gorgui_Dieng,050_GorguiDieng_Intro1_AUDIO_v01.mov,1,,1,096,050,024,AUDIO,,,-F,7,,,,096_MEM_Intros_1,05_Gorgui_Dieng,\096_MEM_Intros_1\05_Gorgui_Dieng\050_GorguiDieng_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,051_GorguiDieng_Intro1_AUD_F_v01.mov,1,,,096,051,001,AUD_F,,,-,,,,,096_MEM_Intros_1,05_Gorgui_Dieng,\096_MEM_Intros_1\05_Gorgui_Dieng\051_GorguiDieng_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,054_GorguiDieng_Intro1_RIB_F_v02.mov,2,,,096,054,010,RIB_F,,,-,,,,7/23/2020 21:26:23,096_MEM_Intros_1,05_Gorgui_Dieng,\096_MEM_Intros_1\05_Gorgui_Dieng\054_GorguiDieng_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,058_GorguiDieng_Intro1_SCB_v01.mov,1,,,096,058,017,SCB,,,-,,,,7/23/2020 21:26:23,096_MEM_Intros_1,05_Gorgui_Dieng,\096_MEM_Intros_1\05_Gorgui_Dieng\058_GorguiDieng_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,06_Grayson_Allen,060_GraysonAllen_Intro1_AUDIO_v01.mov,1,,1,096,060,024,AUDIO,10s,,-,3,,,,096_MEM_Intros_1,06_Grayson_Allen,\096_MEM_Intros_1\06_Grayson_Allen\060_GraysonAllen_Intro1_AUDIO_v01.mov,-,nclc,nclc,10010,59225353,9504,144,66.000,CFR,29.970,76534943,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,061_GraysonAllen_Intro1_AUD_F_v01.mov,1,AUD_F v02 was delivered but wrong codec - rejected,,096,061,001,AUD_F,,,-,,,,,096_MEM_Intros_1,06_Grayson_Allen,\096_MEM_Intros_1\06_Grayson_Allen\061_GraysonAllen_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,064_GraysonAllen_Intro1_RIB_F_v01.mov,1,,,096,064,010,RIB_F,,,-,,,,,096_MEM_Intros_1,06_Grayson_Allen,\096_MEM_Intros_1\06_Grayson_Allen\064_GraysonAllen_Intro1_RIB_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,068_GraysonAllen_Intro1_SCB_v01.mov,1,,,096,068,017,SCB,,,-,,,,7/23/2020 21:26:20,096_MEM_Intros_1,06_Grayson_Allen,\096_MEM_Intros_1\06_Grayson_Allen\068_GraysonAllen_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,07_Ja_Morant,070_JaMorant_Intro1_AUDIO_v01.mov,1,,1,096,070,024,AUDIO,,,-F,5,,,,096_MEM_Intros_1,07_Ja_Morant,\096_MEM_Intros_1\07_Ja_Morant\070_JaMorant_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,071_JaMorant_Intro1_AUD_F_v01.mov,1,,,096,071,001,AUD_F,,,-,,,,,096_MEM_Intros_1,07_Ja_Morant,\096_MEM_Intros_1\07_Ja_Morant\071_JaMorant_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,074_JaMorant_Intro1_RIB_F_v02.mov,2,,,096,074,010,RIB_F,,,-,,,,7/23/2020 21:26:18,096_MEM_Intros_1,07_Ja_Morant,\096_MEM_Intros_1\07_Ja_Morant\074_JaMorant_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,078_JaMorant_Intro1_SCB_v01.mov,1,,,096,078,017,SCB,,,-,,,,7/23/2020 21:26:18,096_MEM_Intros_1,07_Ja_Morant,\096_MEM_Intros_1\07_Ja_Morant\078_JaMorant_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,08_Jaren_Jackson_Jr,080_JarenJacksonJr_Intro1_AUDIO_v01.mov,1,,1,096,080,024,AUDIO,,,-F,6,,,,096_MEM_Intros_1,08_Jaren_Jackson_Jr,\096_MEM_Intros_1\08_Jaren_Jackson_Jr\080_JarenJacksonJr_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,081_JarenJacksonJr_Intro1_AUD_F_v01.mov,1,,,096,081,001,AUD_F,,,-,,,,7/23/2020 21:26:17,096_MEM_Intros_1,08_Jaren_Jackson_Jr,\096_MEM_Intros_1\08_Jaren_Jackson_Jr\081_JarenJacksonJr_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,084_JarenJacksonJr_Intro1_RIB_F_v02.mov,2,,,096,084,010,RIB_F,,,-,,,,,096_MEM_Intros_1,08_Jaren_Jackson_Jr,\096_MEM_Intros_1\08_Jaren_Jackson_Jr\084_JarenJacksonJr_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,088_JarenJacksonJr_Intro1_SCB_v01.mov,1,,,096,088,017,SCB,,,-,,,,7/23/2020 21:26:16,096_MEM_Intros_1,08_Jaren_Jackson_Jr,\096_MEM_Intros_1\08_Jaren_Jackson_Jr\088_JarenJacksonJr_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,09_Jonas_Valanciunas,090_JonasValanciunas_Intro1_AUDIO_v01.mov,1,,1,096,090,024,AUDIO,,,-F,9,,,,096_MEM_Intros_1,09_Jonas_Valanciunas,\096_MEM_Intros_1\09_Jonas_Valanciunas\090_JonasValanciunas_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,091_JonasValanciunas_Intro1_AUD_F_v02.mov,2,,,096,091,001,AUD_F,,,-,,,,7/23/2020 21:26:10,096_MEM_Intros_1,09_Jonas_Valanciunas,\096_MEM_Intros_1\09_Jonas_Valanciunas\091_JonasValanciunas_Intro1_AUD_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,094_JonasValanciunas_Intro1_RIB_F_v02.mov,2,,,096,094,010,RIB_F,,,-,,,,,096_MEM_Intros_1,09_Jonas_Valanciunas,\096_MEM_Intros_1\09_Jonas_Valanciunas\094_JonasValanciunas_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,098_JonasValanciunas_Intro1_SCB_v01.mov,1,,,096,098,017,SCB,,,-,,,,7/23/2020 21:26:07,096_MEM_Intros_1,09_Jonas_Valanciunas,\096_MEM_Intros_1\09_Jonas_Valanciunas\098_JonasValanciunas_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,10_Josh_Jackson,100_JoshJackson_Intro1_AUDIO_v01.mov,1,,1,096,100,024,AUDIO,,,-F,,,,,096_MEM_Intros_1,10_Josh_Jackson,\096_MEM_Intros_1\10_Josh_Jackson\100_JoshJackson_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,101_JoshJackson_Intro1_AUD_F_v01.mov,1,,,096,101,001,AUD_F,,,-,,,,7/23/2020 21:26:07,096_MEM_Intros_1,10_Josh_Jackson,\096_MEM_Intros_1\10_Josh_Jackson\101_JoshJackson_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,104_JoshJackson_Intro1_RIB_F_v02.mov,2,,,096,104,010,RIB_F,,,-,,,,7/23/2020 21:26:05,096_MEM_Intros_1,10_Josh_Jackson,\096_MEM_Intros_1\10_Josh_Jackson\104_JoshJackson_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,108_JoshJackson_Intro1_SCB_v01.mov,1,,,096,108,017,SCB,,,-,,,,,096_MEM_Intros_1,10_Josh_Jackson,\096_MEM_Intros_1\10_Josh_Jackson\108_JoshJackson_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,11_Justise_Winslow,110_JusticeWinslow_Intro1_AUDIO_v01.mov,1,,1,096,110,024,AUDIO,,,-F,4,,,,096_MEM_Intros_1,11_Justise_Winslow,\096_MEM_Intros_1\11_Justise_Winslow\110_JusticeWinslow_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,111_JustiseWinslow_Intro1_AUD_F_v01.mov,1,,,096,111,001,AUD_F,,,-,,,,7/23/2020 21:26:04,096_MEM_Intros_1,11_Justise_Winslow,\096_MEM_Intros_1\11_Justise_Winslow\111_JustiseWinslow_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,114_JustiseWinslow_Intro1_RIB_F_v02.mov,2,,,096,114,010,RIB_F,,,-,,,,7/23/2020 21:26:04,096_MEM_Intros_1,11_Justise_Winslow,\096_MEM_Intros_1\11_Justise_Winslow\114_JustiseWinslow_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,118_JusticeWinslow_Intro1_SCB_v01.mov,1,,,096,118,017,SCB,,,-,,,,7/23/2020 21:26:04,096_MEM_Intros_1,11_Justise_Winslow,\096_MEM_Intros_1\11_Justise_Winslow\118_JusticeWinslow_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,12_Marko_Guduric,120_MarkoGuduric_Intro1_AUDIO_v01.mov,1,,1,096,120,024,AUDIO,,,-F,13,,,,096_MEM_Intros_1,12_Marko_Guduric,\096_MEM_Intros_1\12_Marko_Guduric\120_MarkoGuduric_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,121_MarkoGuduric_Intro1_AUD_F_v02.mov,2,,,096,121,001,AUD_F,,,-,,,,7/23/2020 21:26:01,096_MEM_Intros_1,12_Marko_Guduric,\096_MEM_Intros_1\12_Marko_Guduric\121_MarkoGuduric_Intro1_AUD_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,124_MarkoGuduric_Intro1_RIB_F_v02.mov,2,,,096,124,010,RIB_F,,,-,,,,7/23/2020 21:26:00,096_MEM_Intros_1,12_Marko_Guduric,\096_MEM_Intros_1\12_Marko_Guduric\124_MarkoGuduric_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,128_MarkoGuduric_Intro1_SCB_v01.mov,1,,,096,128,017,SCB,,,-,,,,7/23/2020 21:26:00,096_MEM_Intros_1,12_Marko_Guduric,\096_MEM_Intros_1\12_Marko_Guduric\128_MarkoGuduric_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,13_Tyus_Jones,130_TyusJones_Intro1_AUDIO_v01.mov,1,,1,096,130,024,AUDIO,,,-F,12,,,,096_MEM_Intros_1,13_Tyus_Jones,\096_MEM_Intros_1\13_Tyus_Jones\130_TyusJones_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,131_TyusJones_Intro1_AUD_F_v01.mov,1,,,096,131,001,AUD_F,,,-,,,,7/23/2020 21:26:00,096_MEM_Intros_1,13_Tyus_Jones,\096_MEM_Intros_1\13_Tyus_Jones\131_TyusJones_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,134_TyusJones_Intro1_RIB_F_v02.mov,2,,,096,134,010,RIB_F,,,-,,,,7/23/2020 21:25:58,096_MEM_Intros_1,13_Tyus_Jones,\096_MEM_Intros_1\13_Tyus_Jones\134_TyusJones_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,138_TyusJones_Intro1_SCB_v01.mov,1,,,096,138,017,SCB,,,-,,,,7/23/2020 21:25:58,096_MEM_Intros_1,13_Tyus_Jones,\096_MEM_Intros_1\13_Tyus_Jones\138_TyusJones_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,14_Yuta_Watanabe,140_YutaWatanabe_Intro1_AUDIO_v01.mov,1,,1,096,140,024,AUDIO,,,-F,10,,,,096_MEM_Intros_1,14_Yuta_Watanabe,\096_MEM_Intros_1\14_Yuta_Watanabe\140_YutaWatanabe_Intro1_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,141_YutaWatanabe_Intro1_AUD_F_v01.mov,1,,,096,141,001,AUD_F,,,-,,,,,096_MEM_Intros_1,14_Yuta_Watanabe,\096_MEM_Intros_1\14_Yuta_Watanabe\141_YutaWatanabe_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,144_YutaWatanabe_Intro1_RIB_F_v02.mov,2,,,096,144,010,RIB_F,,,-,,,,,096_MEM_Intros_1,14_Yuta_Watanabe,\096_MEM_Intros_1\14_Yuta_Watanabe\144_YutaWatanabe_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,148_YutaWatanabe_Intro1_SCB_v01.mov,1,,,096,148,017,SCB,,,-,,,,7/23/2020 21:25:56,096_MEM_Intros_1,14_Yuta_Watanabe,\096_MEM_Intros_1\14_Yuta_Watanabe\148_YutaWatanabe_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,15_John_Konchar,150_JohnKonchar_Intro1_AUDIO_v01.mov,1,,,096,150,024,AUDIO,,,-,,,,7/23/2020 21:25:55,096_MEM_Intros_1,15_John_Konchar,\096_MEM_Intros_1\15_John_Konchar\150_JohnKonchar_Intro1_AUDIO_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,151_JohnKonchar_Intro1_AUD_F_v01.mov,1,,,096,151,001,AUD_F,,,-,,,,7/23/2020 21:25:55,096_MEM_Intros_1,15_John_Konchar,\096_MEM_Intros_1\15_John_Konchar\151_JohnKonchar_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,154_JohnKonchar_Intro1_RIB_F_v02.mov,2,,,096,154,010,RIB_F,,,-,,,,7/23/2020 21:25:53,096_MEM_Intros_1,15_John_Konchar,\096_MEM_Intros_1\15_John_Konchar\154_JohnKonchar_Intro1_RIB_F_v02.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,158_JohnKonchar_Intro1_SCB_v01.mov,1,,,096,158,017,SCB,,,-,,,,7/23/2020 21:25:53,096_MEM_Intros_1,15_John_Konchar,\096_MEM_Intros_1\15_John_Konchar\158_JohnKonchar_Intro1_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,16_Taylor_Jenkins,161_TaylorJenkins_Intro1_AUD_F_v01.mov,1,,,096,161,001,AUD_F,,,-,,,,7/23/2020 21:25:53,096_MEM_Intros_1,16_Taylor_Jenkins,\096_MEM_Intros_1\16_Taylor_Jenkins\161_TaylorJenkins_Intro1_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,164_TaylorJenkins_Intro1_RIB_F_v01.mov,1,,,096,164,010,RIB_F,,,-,,,,7/23/2020 21:25:52,096_MEM_Intros_1,16_Taylor_Jenkins,\096_MEM_Intros_1\16_Taylor_Jenkins\164_TaylorJenkins_Intro1_RIB_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+097_MEM_Intros_2,,,,,,,,,,,,-,,,,,097_MEM_Intros_2,16_Taylor_Jenkins,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+098_MEM_Intros_3,,,,,,,,,,,,-,,,,,098_MEM_Intros_3,16_Taylor_Jenkins,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,007_MemphisVsErrbody_CRN_v01.mov,1,,,099,007,014,CRN,,,-,,,,7/23/2020 21:25:46,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,\099_MEM_CRN_ROTATE\00_MemphisVsErrrbody\007_MemphisVsErrbody_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,"Other CRNS are not delivered correctly, please put in folders and  resubmit",,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,099_MEM_CRN_ROTATE,00_MemphisVsErrrbody,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

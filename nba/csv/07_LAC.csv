@@ -1,0 +1,260 @@
+LA CLIPPERS Media Delivery,,SYNC ACTIVE,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Content Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Kerstin Notes,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,Audio Format,Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+070_LAC_PCC,00_Airball,001_Airball_AUD_F_v00.mov,0,,0,070,001,001,AUD_F,10s,,-,,,,7/22/2020,070_LAC_PCC,00_Airball,\070_LAC_PCC\00_Airball\001_Airball_AUD_F_v00.mov,-,nclc,nclc,10010,3466831723,10160,1600,6.350,CFR,29.970,4337881807,-,-,-,-,-,-,-,-
+,,004_Airball_RIB_F_v00.mov,0,,0,070,004,010,RIB_F,10s,,-,,,,,070_LAC_PCC,00_Airball,\070_LAC_PCC\00_Airball\004_Airball_RIB_F_v00.mov,-,nclc,nclc,10010,241403035,9504,144,66.000,CFR,29.970,302058925,-,-,-,-,-,-,-,-
+,,008_Airball_SCB_v00.mov,0,,0,070,008,017,SCB,10s,,-,,,,,070_LAC_PCC,00_Airball,\070_LAC_PCC\00_Airball\008_Airball_SCB_v00.mov,-,nclc,nclc,10010,586345863,1920,1080,1.778,CFR,29.970,733669071,-,-,-,-,-,-,-,-
+,01_4thQuarterStartsNow,011_4thQuarterStartsNow_AUD_F_v00.mov,0,,0,070,011,001,AUD_F,10s,,-,,,,,070_LAC_PCC,01_4thQuarterStartsNow,\070_LAC_PCC\01_4thQuarterStartsNow\011_4thQuarterStartsNow_AUD_F_v00.mov,-,nclc,nclc,10010,2878174855,10160,1600,6.350,CFR,29.970,3601322965,-,-,-,-,-,-,-,-
+,,014_4thQuarterStartsNow_RIB_F_v00.mov,0,,0,070,014,010,RIB_F,10s,,-,,,,,070_LAC_PCC,01_4thQuarterStartsNow,\070_LAC_PCC\01_4thQuarterStartsNow\014_4thQuarterStartsNow_RIB_F_v00.mov,-,nclc,nclc,10010,213718254,9504,144,66.000,CFR,29.970,267418309,-,-,-,-,-,-,-,-
+,,018_4thQuarterStartsNow_SCB_v00.mov,0,,0,070,018,017,SCB,10s,,-,,,,,070_LAC_PCC,01_4thQuarterStartsNow,\070_LAC_PCC\01_4thQuarterStartsNow\018_4thQuarterStartsNow_SCB_v00.mov,-,nclc,nclc,10010,576985860,1920,1080,1.778,CFR,29.970,721957355,-,-,-,-,-,-,-,-
+,02_And1,021_And1_AUD_F_v00.mov,0,,0,070,021,001,AUD_F,10s,,-,,,,,070_LAC_PCC,02_And1,\070_LAC_PCC\02_And1\021_And1_AUD_F_v00.mov,-,nclc,nclc,10010,3262991430,10160,1600,6.350,CFR,29.970,4082825185,-,-,-,-,-,-,-,-
+,,024_And1_RIB_F_v00.mov,0,,0,070,024,010,RIB_F,10s,,-,,,,,070_LAC_PCC,02_And1,\070_LAC_PCC\02_And1\024_And1_RIB_F_v00.mov,-,nclc,nclc,10010,243616883,9504,144,66.000,CFR,29.970,304829006,-,-,-,-,-,-,-,-
+,,028_And1_SCB_v00.mov,0,,0,070,028,017,SCB,10s,,-,,,,,070_LAC_PCC,02_And1,\070_LAC_PCC\02_And1\028_And1_SCB_v00.mov,-,nclc,nclc,10010,581424558,1920,1080,1.778,CFR,29.970,727511282,-,-,-,-,-,-,-,-
+,03_Jumpball,031_Jumpball_AUD_F_v00.mov,0,,0,070,031,001,AUD_F,10s,,-,,,,,070_LAC_PCC,03_Jumpball,\070_LAC_PCC\03_Jumpball\031_Jumpball_AUD_F_v00.mov,-,nclc,nclc,10010,2779550429,10160,1600,6.350,CFR,29.970,3477919028,-,-,-,-,-,-,-,-
+,,034_Jumpball_RIB_F_v00.mov,0,,0,070,034,010,RIB_F,10s,,-,,,,,070_LAC_PCC,03_Jumpball,\070_LAC_PCC\03_Jumpball\034_Jumpball_RIB_F_v00.mov,-,nclc,nclc,10010,180787047,9504,144,66.000,CFR,29.970,226213095,-,-,-,-,-,-,-,-
+,,038_Jumpball_SCB_v00.mov,0,,0,070,038,017,SCB,10s,,-,,,,,070_LAC_PCC,03_Jumpball,\070_LAC_PCC\03_Jumpball\038_Jumpball_SCB_v00.mov,-,nclc,nclc,10010,570893632,1920,1080,1.778,CFR,29.970,714334447,-,-,-,-,-,-,-,-
+,04_Louuuu,041_Louuuuu_AUD_F_v00.mov,0,,0,070,041,001,AUD_F,10s,,-,,,,,070_LAC_PCC,04_Louuuu,\070_LAC_PCC\04_Louuuu\041_Louuuuu_AUD_F_v00.mov,-,nclc,nclc,10010,3454538790,10160,1600,6.350,CFR,29.970,4322500259,-,-,-,-,-,-,-,-
+,,044_Louuuuu_RIB_F_v00.mov,0,,0,070,044,010,RIB_F,10s,,-,,,,7/22/2020,070_LAC_PCC,04_Louuuu,\070_LAC_PCC\04_Louuuu\044_Louuuuu_RIB_F_v00.mov,-,nclc,nclc,10010,244738036,9504,144,66.000,CFR,29.970,306231850,-,-,-,-,-,-,-,-
+,,048_Louuuuu_SCB_v00.mov,0,,0,070,048,017,SCB,10s,,-,,,,,070_LAC_PCC,04_Louuuu,\070_LAC_PCC\04_Louuuu\048_Louuuuu_SCB_v00.mov,-,nclc,nclc,10010,572290121,1920,1080,1.778,CFR,29.970,716081806,-,-,-,-,-,-,-,-
+,05_Threee,051_Threeee_AUD_F_v00.mov,0,,0,070,051,001,AUD_F,10s,,-,,,,,070_LAC_PCC,05_Threee,\070_LAC_PCC\05_Threee\051_Threeee_AUD_F_v00.mov,-,nclc,nclc,10010,3362844038,10160,1600,6.350,CFR,29.970,4207765886,-,-,-,-,-,-,-,-
+,,054_Threeee_RIB_F_v00.mov,0,,0,070,054,010,RIB_F,10s,,-,,,,,070_LAC_PCC,05_Threee,\070_LAC_PCC\05_Threee\054_Threeee_RIB_F_v00.mov,-,nclc,nclc,10010,222562976,9504,144,66.000,CFR,29.970,278485278,-,-,-,-,-,-,-,-
+,,058_Threeee_SCB_v00.mov,0,,0,070,058,017,SCB,10s,,-,,,,,070_LAC_PCC,05_Threee,\070_LAC_PCC\05_Threee\058_Threeee_SCB_v00.mov,-,nclc,nclc,10010,568552720,1920,1080,1.778,CFR,29.970,711405378,-,-,-,-,-,-,-,-
+,06_ClippersWin,061_ClippersWin_AUD_F_v01.mov,1,,0,070,061,001,AUD_F,10s,,-,,,,7/22/2020,070_LAC_PCC,06_ClippersWin,\070_LAC_PCC\06_ClippersWin\061_ClippersWin_AUD_F_v01.mov,-,nclc,nclc,10010,3152996962,10160,1600,6.350,CFR,29.970,3945194470,-,-,-,-,-,-,-,-
+,,064_ClippersWIN_RIB_F_v01.mov,1,,0,070,064,010,RIB_F,10s,,-,,,,7/22/2020,070_LAC_PCC,06_ClippersWin,\070_LAC_PCC\06_ClippersWin\064_ClippersWIN_RIB_F_v01.mov,-,nclc,nclc,10010,220957134,9504,144,66.000,CFR,29.970,276475967,-,-,-,-,-,-,-,-
+,,068_ClippersWIN_SCB_v01.mov,1,,,070,068,017,SCB,10s,,-,,,,7/22/2020,070_LAC_PCC,06_ClippersWin,\070_LAC_PCC\06_ClippersWin\068_ClippersWIN_SCB_v01.mov,-,nclc,nclc,10010,569613233,1920,1080,1.778,CFR,29.970,712732347,-,-,-,-,-,-,-,-
+,07_LetsGoClippers,070_LetsGoClippers_AUDIO_v01.mov,1,,0,070,070,024,AUDIO,38.43s,,-R,,,,7/23/2020,070_LAC_PCC,07_LetsGoClippers,\070_LAC_PCC\07_LetsGoClippers\070_LetsGoClippers_AUDIO_v01.mov,-R,nclc,nclc,38467,21600,16,16,1.000,CFR,30.000,7490933,PCM,Little / Signed,sowt,38467,2,L R,48000,16
+,,071_LetsGoClippers_AUD_F_v00.mov,0,,0,070,071,001,AUD_F,10s,,-,,,,,070_LAC_PCC,07_LetsGoClippers,\070_LAC_PCC\07_LetsGoClippers\071_LetsGoClippers_AUD_F_v00.mov,-,nclc,nclc,10010,3088284526,10160,1600,6.350,CFR,29.970,3866145394,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,074_LetsGoClippers_RIB_F_v01.mov,1,,0,070,074,010,RIB_F,10s,,-,,,,7/22/2020,070_LAC_PCC,07_LetsGoClippers,\070_LAC_PCC\07_LetsGoClippers\074_LetsGoClippers_RIB_F_v01.mov,-,nclc,nclc,10010,230548344,9504,144,66.000,CFR,29.970,290399421,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,078_LetsGoClippers_SCB_v00.mov,0,,,070,078,017,SCB,38.47s,,-,,,,7/22/2020,070_LAC_PCC,07_LetsGoClippers,\070_LAC_PCC\07_LetsGoClippers\078_LetsGoClippers_SCB_v00.mov,-,nclc,nclc,38506,469937117,1920,1080,1.778,CFR,29.970,2261886089,-,-,-,-,-,-,-,-
+,08_Defense,080_Defense_AUDIO_v01.mov,1,,0,070,080,024,AUDIO,29.34s,,-R,,,,7/23/2020,070_LAC_PCC,08_Defense,\070_LAC_PCC\08_Defense\080_Defense_AUDIO_v01.mov,-R,nclc,nclc,29367,21600,16,16,1.000,CFR,30.000,5719091,PCM,Little / Signed,sowt,29367,2,L R,48000,16
+,,081_Defense_AUD_F_v00.mov,0,,0,070,081,001,AUD_F,10s,,-,,,,,070_LAC_PCC,08_Defense,\070_LAC_PCC\08_Defense\081_Defense_AUD_F_v00.mov,-,nclc,nclc,10010,2872862576,10160,1600,6.350,CFR,29.970,3596598410,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,084_Defense_RIB_F_v00.mov,0,,0,070,084,010,RIB_F,10s,,-,,,,,070_LAC_PCC,08_Defense,\070_LAC_PCC\08_Defense\084_Defense_RIB_F_v00.mov,-,nclc,nclc,10010,238045571,9504,144,66.000,CFR,29.970,299780336,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,088_Defense_SCB_v00.mov,0,,,070,088,017,SCB,29.37s,,-,,,,7/22/2020,070_LAC_PCC,08_Defense,\070_LAC_PCC\08_Defense\088_Defense_SCB_v00.mov,-,nclc,nclc,29397,566728547,1920,1080,1.778,CFR,29.970,2082456215,-,-,-,-,-,-,-,-
+071_LAC_FERA,00_NationalAnthemJasmineVillegas,000_NationalAnthemJasmineVillegas_AUDIO_v00.mov,0,,,071,000,024,AUDIO,,,-F,,,,7/22/2020,071_LAC_FERA,00_NationalAnthemJasmineVillegas,\071_LAC_FERA\00_NationalAnthemJasmineVillegas\000_NationalAnthemJasmineVillegas_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_NationalAnthemJasmineVillegas_SCB_v01.mov,1,V01 STILL WRONG REJECTED - Wrong Codec,,071,008,017,SCB,1m36.57s,,-C,,,,7/22/2020,071_LAC_FERA,00_NationalAnthemJasmineVillegas,\071_LAC_FERA\00_NationalAnthemJasmineVillegas\008_NationalAnthemJasmineVillegas_SCB_v01.mov,-C,ProRes,apcs,96663,78776737,1920,1080,1.778,CFR,29.970,971460640,PCM,Little / Signed,sowt,96663,2,L R,48000,16
+,01_NationalAnthemTinashe,010_NationalAnthemTinashe_AUDIO_v00.mov,,,,071,010,024,AUDIO,,,-F,,,,,071_LAC_FERA,01_NationalAnthemTinashe,\071_LAC_FERA\01_NationalAnthemTinashe\010_NationalAnthemTinashe_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_NationalAnthemTinashe_SCB_v00.mov,,V01 STILL WRONG REJECTED - Wrong Codec,,071,018,017,SCB,,,-F,,,,,071_LAC_FERA,01_NationalAnthemTinashe,\071_LAC_FERA\01_NationalAnthemTinashe\018_NationalAnthemTinashe_SCB_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,02_NationalAnthemJulesAurora,020_NationalAnthemJulesAurora_AUDIO_v00.mov,,,,071,020,024,AUDIO,,,-F,,,,,071_LAC_FERA,02_NationalAnthemJulesAurora,\071_LAC_FERA\02_NationalAnthemJulesAurora\020_NationalAnthemJulesAurora_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,028_NationalAnthemJulesAurora_SCB_v00.mov,,V01 STILL WRONG REJECTED - Wrong Codec,,071,028,017,SCB,,,-F,,,,,071_LAC_FERA,02_NationalAnthemJulesAurora,\071_LAC_FERA\02_NationalAnthemJulesAurora\028_NationalAnthemJulesAurora_SCB_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,03_NationalAnthemDSharp,030_NationalAnthemDSharp_AUDIO_v00.mov,,"SCB file WRONG CODE, check media delivery ",,071,030,024,AUDIO,1m54.03s,,-,,,,,071_LAC_FERA,03_NationalAnthemDSharp,\071_LAC_FERA\03_NationalAnthemDSharp\030_NationalAnthemDSharp_AUDIO_v00.mov,-,nclc,nclc,114148,261043415,1920,1080,1.778,CFR,29.970,3746812897,PCM,Little / Signed,sowt,114148,2,L R,48000,16
+,,038_NationalAnthemDSharp_SCB_v00.mov,,,,071,038,017,SCB,1m54.03s,,-C,,,,,071_LAC_FERA,03_NationalAnthemDSharp,\071_LAC_FERA\03_NationalAnthemDSharp\038_NationalAnthemDSharp_SCB_v00.mov,-C,ProRes,apcs,114147,94712292,1920,1080,1.778,CFR,29.970,1374361068,PCM,Little / Signed,sowt,114147,2,L R,48000,16
+,,,,,,,,,,,,-,,,,,071_LAC_FERA,03_NationalAnthemDSharp,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+072_LAC_Image_1,,,,,,,,,,,,-,,,,,072_LAC_Image_1,03_NationalAnthemDSharp,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+073_LAC_Image_2,,,,,,,,,,,,-,,,,,073_LAC_Image_2,03_NationalAnthemDSharp,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+074_LAC_Video,00_OpenVideo,000_OpenVideo_AUDIO_v00.mov,0,Wrong Frame rate,0,074,000,024,AUDIO,,,-F,,,,,074_LAC_Video,00_OpenVideo,\074_LAC_Video\00_OpenVideo\000_OpenVideo_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,001_OpenVideo_AUD_N_v00.mov,0,Wrong Frame rate,0,074,001,002,AUD_N,,,-F,,,,,074_LAC_Video,00_OpenVideo,\074_LAC_Video\00_OpenVideo\001_OpenVideo_AUD_N_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,002_OpenVideo_AUD_S_v00.mov,0,Wrong Frame rate,0,074,002,003,AUD_S,,,-F,,,,,074_LAC_Video,00_OpenVideo,\074_LAC_Video\00_OpenVideo\002_OpenVideo_AUD_S_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,003_OpenVideo_AUD_C_v00.mov,0,Wrong Frame rate,0,074,003,004,AUD_C,,,-F,,,,,074_LAC_Video,00_OpenVideo,\074_LAC_Video\00_OpenVideo\003_OpenVideo_AUD_C_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,004_OpenVIdeo_RIB_F_v00.mov,0,Wrong Frame rate,0,074,004,010,RIB_F,,,-F,,,,,074_LAC_Video,00_OpenVideo,\074_LAC_Video\00_OpenVideo\004_OpenVIdeo_RIB_F_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_OpenVideo_SCB_v00.mov,0,Wrong Frame rate,0,074,008,017,SCB,,,-F,,,,,074_LAC_Video,00_OpenVideo,\074_LAC_Video\00_OpenVideo\008_OpenVideo_SCB_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+075_LAC_Misc,00_ClippersBall,001_ClippersBall_AUD_F_v00.mov,0,,0,075,001,001,AUD_F,10s,,-,,,,,075_LAC_Misc,00_ClippersBall,\075_LAC_Misc\00_ClippersBall\001_ClippersBall_AUD_F_v00.mov,-,nclc,nclc,10010,3224204644,10160,1600,6.350,CFR,29.970,4034293171,-,-,-,-,-,-,-,-
+,,004_ClippersBall_RIB_F_v00.mov,0,,0,075,004,010,RIB_F,10s,,-,,,,,075_LAC_Misc,00_ClippersBall,\075_LAC_Misc\00_ClippersBall\004_ClippersBall_RIB_F_v00.mov,-,nclc,nclc,10010,236461299,9504,144,66.000,CFR,29.970,295875572,-,-,-,-,-,-,-,-
+,,008_ClippersBall_SCB_v00.mov,0,,0,075,008,017,SCB,10s,,-,,,,,075_LAC_Misc,00_ClippersBall,\075_LAC_Misc\00_ClippersBall\008_ClippersBall_SCB_v00.mov,-,nclc,nclc,10010,569370593,1920,1080,1.778,CFR,29.970,712428743,-,-,-,-,-,-,-,-
+,01_LACStartingLineups,011_LACStartingLineup_AUD_F_v01.mov,1,,0,075,011,001,AUD_F,10s,,-,,,,7/22/2020,075_LAC_Misc,01_LACStartingLineups,\075_LAC_Misc\01_LACStartingLineups\011_LACStartingLineup_AUD_F_v01.mov,-,nclc,nclc,10010,2032789402,10160,1600,6.350,CFR,29.970,2543533359,-,-,-,-,-,-,-,-
+,,014_LACStartingLineup_RIB_F_v01.mov,1,,0,075,014,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,01_LACStartingLineups,\075_LAC_Misc\01_LACStartingLineups\014_LACStartingLineup_RIB_F_v01.mov,-,nclc,nclc,10010,147589680,9504,144,66.000,CFR,29.970,184674868,-,-,-,-,-,-,-,-
+,,018_LACStartingLineup_SCB_v01.mov,1,,,075,018,017,SCB,10s,,-,,,,7/22/2020,075_LAC_Misc,01_LACStartingLineups,\075_LAC_Misc\01_LACStartingLineups\018_LACStartingLineup_SCB_v01.mov,-,nclc,nclc,10010,312652524,1920,1080,1.778,CFR,29.970,391209938,-,-,-,-,-,-,-,-
+,02_MatchupClippersvsNets,021_MatchupClippersvsNets_AUD_F_v02.mov,2,,2,075,021,001,AUD_F,10s,,-,,,"Should have SCB, AUD, RIB...",7/18/2020,075_LAC_Misc,02_MatchupClippersvsNets,\075_LAC_Misc\02_MatchupClippersvsNets\021_MatchupClippersvsNets_AUD_F_v02.mov,-,nclc,nclc,10010,2468982918,10160,1600,6.350,CFR,29.970,3089321041,-,-,-,-,-,-,-,-
+,,024_MatchupClippersvsNets_RIB_F_v01.mov,1,,,075,024,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,02_MatchupClippersvsNets,\075_LAC_Misc\02_MatchupClippersvsNets\024_MatchupClippersvsNets_RIB_F_v01.mov,-,nclc,nclc,10010,110267564,9504,144,66.000,CFR,29.970,137974943,-,-,-,-,-,-,-,-
+,,028_MatchupClippersvsNets_SCB_v01.mov,1,,,075,028,017,SCB,10s,,-,,,,7/22/2020,075_LAC_Misc,02_MatchupClippersvsNets,\075_LAC_Misc\02_MatchupClippersvsNets\028_MatchupClippersvsNets_SCB_v01.mov,-,nclc,nclc,10010,340681373,1920,1080,1.778,CFR,29.970,426281086,-,-,-,-,-,-,-,-
+,03_MatchupClippersvsPelicans,031_MatchupClippersvsPelicans_AUD_F_v01.mov,1,,,075,031,001,AUD_F,10s,,-,,,,7/22/2020,075_LAC_Misc,03_MatchupClippersvsPelicans,\075_LAC_Misc\03_MatchupClippersvsPelicans\031_MatchupClippersvsPelicans_AUD_F_v01.mov,-,nclc,nclc,10010,2615459521,10160,1600,6.350,CFR,29.970,3272600074,-,-,-,-,-,-,-,-
+,,034_MatchupClippersvsPelicans_RIB_F_v01.mov,1,,,075,034,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,03_MatchupClippersvsPelicans,\075_LAC_Misc\03_MatchupClippersvsPelicans\034_MatchupClippersvsPelicans_RIB_F_v01.mov,-,nclc,nclc,10010,113231926,9504,144,66.000,CFR,29.970,141684185,-,-,-,-,-,-,-,-
+,,038_MatchupClippersvsPelicans_SCB_v00.mov,0,,,075,038,017,SCB,10s,,-,,,,7/22/2020,075_LAC_Misc,03_MatchupClippersvsPelicans,\075_LAC_Misc\03_MatchupClippersvsPelicans\038_MatchupClippersvsPelicans_SCB_v00.mov,-,nclc,nclc,10010,353110058,1920,1080,1.778,CFR,29.970,441832494,-,-,-,-,-,-,-,-
+,04_MatchupClippersvsSuns,041_MatchupClippersvsSuns_AUD_F_v01.mov,1,,,075,041,001,AUD_F,10s,,-,,,,7/18/2020,075_LAC_Misc,04_MatchupClippersvsSuns,\075_LAC_Misc\04_MatchupClippersvsSuns\041_MatchupClippersvsSuns_AUD_F_v01.mov,-,nclc,nclc,10010,2647995558,10160,1600,6.350,CFR,29.970,3313310831,-,-,-,-,-,-,-,-
+,,044_MatchupClippersvsSuns_RIB_F_v01.mov,1,,,075,044,010,RIB_F,10s,,-,,,,7/18/2020,075_LAC_Misc,04_MatchupClippersvsSuns,\075_LAC_Misc\04_MatchupClippersvsSuns\044_MatchupClippersvsSuns_RIB_F_v01.mov,-,nclc,nclc,10010,114444666,9504,144,66.000,CFR,29.970,143201612,-,-,-,-,-,-,-,-
+,,048_MatchupClippersvsSuns_SCB_v01.mov,1,,,075,048,017,SCB,10s,,-,,,,7/22/2020,075_LAC_Misc,04_MatchupClippersvsSuns,\075_LAC_Misc\04_MatchupClippersvsSuns\048_MatchupClippersvsSuns_SCB_v01.mov,-,nclc,nclc,10010,354765439,1920,1080,1.778,CFR,29.970,443903796,-,-,-,-,-,-,-,-
+,05_MatchupClippersvsThunder,051_MatchupClippersvsThunder_AUD_F_v01.mov,1,,,075,051,001,AUD_F,10s,,-,,,,7/22/2020,075_LAC_Misc,05_MatchupClippersvsThunder,\075_LAC_Misc\05_MatchupClippersvsThunder\051_MatchupClippersvsThunder_AUD_F_v01.mov,-,nclc,nclc,10010,2602468466,10160,1600,6.350,CFR,29.970,3256345001,-,-,-,-,-,-,-,-
+,,054_MatchupClippersvsThunder_RIB_F_v01.mov,1,,,075,054,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,05_MatchupClippersvsThunder,\075_LAC_Misc\05_MatchupClippersvsThunder\054_MatchupClippersvsThunder_RIB_F_v01.mov,-,nclc,nclc,10010,111188856,9504,144,66.000,CFR,29.970,139127719,-,-,-,-,-,-,-,-
+,,058_MatchupClippersvsThunder_SCB_v01.mov,1,,,075,058,017,SCB,10s,,-,,,,7/22/2020,075_LAC_Misc,05_MatchupClippersvsThunder,\075_LAC_Misc\05_MatchupClippersvsThunder\058_MatchupClippersvsThunder_SCB_v01.mov,-,nclc,nclc,10010,353851170,1920,1080,1.778,CFR,29.970,442759815,-,-,-,-,-,-,-,-
+,06_VistorsStartingLineupBrooklynNets,061_VisitorsStartingLineupBrooklynNets_AUD_F_v01.mov,1,,,075,061,001,AUD_F,10s,,-,,,,7/22/2020,075_LAC_Misc,06_VistorsStartingLineupBrooklynNets,\075_LAC_Misc\06_VistorsStartingLineupBrooklynNets\061_VisitorsStartingLineupBrooklynNets_AUD_F_v01.mov,-,nclc,nclc,10010,2032789402,10160,1600,6.350,CFR,29.970,2543533359,-,-,-,-,-,-,-,-
+,,064_VisitorsStartingLineupBrooklynNets_RIB_F_v01.mov,1,,,075,064,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,06_VistorsStartingLineupBrooklynNets,\075_LAC_Misc\06_VistorsStartingLineupBrooklynNets\064_VisitorsStartingLineupBrooklynNets_RIB_F_v01.mov,-,nclc,nclc,10010,147589680,9504,144,66.000,CFR,29.970,184674868,-,-,-,-,-,-,-,-
+,,068_VisitorsStartingLineupBrooklynNets_SCB_v01.mov,1,,,075,068,017,SCB,10s,,-,,,,7/22/2020,075_LAC_Misc,06_VistorsStartingLineupBrooklynNets,\075_LAC_Misc\06_VistorsStartingLineupBrooklynNets\068_VisitorsStartingLineupBrooklynNets_SCB_v01.mov,-,nclc,nclc,10010,312652524,1920,1080,1.778,CFR,29.970,391209938,-,-,-,-,-,-,-,-
+,07_VisitorsStartingLineupNewOrleansPelicans,071_VisitorsStartingLineupNewOrleansPelicans_AUD_F_v01.mov,1,,,075,071,001,AUD_F,10s,,-,,,,7/22/2020,075_LAC_Misc,07_VisitorsStartingLineupNewOrleansPelicans,\075_LAC_Misc\07_VisitorsStartingLineupNewOrleansPelicans\071_VisitorsStartingLineupNewOrleansPelicans_AUD_F_v01.mov,-,nclc,nclc,10010,3337181214,10160,1600,6.350,CFR,29.970,4175655246,-,-,-,-,-,-,-,-
+,,074_VisitorsStartingLineupNewOrleansPelicans_RIB_F_v01.mov,1,,,075,074,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,07_VisitorsStartingLineupNewOrleansPelicans,\075_LAC_Misc\07_VisitorsStartingLineupNewOrleansPelicans\074_VisitorsStartingLineupNewOrleansPelicans_RIB_F_v01.mov,-,nclc,nclc,10010,297373033,9504,144,66.000,CFR,29.970,372091456,-,-,-,-,-,-,-,-
+,,078_VisitorsStartingLineupNewOrleansPelicans_SCB_v01.mov,1,,,075,078,017,SCB,10s,,-,,,,7/22/2020,075_LAC_Misc,07_VisitorsStartingLineupNewOrleansPelicans,\075_LAC_Misc\07_VisitorsStartingLineupNewOrleansPelicans\078_VisitorsStartingLineupNewOrleansPelicans_SCB_v01.mov,-,nclc,nclc,10010,381587294,1920,1080,1.778,CFR,29.970,477464655,-,-,-,-,-,-,-,-
+,08_VistorsStartingLineupOklahomaCityThunder,081_VisitorsStartingLineupOklahomaCityThunder_AUD_F_v01.mov,1,,,075,081,001,AUD_F,10s,,-,,,,7/22/2020,075_LAC_Misc,08_VistorsStartingLineupOklahomaCityThunder,\075_LAC_Misc\08_VistorsStartingLineupOklahomaCityThunder\081_VisitorsStartingLineupOklahomaCityThunder_AUD_F_v01.mov,-,nclc,nclc,10010,3338344392,10160,1600,6.350,CFR,29.970,4177110674,-,-,-,-,-,-,-,-
+,,084_VisitorsStartingLineupOklahomaCityThunder_RIB_F_v01.mov,1,,,075,084,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,08_VistorsStartingLineupOklahomaCityThunder,\075_LAC_Misc\08_VistorsStartingLineupOklahomaCityThunder\084_VisitorsStartingLineupOklahomaCityThunder_RIB_F_v01.mov,-,nclc,nclc,10010,381389530,1920,1080,1.778,CFR,29.970,477217203,-,-,-,-,-,-,-,-
+,,088_VisitorsStartingLineupOklahomaCityThunder_SCB_v02.mov,2,File is likely corrupted. Please Check -CD,,075,088,017,SCB,,,-U,,,,7/23/2020,075_LAC_Misc,08_VistorsStartingLineupOklahomaCityThunder,\075_LAC_Misc\08_VistorsStartingLineupOklahomaCityThunder\088_VisitorsStartingLineupOklahomaCityThunder_SCB_v02.mov,-U,-,-,-,-,-,-,-,-,-,1011585024,-,-,-,-,-,-,-,-
+,09_VisitorsStartingLineupPhoenix Suns,091_VisitorsStartingLineupPhoenixSuns_AUD_F_v01.mov,1,,,075,091,001,AUD_F,,,-F,,,,7/23/2020,075_LAC_Misc,09_VisitorsStartingLineupPhoenix Suns,\075_LAC_Misc\09_VisitorsStartingLineupPhoenix Suns\091_VisitorsStartingLineupPhoenixSuns_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,094_VisitorsStartingLineupPhoenixSuns_RIB_F_v01.mov,1,,,075,094,010,RIB_F,,,-F,,,,7/23/2020,075_LAC_Misc,09_VisitorsStartingLineupPhoenix Suns,\075_LAC_Misc\09_VisitorsStartingLineupPhoenix Suns\094_VisitorsStartingLineupPhoenixSuns_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,098_VisitorsStartingLineupPhoenixSuns_SCB_v01.mov,1,,,075,098,017,SCB,,,-F,,,,7/23/2020,075_LAC_Misc,09_VisitorsStartingLineupPhoenix Suns,\075_LAC_Misc\09_VisitorsStartingLineupPhoenix Suns\098_VisitorsStartingLineupPhoenixSuns_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,10_ClippersLogoLoop,101_ClippersLogoLoop_AUD_F_v00.mov,0,,,075,101,001,AUD_F,10s,,-,,,,7/22/2020,075_LAC_Misc,10_ClippersLogoLoop,\075_LAC_Misc\10_ClippersLogoLoop\101_ClippersLogoLoop_AUD_F_v00.mov,-,nclc,nclc,10010,2297168462,10160,1600,6.350,CFR,29.970,2876260430,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,104_ClippersLogoLoop_RIB_F_v00.mov,0,,,075,104,010,RIB_F,10s,,-,,,,7/22/2020,075_LAC_Misc,10_ClippersLogoLoop,\075_LAC_Misc\10_ClippersLogoLoop\104_ClippersLogoLoop_RIB_F_v00.mov,-,nclc,nclc,10010,99852858,9504,144,66.000,CFR,29.970,126865970,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,108_ClippersLogoLoop_SCB_v01.mov,1,,,075,108,017,SCB,,,-F,,,,7/23/2020,075_LAC_Misc,10_ClippersLogoLoop,\075_LAC_Misc\10_ClippersLogoLoop\108_ClippersLogoLoop_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+076_LAC_Intros_1,00_PaulGeorge,001_PaulGeorge_AUD_F_v01.mov,1,,0,076,001,001,AUD_F,10s,,-,,,Intros and if player is hot ,7/22/2020,076_LAC_Intros_1,00_PaulGeorge,\076_LAC_Intros_1\00_PaulGeorge\001_PaulGeorge_AUD_F_v01.mov,-,nclc,nclc,10010,3372407330,10160,1600,6.350,CFR,29.970,4219731968,-,-,-,-,-,-,-,-
+,,004_PaulGeorge_RIB_F_v01.mov,1,,0,076,004,010,RIB_F,10s,,-,,,,7/22/2020,076_LAC_Intros_1,00_PaulGeorge,\076_LAC_Intros_1\00_PaulGeorge\004_PaulGeorge_RIB_F_v01.mov,-,nclc,nclc,10010,251498112,9504,144,66.000,CFR,29.970,314690403,-,-,-,-,-,-,-,-
+,,008_PaulGeorge_SCB_v01.mov,1,,,076,008,017,SCB,13.8s,,-,,,,7/22/2020,076_LAC_Intros_1,00_PaulGeorge,\076_LAC_Intros_1\00_PaulGeorge\008_PaulGeorge_SCB_v01.mov,-,nclc,nclc,13814,438874598,1920,1080,1.778,CFR,29.970,757820486,-,-,-,-,-,-,-,-
+,01_KawhiLeonard,011_KawhiLeonard_AUD_F_v00.mov,0,,0,076,011,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,01_KawhiLeonard,\076_LAC_Intros_1\01_KawhiLeonard\011_KawhiLeonard_AUD_F_v00.mov,-,nclc,nclc,10010,3386763780,10160,1600,6.350,CFR,29.970,4237695493,-,-,-,-,-,-,-,-
+,,014_KawhiLeonard_RIB_F_v00.mov,0,,0,076,014,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,01_KawhiLeonard,\076_LAC_Intros_1\01_KawhiLeonard\014_KawhiLeonard_RIB_F_v00.mov,-,nclc,nclc,10010,254697810,9504,144,66.000,CFR,29.970,318694029,-,-,-,-,-,-,-,-
+,,018_KawhiLeonard_SCB_v00.mov,0,,0,076,018,017,SCB,10s,,-,,,,,076_LAC_Intros_1,01_KawhiLeonard,\076_LAC_Intros_1\01_KawhiLeonard\018_KawhiLeonard_SCB_v00.mov,-,nclc,nclc,10010,455340833,1920,1080,1.778,CFR,29.970,569748863,-,-,-,-,-,-,-,-
+,02_LouWilliams,021_LouWilliams_AUD_F_v01.mov,1,,,076,021,001,AUD_F,10s,,-,,,,7/22/2020,076_LAC_Intros_1,02_LouWilliams,\076_LAC_Intros_1\02_LouWilliams\021_LouWilliams_AUD_F_v01.mov,-,nclc,nclc,10010,3314426485,10160,1600,6.350,CFR,29.970,4147183362,-,-,-,-,-,-,-,-
+,,024_LouWilliams_RIB_F_v00.mov,0,,0,076,024,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,02_LouWilliams,\076_LAC_Intros_1\02_LouWilliams\024_LouWilliams_RIB_F_v00.mov,-,nclc,nclc,10010,256940956,9504,144,66.000,CFR,29.970,321500769,-,-,-,-,-,-,-,-
+,,028_LouWilliams_SCB_v00.mov,0,,0,076,028,017,SCB,10s,,-,,,,,076_LAC_Intros_1,02_LouWilliams,\076_LAC_Intros_1\02_LouWilliams\028_LouWilliams_SCB_v00.mov,-,nclc,nclc,10010,464412612,1920,1080,1.778,CFR,29.970,581099938,-,-,-,-,-,-,-,-
+,03_MontrezlHarrell,031_MontrezlHarrell_AUD_F_v00.mov,0,,0,076,031,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,03_MontrezlHarrell,\076_LAC_Intros_1\03_MontrezlHarrell\031_MontrezlHarrell_AUD_F_v00.mov,-,nclc,nclc,10010,3369625156,10160,1600,6.350,CFR,29.970,4216250769,-,-,-,-,-,-,-,-
+,,034_MontrezlHarrell_RIB_F_v00.mov,0,,0,076,034,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,03_MontrezlHarrell,\076_LAC_Intros_1\03_MontrezlHarrell\034_MontrezlHarrell_RIB_F_v00.mov,-,nclc,nclc,10010,254779957,9504,144,66.000,CFR,29.970,318796816,-,-,-,-,-,-,-,-
+,,038_MontrezlHarrell_SCB_v00.mov,0,,0,076,038,017,SCB,10s,,-,,,,,076_LAC_Intros_1,03_MontrezlHarrell,\076_LAC_Intros_1\03_MontrezlHarrell\038_MontrezlHarrell_SCB_v00.mov,-,nclc,nclc,10010,496102423,1920,1080,1.778,CFR,29.970,620751854,-,-,-,-,-,-,-,-
+,04_PatrickBeverley,041_PatrickBeverley_AUD_F_v00.mov,0,,0,076,041,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,04_PatrickBeverley,\076_LAC_Intros_1\04_PatrickBeverley\041_PatrickBeverley_AUD_F_v00.mov,-,nclc,nclc,10010,3318412951,10160,1600,6.350,CFR,29.970,4152171433,-,-,-,-,-,-,-,-
+,,044_PatrickBeverley_RIB_F_v00.mov,0,,0,076,044,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,04_PatrickBeverley,\076_LAC_Intros_1\04_PatrickBeverley\044_PatrickBeverley_RIB_F_v00.mov,-,nclc,nclc,10010,257734828,9504,144,66.000,CFR,29.970,322494102,-,-,-,-,-,-,-,-
+,,048_PatrickBeverley_SCB_v00.mov,0,,0,076,048,017,SCB,10s,,-,,,,,076_LAC_Intros_1,04_PatrickBeverley,\076_LAC_Intros_1\04_PatrickBeverley\048_PatrickBeverley_SCB_v00.mov,-,nclc,nclc,10010,452869854,1920,1080,1.778,CFR,29.970,566657067,-,-,-,-,-,-,-,-
+,05_IvicaZubac,051_IvicaZubac_AUD_F_v00.mov,0,,0,076,051,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,05_IvicaZubac,\076_LAC_Intros_1\05_IvicaZubac\051_IvicaZubac_AUD_F_v00.mov,-,nclc,nclc,10010,3280156384,10160,1600,6.350,CFR,29.970,4104302856,-,-,-,-,-,-,-,-
+,,054_IvicaZubac_RIB_F_v00.mov,0,,0,076,054,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,05_IvicaZubac,\076_LAC_Intros_1\05_IvicaZubac\054_IvicaZubac_RIB_F_v00.mov,-,nclc,nclc,10010,247044758,9504,144,66.000,CFR,29.970,309118138,-,-,-,-,-,-,-,-
+,,058_IvicaZubac_SCB_v00.mov,0,,0,076,058,017,SCB,10s,,-,,,,,076_LAC_Intros_1,05_IvicaZubac,\076_LAC_Intros_1\05_IvicaZubac\058_IvicaZubac_SCB_v00.mov,-,nclc,nclc,10010,498454883,1920,1080,1.778,CFR,29.970,623695372,-,-,-,-,-,-,-,-
+,06_LandryShamet,061_LandryShamet_AUD_F_v00.mov,0,,0,076,061,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,06_LandryShamet,\076_LAC_Intros_1\06_LandryShamet\061_LandryShamet_AUD_F_v00.mov,-,nclc,nclc,10010,3324283359,10160,1600,6.350,CFR,29.970,4159516788,-,-,-,-,-,-,-,-
+,,064_LandryShamet_RIB_F_v00.mov,0,,0,076,064,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,06_LandryShamet,\076_LAC_Intros_1\06_LandryShamet\064_LandryShamet_RIB_F_v00.mov,-,nclc,nclc,10010,253064207,9504,144,66.000,CFR,29.970,316649982,-,-,-,-,-,-,-,-
+,,068_LandryShamet_SCB_v00.mov,0,,0,076,068,017,SCB,10s,,-,,,,,076_LAC_Intros_1,06_LandryShamet,\076_LAC_Intros_1\06_LandryShamet\068_LandryShamet_SCB_v00.mov,-,nclc,nclc,10010,502245065,1920,1080,1.778,CFR,29.970,628437842,-,-,-,-,-,-,-,-
+,07_MarcusMorrisSr,071_MarcusMorrisSr_AUD_F_v00.mov,0,,0,076,071,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,07_MarcusMorrisSr,\076_LAC_Intros_1\07_MarcusMorrisSr\071_MarcusMorrisSr_AUD_F_v00.mov,-,nclc,nclc,10010,3310795891,10160,1600,6.350,CFR,29.970,4142640577,-,-,-,-,-,-,-,-
+,,074_MarcusMorrisSr_RIB_F_v00.mov,0,,0,076,074,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,07_MarcusMorrisSr,\076_LAC_Intros_1\07_MarcusMorrisSr\074_MarcusMorrisSr_RIB_F_v00.mov,-,nclc,nclc,10010,255653750,9504,144,66.000,CFR,29.970,319890150,-,-,-,-,-,-,-,-
+,,078_MarcusMorrisSr_SCB_v00.mov,0,,0,076,078,017,SCB,10s,,-,,,,,076_LAC_Intros_1,07_MarcusMorrisSr,\076_LAC_Intros_1\07_MarcusMorrisSr\078_MarcusMorrisSr_SCB_v00.mov,-,nclc,nclc,10010,510960188,1920,1080,1.778,CFR,29.970,639342651,-,-,-,-,-,-,-,-
+,08_ReggieJackson,081_ReggieJackson_AUD_F_v00.mov,0,,0,076,081,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,08_ReggieJackson,\076_LAC_Intros_1\08_ReggieJackson\081_ReggieJackson_AUD_F_v00.mov,-,nclc,nclc,10010,3284074182,10160,1600,6.350,CFR,29.970,4109205006,-,-,-,-,-,-,-,-
+,,084_ReggieJackson_RIB_F_v00.mov,0,,0,076,084,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,08_ReggieJackson,\076_LAC_Intros_1\08_ReggieJackson\084_ReggieJackson_RIB_F_v00.mov,-,nclc,nclc,10010,251789584,9504,144,66.000,CFR,29.970,315055108,-,-,-,-,-,-,-,-
+,,088_ReggieJackson_SCB_v00.mov,0,,0,076,088,017,SCB,10s,,-,,,,,076_LAC_Intros_1,08_ReggieJackson,\076_LAC_Intros_1\08_ReggieJackson\088_ReggieJackson_SCB_v00.mov,-,nclc,nclc,10010,503849316,1920,1080,1.778,CFR,29.970,630445163,-,-,-,-,-,-,-,-
+,09_JoakimNoah,091_JoakimNoah_AUD_F_v00.mov,0,,0,076,091,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,09_JoakimNoah,\076_LAC_Intros_1\09_JoakimNoah\091_JoakimNoah_AUD_F_v00.mov,-,nclc,nclc,10010,3277226185,10160,1600,6.350,CFR,29.970,4100636440,-,-,-,-,-,-,-,-
+,,094_JoakimNoah_RIB_F_v00.mov,0,,0,076,094,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,09_JoakimNoah,\076_LAC_Intros_1\09_JoakimNoah\094_JoakimNoah_RIB_F_v00.mov,-,nclc,nclc,10010,248811371,9504,144,66.000,CFR,29.970,311328615,-,-,-,-,-,-,-,-
+,,098_JoakimNoah_SCB_v00.mov,0,,0,076,098,017,SCB,10s,,-,,,,,076_LAC_Intros_1,09_JoakimNoah,\076_LAC_Intros_1\09_JoakimNoah\098_JoakimNoah_SCB_v00.mov,-,nclc,nclc,10010,544266412,1920,1080,1.778,CFR,29.970,681017105,-,-,-,-,-,-,-,-
+,10_JaMychalGreen,101_JamychalGreen_AUD_F_v00.mov,0,,0,076,101,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,10_JaMychalGreen,\076_LAC_Intros_1\10_JaMychalGreen\101_JamychalGreen_AUD_F_v00.mov,-,nclc,nclc,10010,3353131917,10160,1600,6.350,CFR,29.970,4195613583,-,-,-,-,-,-,-,-
+,,104_JamychalGreen_RIB_F_v00.mov,0,,0,076,104,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,10_JaMychalGreen,\076_LAC_Intros_1\10_JaMychalGreen\104_JamychalGreen_RIB_F_v00.mov,-,nclc,nclc,10010,250740674,9504,144,66.000,CFR,29.970,313742658,-,-,-,-,-,-,-,-
+,,108_JamychalGreen_SCB_v00.mov,0,,0,076,108,017,SCB,10s,,-,,,,,076_LAC_Intros_1,10_JaMychalGreen,\076_LAC_Intros_1\10_JaMychalGreen\108_JamychalGreen_SCB_v00.mov,-,nclc,nclc,10010,475444692,1920,1080,1.778,CFR,29.970,594903842,-,-,-,-,-,-,-,-
+,11_RodneyMcGruder,111_RodneyMcGruder_AUD_F_v00.mov,0,,0,076,111,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,11_RodneyMcGruder,\076_LAC_Intros_1\11_RodneyMcGruder\111_RodneyMcGruder_AUD_F_v00.mov,-,nclc,nclc,10010,3320891054,10160,1600,6.350,CFR,29.970,4155272163,-,-,-,-,-,-,-,-
+,,114_RodneyMcGruder_RIB_F_v00.mov,0,,0,076,114,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,11_RodneyMcGruder,\076_LAC_Intros_1\11_RodneyMcGruder\114_RodneyMcGruder_RIB_F_v00.mov,-,nclc,nclc,10010,249117697,9504,144,66.000,CFR,29.970,311711906,-,-,-,-,-,-,-,-
+,,118_RodneyMcGruder_SCB_v00.mov,0,,0,076,118,017,SCB,10s,,-,,,,,076_LAC_Intros_1,11_RodneyMcGruder,\076_LAC_Intros_1\11_RodneyMcGruder\118_RodneyMcGruder_SCB_v00.mov,-,nclc,nclc,10010,493316116,1920,1080,1.778,CFR,29.970,617265483,-,-,-,-,-,-,-,-
+,12_PatrickPatterson,121_PatrickPatterson_AUD_F_v00.mov,0,,0,076,121,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,12_PatrickPatterson,\076_LAC_Intros_1\12_PatrickPatterson\121_PatrickPatterson_AUD_F_v00.mov,-,nclc,nclc,10010,3330803454,10160,1600,6.350,CFR,29.970,4167675066,-,-,-,-,-,-,-,-
+,,124_PatrickPatterson_RIB_F_v00.mov,0,,0,076,124,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,12_PatrickPatterson,\076_LAC_Intros_1\12_PatrickPatterson\124_PatrickPatterson_RIB_F_v00.mov,-,nclc,nclc,10010,255035973,9504,144,66.000,CFR,29.970,319117156,-,-,-,-,-,-,-,-
+,,128_PatrickPatterson_SCB_v00.mov,0,,0,076,128,017,SCB,10s,,-,,,,,076_LAC_Intros_1,12_PatrickPatterson,\076_LAC_Intros_1\12_PatrickPatterson\128_PatrickPatterson_SCB_v00.mov,-,nclc,nclc,10010,498134310,1920,1080,1.778,CFR,29.970,623294255,-,-,-,-,-,-,-,-
+,13_TeranceMann,131_TeranceMann_AUD_F_v00.mov,0,,0,076,131,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,13_TeranceMann,\076_LAC_Intros_1\13_TeranceMann\131_TeranceMann_AUD_F_v00.mov,-,nclc,nclc,10010,3359602407,10160,1600,6.350,CFR,29.970,4203709791,-,-,-,-,-,-,-,-
+,,134_TeranceMann_RIB_F_v00.mov,0,,0,076,134,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,13_TeranceMann,\076_LAC_Intros_1\13_TeranceMann\134_TeranceMann_RIB_F_v00.mov,-,nclc,nclc,10010,257643224,9504,144,66.000,CFR,29.970,322379483,-,-,-,-,-,-,-,-
+,,138_TeranceMann_SCB_v00.mov,0,,0,076,138,017,SCB,10s,,-,,,,,076_LAC_Intros_1,13_TeranceMann,\076_LAC_Intros_1\13_TeranceMann\138_TeranceMann_SCB_v00.mov,-,nclc,nclc,10010,471388520,1920,1080,1.778,CFR,29.970,589828552,-,-,-,-,-,-,-,-
+,14_MfionduKabengele,141_MfionduKabengele_AUD_F_v00.mov,0,,0,076,141,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,14_MfionduKabengele,\076_LAC_Intros_1\14_MfionduKabengele\141_MfionduKabengele_AUD_F_v00.mov,-,nclc,nclc,10010,3390158081,10160,1600,6.350,CFR,29.970,4241942617,-,-,-,-,-,-,-,-
+,,144_MfionduKabengele_RIB_F_v00.mov,0,,0,076,144,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,14_MfionduKabengele,\076_LAC_Intros_1\14_MfionduKabengele\144_MfionduKabengele_RIB_F_v00.mov,-,nclc,nclc,10010,251824632,9504,144,66.000,CFR,29.970,315098962,-,-,-,-,-,-,-,-
+,,148_MfionduKabengele_SCB_v00.mov,0,,0,076,148,017,SCB,10s,,-,,,,,076_LAC_Intros_1,14_MfionduKabengele,\076_LAC_Intros_1\14_MfionduKabengele\148_MfionduKabengele_SCB_v00.mov,-,nclc,nclc,10010,477725832,1920,1080,1.778,CFR,29.970,597758141,-,-,-,-,-,-,-,-
+,15_JohnathanMotley,151_JohnathanMotley_AUD_F_v00.mov,0,,0,076,151,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,15_JohnathanMotley,\076_LAC_Intros_1\15_JohnathanMotley\151_JohnathanMotley_AUD_F_v00.mov,-,nclc,nclc,10010,3321448253,10160,1600,6.350,CFR,29.970,4155969358,-,-,-,-,-,-,-,-
+,,154_JohnathanMotley_RIB_F_v00.mov,0,,0,076,154,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,15_JohnathanMotley,\076_LAC_Intros_1\15_JohnathanMotley\154_JohnathanMotley_RIB_F_v00.mov,-,nclc,nclc,10010,255133478,9504,144,66.000,CFR,29.970,319239160,-,-,-,-,-,-,-,-
+,,158_JohnathanMotley_SCB_v00.mov,0,,0,076,158,017,SCB,10s,,-,,,,,076_LAC_Intros_1,15_JohnathanMotley,\076_LAC_Intros_1\15_JohnathanMotley\158_JohnathanMotley_SCB_v00.mov,-,nclc,nclc,10010,529009474,1920,1080,1.778,CFR,29.970,661926842,-,-,-,-,-,-,-,-
+,16_AmirCoffey,161_AmirCoffey_AUD_F_v00.mov,0,,0,076,161,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,16_AmirCoffey,\076_LAC_Intros_1\16_AmirCoffey\161_AmirCoffey_AUD_F_v00.mov,-,nclc,nclc,10010,3262693982,10160,1600,6.350,CFR,29.970,4082453004,-,-,-,-,-,-,-,-
+,,164_AmirCoffey_RIB_F_v00.mov,0,,0,076,164,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,16_AmirCoffey,\076_LAC_Intros_1\16_AmirCoffey\164_AmirCoffey_RIB_F_v00.mov,-,nclc,nclc,10010,251409260,9504,144,66.000,CFR,29.970,314579227,-,-,-,-,-,-,-,-
+,,168_AmirCoffey_SCB_v00.mov,0,,0,076,168,017,SCB,10s,,-,,,,,076_LAC_Intros_1,16_AmirCoffey,\076_LAC_Intros_1\16_AmirCoffey\168_AmirCoffey_SCB_v00.mov,-,nclc,nclc,10010,522019073,1920,1080,1.778,CFR,29.970,653180094,-,-,-,-,-,-,-,-
+,17_DocRivers,171_DocRivers_AUD_F_v00.mov,0,,0,076,171,001,AUD_F,10s,,-,,,,,076_LAC_Intros_1,17_DocRivers,\076_LAC_Intros_1\17_DocRivers\171_DocRivers_AUD_F_v00.mov,-,nclc,nclc,10010,3347625777,10160,1600,6.350,CFR,29.970,4188724018,-,-,-,-,-,-,-,-
+,,174_DocRivers_RIB_F_v00.mov,0,,0,076,174,010,RIB_F,10s,,-,,,,,076_LAC_Intros_1,17_DocRivers,\076_LAC_Intros_1\17_DocRivers\174_DocRivers_RIB_F_v00.mov,-,nclc,nclc,10010,255373095,9504,144,66.000,CFR,29.970,319538981,-,-,-,-,-,-,-,-
+,,178_DocRivers_SCB_v00.mov,,,0,076,178,017,SCB,10s,,-,,,,7/22/2020,076_LAC_Intros_1,17_DocRivers,\076_LAC_Intros_1\17_DocRivers\178_DocRivers_SCB_v00.mov,-,nclc,nclc,10010,472471505,1920,1080,1.778,CFR,29.970,591183638,-,-,-,-,-,-,-,-
+077_LAC_Intros_2,,,,,,,,,,,,-,,,,,077_LAC_Intros_2,17_DocRivers,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+078_LAC_Intros_3,,,,,,,,,,,,-,,,,,078_LAC_Intros_3,17_DocRivers,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+079_LAC_CRN_ROTATE,00_Kia,007_Kia_CRN_v03.mov,3,,,079,007,014,CRN,,,-,,,,7/23/2020,079_LAC_CRN_ROTATE,00_Kia,\079_LAC_CRN_ROTATE\00_Kia\007_Kia_CRN_v03.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,01_Cedars,017_Cedars_CRN_v01.mov,1,not delivered 7/23 11:40PM - kh,,079,017,014,CRN,,,-,,,,7/23/2020,079_LAC_CRN_ROTATE,01_Cedars,\079_LAC_CRN_ROTATE\01_Cedars\017_Cedars_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,02_Lexus,,,,,,,,,,,-,,,,7/23/2020,079_LAC_CRN_ROTATE,02_Lexus,\079_LAC_CRN_ROTATE\02_Lexus\047_ClippersLogoLoop_CRN_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,03_RedBull,,,not delivered 7/23 11:40PM - kh,,,,,,,,-,,,,7/23/2020,079_LAC_CRN_ROTATE,03_RedBull,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,04_ClippersLogoLoop,047_ClippersLogoLoop_CRN_v00.mov,0,,,079,047,014,CRN,,,-,,,,7/23/2020,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,#REF!,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,079_LAC_CRN_ROTATE,04_ClippersLogoLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

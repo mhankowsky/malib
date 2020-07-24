@@ -1,9 +1,7 @@
 # ----------------------------------------------
-# Michael Hankowsky  -- 7/15/2020
-# sequence_maker.py 
+# Michael Hankowsky  -- 7/22/2020
+# midi_button_maker.py 
 #
-# Create MA Sequence based on CSV file containting looks. 
-# Uses Telnet to program. Need MA Up and running. 
 
 import csv
 from telnetlib import Telnet
@@ -11,15 +9,16 @@ import time
 import struct
 
 # HEY! Change These per team!
-csv_filename = "csv/03_DAL.csv"
-sequence = 396
+csv_filename = "csv/20_TOR.csv"
+start_sequence = 2000
 
-start_layer = 101
+start_layer = 413
 
 
 #These Can Probably Stay the same
+cur_button = 0
 cur_cue = 0
-cur_layer = 0
+cur_layer = start_layer
 cur_label = 'none'
 ma_ip = "192.168.1.141"
 ma_port = 30000
@@ -58,8 +57,7 @@ def bankslotmap(tn, layer, bank, slot, mapping):
     time.sleep(0.05)
     
 def storecue(tn, sequence, cue):
-    tn.write(b"Store Sequence " + str(sequence).encode('ascii') + b" Cue " +
-    str(cue).encode('ascii') + eol)
+    tn.write(b"Store Sequence " + enc(sequence) + b" Cue " +str(cue).encode('ascii') + eol)
     time.sleep(0.1)
 
 def labelcue(tn, sequence, cue, label):
@@ -74,9 +72,10 @@ def setCueAppearance(tn, sequence, cue, red, green, blue):
     time.sleep(0.1)
 
 def offthru(tn, sequence, cue):
-    tn.write(b"Fixture 101 thru 106 at Preset 1.1" + eol)
+    tn.write(b"Fixture " + enc(start_layer) + b" thru " +enc(cur_layer) + b"at Preset 1.1" + eol)
     tn.write(b"Store Sequence " + str(sequence).encode('ascii') +b" Cue " + str(cue).encode('ascii')
             + eol)
+    time.sleep(0.05)
 
 def atFull(tn, layer):
     tn.write(b"Fixture " + enc(layer) + b" at Preset 1.11" + eol)
@@ -91,6 +90,33 @@ def unBlockSequence(tn, sequence):
     tn.write(b"Unblock Sequence " + enc(sequence) + b" Cue 1 thru" + eol)
     time.sleep(0.1)
 
+#Assuming all of the values are in the programmer
+def saveButton(tn, cur_button, start_sequence, cur_layer, start_layer):
+    tn.write(b"Fixture " + enc(start_layer) + b" thru " + enc(cur_layer-1) + b" at Preset 1.12" + eol)
+    time.sleep(0.05)
+    tn.write(b"Fixture " + enc((((start_layer/100)*100))+91) + b" at Preset 9.1901" + eol)
+    time.sleep(0.05)
+    tn.write(b"Store Sequence " + enc(int(cur_button) + int(start_sequence)) + b" Cue 0.5" + eol)
+    time.sleep(0.1)
+    tn.write(b"Fixture " + enc(start_layer) + b" thru " + enc(cur_layer-1) + b" at Preset 1.11" + eol)
+    time.sleep(0.05)
+    tn.write(b"Store Sequence " + enc(int(cur_button) + int(start_sequence)) + b" Cue 1 " + eol)
+    time.sleep(0.1)
+    tn.write(b"Fixture " + enc(start_layer) + b" thru " + enc(cur_layer-1) + b" at Preset 1.1" + eol)
+    time.sleep(0.05)
+    tn.write(b"Fixture " + enc((((start_layer/100)*100))+91) + b" at Preset 9.1902" + eol)
+    time.sleep(0.05)
+    tn.write(b"Store Sequence " + enc(int(cur_button) + int(start_sequence)) + b" Cue 2 " + eol)
+    time.sleep(0.1)
+    
+def cleanoutCues(tn, sequence, start_layer):
+    tn.write(b"Remove Fixture " + enc(start_layer) + b" thru " + enc(start_layer + 5) + eol)
+    time.sleep(0.2)
+    tn.write(b"Store Sequence " + enc(sequence) + b" Cue 0.5 thru" + eol)
+    time.sleep(0.5)
+    
+
+
 tn = Telnet(ma_ip, ma_port) 
 line = tn.read_until(b"login !")
 time.sleep(0.01)
@@ -98,8 +124,6 @@ tn.write(b"Login hank "+eol)
 
 #We have logged in 
 
-#Blow out sequence
-blowoutSequence(tn, sequence)
 
 #read some info
 with open(csv_filename) as csvfile: 
@@ -108,52 +132,28 @@ with open(csv_filename) as csvfile:
     next(reader)
     next(reader)
     for row in reader: 
-        print(row)
-        #Grab the new category
-        if (row[0] != ''):
-            cur_category = row[0]
-        #IF we dont have a file name and look we skip!
-        if (row[2] == '' and row[1] == ''):
-            continue
-        #We have a new Cue
-        if (row[1] != ''): 
-            #Store the old cue, dont store if this is the first time we see a cue
-            if(cur_cue > 0):
-                storecue(tn, sequence, cur_cue)
-                labelcue(tn, sequence, cur_cue, cur_label)
-                print('storing cue:'+str(cur_cue)+' called:'+cur_label)
-            cur_cue += 1
-            cur_layer = start_layer
-            cur_label = cur_category[0:3] + " " + row[1]
-            #set our layers to 0 in this cue
-            offthru(tn, sequence, cur_cue)
-            
-            clearall(tn)
+        #print(row)
 
-            if(row[6] != ''):#Now put this info in the programmer
+        #Is there Midi info? 
+        if(row[13] != ''):
+            #is it the cur button?  Then just map that bitch 
+            if(row[13] == cur_button):
                 bankslotmap(tn, cur_layer, row[6], row[7], row[8])
-                atFull(tn, cur_layer)
                 cur_layer += 1
-                time.sleep(0.1)
-                setCueAppearance(tn, sequence, cur_cue, 0, 0, 0)
-            else:
-                setCueAppearance(tn, sequence, cur_cue, 100, 50, 0)
-            
-        else:
-            bankslotmap(tn, cur_layer, row[6], row[7], row[8])
-            atFull(tn, cur_layer)
-            cur_layer += 1
-            time.sleep(0.1)
-            
-#We are at the end but we still have not stored the last cue!
-storecue(tn, sequence, cur_cue)
-labelcue(tn, sequence, cur_cue, cur_label)
+            #New button! Save the old one first
+            if(row[13] != cur_button):
+                if(cur_button > 0):
+                    saveButton(tn, cur_button, start_sequence, cur_layer, start_layer)
+                    print("Stored Button " + cur_button)
+                cur_button = row[13]
+                cleanoutCues(tn, (int(cur_button)+int(start_sequence)), start_layer)
+                cur_layer = start_layer
+                clearall(tn)
+                bankslotmap(tn, cur_layer, row[6], row[7], row[8])
+                cur_layer += 1
 
-time.sleep(0.1)
+#still have one last button to save!
+saveButton(tn, cur_button, start_sequence, cur_layer, start_layer)
 clearall(tn)
-time.sleep(0.1)
-unBlockSequence(tn, sequence)
-
-time.sleep(1)
 
 tn.close()    

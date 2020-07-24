@@ -1,0 +1,260 @@
+NEW ORLEANS PELICANS Media Delivery,,SYNC COMPLETE,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120_NOP_PCC,01_Defense,014_Defense_RIB_F_v02.mov,2,,1,120,014,010,RIB_F,2.67s,,-,46,,,7/19/2020 7:39:25,120_NOP_PCC,01_Defense,\120_NOP_PCC\01_Defense\014_Defense_RIB_F_v02.mov,-,nclc,nclc,2670,302794681,9504,144,66.000,CFR,29.970,102036927,PCM,Little / Signed,sowt,2670,2,L R,44100,16
+,02_LetsGoPels,024_LetsGoPels_RIB_F_v02.mov,2,,1,120,024,010,RIB_F,2.67s,,-,45,,,7/19/2020 7:39:29,120_NOP_PCC,02_LetsGoPels,\120_NOP_PCC\02_LetsGoPels\024_LetsGoPels_RIB_F_v02.mov,-,nclc,nclc,2670,204502917,9504,144,66.000,CFR,29.970,69240155,PCM,Little / Signed,sowt,2670,2,L R,44100,16
+,03_Defense,034_Defense_RIB_F_v02.mov,2,,1,120,034,010,RIB_F,2.33s,,-,47,,,7/19/2020 7:39:29,120_NOP_PCC,03_Defense,\120_NOP_PCC\03_Defense\034_Defense_RIB_F_v02.mov,-,nclc,nclc,2336,389488760,9504,144,66.000,CFR,29.970,114659677,PCM,Little / Signed,sowt,2336,2,L R,44100,16
+,04_Defense,044_Defense_RIB_F_v02.mov,2,,1,120,044,010,RIB_F,2.67s,,-,48,,,7/19/2020 7:39:29,120_NOP_PCC,04_Defense,\120_NOP_PCC\04_Defense\044_Defense_RIB_F_v02.mov,-,nclc,nclc,2670,223291932,9504,144,66.000,CFR,29.970,75502103,PCM,Little / Signed,sowt,2670,2,L R,44100,16
+,05_And1,051_And1_AUD_F_v01.mov,1,,1,120,051,001,AUD_F,8.03s,,-,51,,,,120_NOP_PCC,05_And1,\120_NOP_PCC\05_And1\051_And1_AUD_F_v01.mov,-,nclc,nclc,8042,3785039911,10160,1600,6.350,CFR,29.970,3806065822,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,,054_And1_RIB_F_v02.mov,2,,1,120,054,010,RIB_F,8s,,-,51,,,,120_NOP_PCC,05_And1,\120_NOP_PCC\05_And1\054_And1_RIB_F_v02.mov,-,nclc,nclc,8008,317889970,9504,144,66.000,CFR,29.970,319683320,PCM,Little / Signed,sowt,8008,2,L R,44100,16
+,,058_And1_SCB_v01.mov,1,,1,120,058,017,SCB,20s,,-,51,,,,120_NOP_PCC,05_And1,\120_NOP_PCC\05_And1\058_And1_SCB_v01.mov,-,nclc,nclc,20020,485150842,1920,1080,1.778,CFR,29.970,1217669170,PCM,Little / Signed,sowt,20020,2,L R,44100,16
+,06_PelsBall,061_PelsBall_AUD_F_v02.mov,2,,2,120,061,001,AUD_F,8.03s,,-,21,,,,120_NOP_PCC,06_PelsBall,\120_NOP_PCC\06_PelsBall\061_PelsBall_AUD_F_v02.mov,-,nclc,nclc,8042,3839140644,10160,1600,6.350,CFR,29.970,3860446355,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,,064_PelsBall_RIB_F_v03.mov,3,,2,120,064,010,RIB_F,8s,,-,21,,,7/19/2020 7:39:29,120_NOP_PCC,06_PelsBall,\120_NOP_PCC\06_PelsBall\064_PelsBall_RIB_F_v03.mov,-,nclc,nclc,8008,371965323,9504,144,66.000,CFR,29.970,373794651,PCM,Little / Signed,sowt,8008,2,L R,44100,16
+,,068_PelsBall_SCB_v01.mov,1,,1,120,068,017,SCB,8.03s,,-,21,,,,120_NOP_PCC,06_PelsBall,\120_NOP_PCC\06_PelsBall\068_PelsBall_SCB_v01.mov,-,nclc,nclc,8042,477363519,1920,1080,1.778,CFR,29.970,481520940,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,07_NiceBlock,071_NiceBlock_AUD_F_v02.mov,2,,2,120,071,001,AUD_F,8.03s,,-,52,,,,120_NOP_PCC,07_NiceBlock,\120_NOP_PCC\07_NiceBlock\071_NiceBlock_AUD_F_v02.mov,-,nclc,nclc,8042,3788295120,10160,1600,6.350,CFR,29.970,3809337849,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,,074_NiceBlock_RIB_F_v03.mov,3,,2,120,074,010,RIB_F,8s,,-,52,,,7/19/2020 7:39:30,120_NOP_PCC,07_NiceBlock,\120_NOP_PCC\07_NiceBlock\074_NiceBlock_RIB_F_v03.mov,-,nclc,nclc,8008,366392254,9504,144,66.000,CFR,29.970,368216007,PCM,Little / Signed,sowt,8008,2,L R,44100,16
+,,078_NiceBlock_SCB_v01.mov,1,,1,120,078,017,SCB,8.03s,,-,52,,,,120_NOP_PCC,07_NiceBlock,\120_NOP_PCC\07_NiceBlock\078_NiceBlock_SCB_v01.mov,-,nclc,nclc,8042,483962182,1920,1080,1.778,CFR,29.970,488153732,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,08_SlamDunk,081_SlamDunk_AUD_F_v02.mov,2,,2,120,081,001,AUD_F,8.03s,,-,41,,,,120_NOP_PCC,08_SlamDunk,\120_NOP_PCC\08_SlamDunk\081_SlamDunk_AUD_F_v02.mov,-,nclc,nclc,8042,2753494521,10160,1600,6.350,CFR,29.970,2769185446,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,,084_SlamDunk_RIB_F_v03.mov,3,,2,120,084,010,RIB_F,8s,,-,41,,,7/19/2020 7:39:34,120_NOP_PCC,08_SlamDunk,\120_NOP_PCC\08_SlamDunk\084_SlamDunk_RIB_F_v03.mov,-,nclc,nclc,8008,292094540,9504,144,66.000,CFR,29.970,293843899,PCM,Little / Signed,sowt,8008,2,L R,44100,16
+,,088_SlamDunk_SCB_v01.mov,1,,1,120,088,017,SCB,8.03s,,-,41,,,,120_NOP_PCC,08_SlamDunk,\120_NOP_PCC\08_SlamDunk\088_SlamDunk_SCB_v01.mov,-,nclc,nclc,8042,305454030,1920,1080,1.778,CFR,29.970,308722365,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,09_PelsWin,091_PelsWin_AUD_F_v02.mov,2,,2,120,091,001,AUD_F,8.03s,,-,,,,,120_NOP_PCC,09_PelsWin,\120_NOP_PCC\09_PelsWin\091_PelsWin_AUD_F_v02.mov,-,nclc,nclc,8042,3412230389,10160,1600,6.350,CFR,29.970,3431328190,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+,,094_PelsWin_RIB_F_v03.mov,3,,2,120,094,010,RIB_F,8s,,-,,,,7/19/2020 7:39:34,120_NOP_PCC,09_PelsWin,\120_NOP_PCC\09_PelsWin\094_PelsWin_RIB_F_v03.mov,-,nclc,nclc,8008,346152603,9504,144,66.000,CFR,29.970,347974250,PCM,Little / Signed,sowt,8008,2,L R,44100,16
+,,098_PelsWin_SCB_v01.mov,1,,1,120,098,017,SCB,8.03s,,-,,,,,120_NOP_PCC,09_PelsWin,\120_NOP_PCC\09_PelsWin\098_PelsWin_SCB_v01.mov,-,nclc,nclc,8042,458458128,1920,1080,1.778,CFR,29.970,462517771,PCM,Little / Signed,sowt,8042,2,L R,44100,16
+121_NOP_FERA,01_AnthemMMiller,010_AnthemMMiller_AUDIO_v01.mov,1,,1,121,010,024,AUDIO,1m40.07s,,-,,,,,121_NOP_FERA,01_AnthemMMiller,\121_NOP_FERA\01_AnthemMMiller\010_AnthemMMiller_AUDIO_v01.mov,-,nclc,nclc,100167,96016,16,16,1.000,CFR,29.970,20448266,PCM,Little / Signed,sowt,100167,2,L R,48000,16
+,,018_AnthemMMiller_SCB_v01.mov,1,,1,121,018,017,SCB,1m40.1s,,-,,,,,121_NOP_FERA,01_AnthemMMiller,\121_NOP_FERA\01_AnthemMMiller\018_AnthemMMiller_SCB_v01.mov,-,nclc,nclc,100201,391299959,1920,1080,1.778,CFR,29.970,4918881269,PCM,Little / Signed,sowt,100201,2,L R,44100,16
+,02_AnthemSParigi,020_AnthemSParigi_AUDIO_v01.mov,1,,1,121,020,024,AUDIO,1m33.37s,,-,,,,,121_NOP_FERA,02_AnthemSParigi,\121_NOP_FERA\02_AnthemSParigi\020_AnthemSParigi_AUDIO_v01.mov,-,nclc,nclc,93461,96138,16,16,1.000,CFR,29.970,19080645,PCM,Little / Signed,sowt,93461,2,L R,48000,16
+,,028_AnthemSParigi_SCB_v01.mov,1,,1,121,028,017,SCB,1m33.37s,,-,,,,,121_NOP_FERA,02_AnthemSParigi,\121_NOP_FERA\02_AnthemSParigi\028_AnthemSParigi_SCB_v01.mov,-,nclc,nclc,93461,399982350,1920,1080,1.778,CFR,29.970,4689420697,PCM,Little / Signed,sowt,93461,2,L R,44100,16
+,03_AnthemRFerrer,030_AnthemRFerrer_AUDIO_v01.mov,1,,1,121,030,024,AUDIO,1m39.57s,,-,,,,,121_NOP_FERA,03_AnthemRFerrer,\121_NOP_FERA\03_AnthemRFerrer\030_AnthemRFerrer_AUDIO_v01.mov,-,nclc,nclc,99667,96150,16,16,1.000,CFR,29.970,20347756,PCM,Little / Signed,sowt,99667,2,L R,48000,16
+,,038_AnthemRFerrer_SCB_v01.mov,1,,1,121,038,017,SCB,1m39.7s,,-,,,,,121_NOP_FERA,03_AnthemRFerrer,\121_NOP_FERA\03_AnthemRFerrer\038_AnthemRFerrer_SCB_v01.mov,-,nclc,nclc,99800,311795733,1920,1080,1.778,CFR,29.970,3907390562,PCM,Little / Signed,sowt,99800,2,L R,44100,16
+,04_AnthemIThomas,040_AnthemIThomas_AUDIO_v01.mov,1,,1,121,040,024,AUDIO,1m13.37s,,-,,,,,121_NOP_FERA,04_AnthemIThomas,\121_NOP_FERA\04_AnthemIThomas\040_AnthemIThomas_AUDIO_v01.mov,-,nclc,nclc,73441,96133,16,16,1.000,CFR,29.970,14993608,PCM,Little / Signed,sowt,73441,2,L R,48000,16
+,,048_AnthemIThomas_SCB_v01.mov,1,,1,121,048,017,SCB,1m13.47s,,-,,,,,121_NOP_FERA,04_AnthemIThomas,\121_NOP_FERA\04_AnthemIThomas\048_AnthemIThomas_SCB_v01.mov,-,nclc,nclc,73541,282384886,1920,1080,1.778,CFR,29.970,2608912800,PCM,Little / Signed,sowt,73541,2,L R,44100,16
+,05_AnthemKWoodson,050_AnthemKWoodson_AUDIO_v01.mov,1,,1,121,050,024,AUDIO,1m30.2s,,-,,,,,121_NOP_FERA,05_AnthemKWoodson,\121_NOP_FERA\05_AnthemKWoodson\050_AnthemKWoodson_AUDIO_v01.mov,-,nclc,nclc,90291,96133,16,16,1.000,CFR,29.970,18432329,PCM,Little / Signed,sowt,90285,2,L R,48000,16
+,,058_AnthemKWoodson_SCB_v01.mov,1,,1,121,058,017,SCB,1m30.2s,,-,,,,,121_NOP_FERA,05_AnthemKWoodson,\121_NOP_FERA\05_AnthemKWoodson\058_AnthemKWoodson_SCB_v01.mov,-,nclc,nclc,90291,219891407,1920,1080,1.778,CFR,29.970,2497815610,PCM,Little / Signed,sowt,90291,2,L R,44100,16
+,06_FanReaction,068_FanReaction_SCB_v01.mov,1,,1,121,068,017,SCB,8.23s,,-,,,,,121_NOP_FERA,06_FanReaction,\121_NOP_FERA\06_FanReaction\068_FanReaction_SCB_v01.mov,-,nclc,nclc,8242,459215969,1920,1080,1.778,CFR,29.970,474567029,PCM,Little / Signed,sowt,8242,2,L R,44100,16
+,07_FanReaction,078_FanReaction_SCB_v01.mov,1,,1,121,078,017,SCB,9.3s,,-,,,,,121_NOP_FERA,07_FanReaction,\121_NOP_FERA\07_FanReaction\078_FanReaction_SCB_v01.mov,-,nclc,nclc,9310,406221595,1920,1080,1.778,CFR,29.970,474379497,PCM,Little / Signed,sowt,9310,2,L R,44100,16
+,08_FanReaction,088_FanReaction_SCB_v01.mov,1,,1,121,088,017,SCB,8.8s,,-,,,,,121_NOP_FERA,08_FanReaction,\121_NOP_FERA\08_FanReaction\088_FanReaction_SCB_v01.mov,-,nclc,nclc,8809,427254336,1920,1080,1.778,CFR,29.970,472035138,PCM,Little / Signed,sowt,8809,2,L R,44100,16
+,09_FanReaction,098_FanReaction_SCB_v01.mov,1,,1,121,098,017,SCB,8.6s,,-,,,,,121_NOP_FERA,09_FanReaction,\121_NOP_FERA\09_FanReaction\098_FanReaction_SCB_v01.mov,-,nclc,nclc,8609,332021307,1920,1080,1.778,CFR,29.970,358829909,PCM,Little / Signed,sowt,8609,2,L R,44100,16
+,10_FanReaction,108_FanReaction_SCB_v01.mov,1,,1,121,108,017,SCB,7.87s,,-,,,,,121_NOP_FERA,10_FanReaction,\121_NOP_FERA\10_FanReaction\108_FanReaction_SCB_v01.mov,-,nclc,nclc,7875,382683135,1920,1080,1.778,CFR,29.970,378101051,PCM,Little / Signed,sowt,7875,2,L R,44100,16
+,11_FanReaction,118_FanReaction_SCB_v01.mov,1,,1,121,118,017,SCB,6.87s,,-,,,,,121_NOP_FERA,11_FanReaction,\121_NOP_FERA\11_FanReaction\118_FanReaction_SCB_v01.mov,-,nclc,nclc,6874,386048145,1920,1080,1.778,CFR,29.970,332931193,PCM,Little / Signed,sowt,6874,2,L R,44100,16
+,12_FanReaction,128_FanReaction_SCB_v01.mov,1,,1,121,128,017,SCB,7.3s,,-,,,,,121_NOP_FERA,12_FanReaction,\121_NOP_FERA\12_FanReaction\128_FanReaction_SCB_v01.mov,-,nclc,nclc,7308,399040723,1920,1080,1.778,CFR,29.970,365807695,PCM,Little / Signed,sowt,7308,2,L R,44100,16
+,13_FanReaction,138_FanReaction_SCB_v01.mov,1,,1,121,138,017,SCB,7.43s,,-,,,,,121_NOP_FERA,13_FanReaction,\121_NOP_FERA\13_FanReaction\138_FanReaction_SCB_v01.mov,-,nclc,nclc,7441,400677858,1920,1080,1.778,CFR,29.970,374011467,PCM,Little / Signed,sowt,7441,2,L R,44100,16
+,14_FanReaction,148_FanReaction_SCB_v01.mov,1,,1,121,148,017,SCB,7.87s,,-,,,,,121_NOP_FERA,14_FanReaction,\121_NOP_FERA\14_FanReaction\148_FanReaction_SCB_v01.mov,-,nclc,nclc,7875,321150286,1920,1080,1.778,CFR,29.970,317533199,PCM,Little / Signed,sowt,7875,2,L R,44100,16
+,15_FanReaction,158_FanReaction_SCB_v01.mov,1,,1,121,158,017,SCB,5.53s,,-,,,,,121_NOP_FERA,15_FanReaction,\121_NOP_FERA\15_FanReaction\158_FanReaction_SCB_v01.mov,-,nclc,nclc,5539,361914067,1920,1080,1.778,CFR,29.970,251578331,PCM,Little / Signed,sowt,5539,2,L R,44100,16
+,16_FanReaction,168_FanReaction_SCB_v01.mov,1,,1,121,168,017,SCB,3.73s,,-,,,,,121_NOP_FERA,16_FanReaction,\121_NOP_FERA\16_FanReaction\168_FanReaction_SCB_v01.mov,-,nclc,nclc,3738,364615089,1920,1080,1.778,CFR,29.970,171008410,PCM,Little / Signed,sowt,3738,2,L R,44100,16
+,17_FanReaction,178_FanReaction_SCB_v01.mov,1,,1,121,178,017,SCB,5.1s,,-,,,,,121_NOP_FERA,17_FanReaction,\121_NOP_FERA\17_FanReaction\178_FanReaction_SCB_v01.mov,-,nclc,nclc,5106,396925968,1920,1080,1.778,CFR,29.970,254220418,PCM,Little / Signed,sowt,5106,2,L R,44100,16
+,18_FanReaction,188_FanReaction_SCB_v01.mov,1,,1,121,188,017,SCB,4.83s,,-,,,,,121_NOP_FERA,18_FanReaction,\121_NOP_FERA\18_FanReaction\188_FanReaction_SCB_v01.mov,-,nclc,nclc,4839,349689588,1920,1080,1.778,CFR,29.970,212362261,PCM,Little / Signed,sowt,4839,2,L R,44100,16
+,19_FanReaction,198_FanReaction_SCB_v01.mov,1,,1,121,198,017,SCB,4.57s,,-,,,,,121_NOP_FERA,19_FanReaction,\121_NOP_FERA\19_FanReaction\198_FanReaction_SCB_v01.mov,-,nclc,nclc,4572,387903978,1920,1080,1.778,CFR,29.970,222482751,PCM,Little / Signed,sowt,4572,2,L R,44100,16
+,20_FanReaction,208_FanReaction_SCB_v01.mov,1,,1,121,208,017,SCB,4.47s,,-,,,,,121_NOP_FERA,20_FanReaction,\121_NOP_FERA\20_FanReaction\208_FanReaction_SCB_v01.mov,-,nclc,nclc,4472,324589205,1920,1080,1.778,CFR,29.970,182225187,PCM,Little / Signed,sowt,4472,2,L R,44100,16
+,21_FanReaction,218_FanReaction_SCB_v02.mov,2,delete v1 corrupted file? - CFD,2,121,218,017,SCB,7.3s,,-,,,,,121_NOP_FERA,21_FanReaction,\121_NOP_FERA\21_FanReaction\218_FanReaction_SCB_v02.mov,-,nclc,nclc,7308,327420876,1920,1080,1.778,CFR,29.970,300389184,PCM,Little / Signed,sowt,7308,2,L R,44100,16
+,22_FanReactionPierre,228_FanReactionPierre_SCB_v01.mov,1,,1,121,228,017,SCB,10.07s,,-,,,,,121_NOP_FERA,22_FanReactionPierre,\121_NOP_FERA\22_FanReactionPierre\228_FanReactionPierre_SCB_v01.mov,-,nclc,nclc,10077,351552095,1920,1080,1.778,CFR,29.970,444623024,PCM,Little / Signed,sowt,10077,2,L R,44100,16
+,23_FanReactionPierre,238_FanReactionPierre_SCB_v01.mov,1,,1,121,238,017,SCB,8.63s,,-,,,,,121_NOP_FERA,23_FanReactionPierre,\121_NOP_FERA\23_FanReactionPierre\238_FanReactionPierre_SCB_v01.mov,-,nclc,nclc,8642,351037353,1920,1080,1.778,CFR,29.970,380762649,PCM,Little / Signed,sowt,8642,2,L R,44100,16
+,24_FanReactionPierre,248_FanReactionPierre_SCB_v01.mov,1,,1,121,248,017,SCB,11.57s,,-,,,,,121_NOP_FERA,24_FanReactionPierre,\121_NOP_FERA\24_FanReactionPierre\248_FanReactionPierre_SCB_v01.mov,-,nclc,nclc,11579,348701810,1920,1080,1.778,CFR,29.970,506746529,PCM,Little / Signed,sowt,11579,2,L R,44100,16
+122_NOP_Image_1,,,,,,,,,,,,-,,,,,122_NOP_Image_1,24_FanReactionPierre,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+123_NOP_Image_2,,,,,,,,,,,,-,,,,,123_NOP_Image_2,24_FanReactionPierre,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+124_NOP_Video,01_GameIntro,010_GameIntro_AUDIO_v01.mov,1,,1,124,010,024,AUDIO,,,-F,,,Play logo loop w/ ,,124_NOP_Video,01_GameIntro,\124_NOP_Video\01_GameIntro\010_GameIntro_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_GameIntro_SCB_v01.mov,1,,1,124,018,017,SCB,5m2.07s,,-,,,,,124_NOP_Video,01_GameIntro,\124_NOP_Video\01_GameIntro\018_GameIntro_SCB_v01.mov,-,nclc,nclc,302369,93208969,1920,1080,1.778,CFR,29.970,3581048041,PCM,Little / Signed,sowt,302370,2,L R,48000,16
+,02_MardiGrasIndian,020_MardiGraIndian_AUDIO_v01.mov,1,,1,124,020,024,AUDIO,,,-F,,,4th Quarter Intro - With Logo Loop,,124_NOP_Video,02_MardiGrasIndian,\124_NOP_Video\02_MardiGrasIndian\020_MardiGraIndian_AUDIO_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,028_MardiGrasIndian_SCB_v01.mov,1,,1,124,028,017,SCB,1m3.93s,,-,,,,,124_NOP_Video,02_MardiGrasIndian,\124_NOP_Video\02_MardiGrasIndian\028_MardiGrasIndian_SCB_v01.mov,-,nclc,nclc,63998,518481670,1920,1080,1.778,CFR,29.970,4159984553,PCM,Little / Signed,sowt,63998,2,L R,48000,16
+,03_SpokenWord,030_SpokenWord_AUDIO_v01.mov,1,,1,124,030,024,AUDIO,53.03s,,-,,,W/ Logo Loop ,,124_NOP_Video,03_SpokenWord,\124_NOP_Video\03_SpokenWord\030_SpokenWord_AUDIO_v01.mov,-,nclc,nclc,53087,94224,16,16,1.000,CFR,29.970,10825830,PCM,Little / Signed,sowt,53087,2,L R,48000,16
+,,038_SpokenWord_SCB_v01.mov,1,,1,124,038,017,SCB,,,-F,,,,,124_NOP_Video,03_SpokenWord,\124_NOP_Video\03_SpokenWord\038_SpokenWord_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,04_WBDPRETIP,040_WBDPreTip_AUDIO_v02.mov,2,,1,124,040,024,AUDIO,34.07s,,-A,,,w/ Logo Loop ,7/19/2020 7:36:28,124_NOP_Video,04_WBDPRETIP,\124_NOP_Video\04_WBDPRETIP\040_WBDPreTip_AUDIO_v02.mov,-A,nclc,nclc,34101,81371,16,16,1.000,CFR,29.970,9169540,PCM,Little / Signed,sowt,34101,2,L R,44100,16
+,,048_WBDPreTip_SCB_v02.mov,2,,1,124,048,017,SCB,34.07s,,-,,,,7/19/2020 7:36:28,124_NOP_Video,04_WBDPRETIP,\124_NOP_Video\04_WBDPRETIP\048_WBDPreTip_SCB_v02.mov,-,nclc,nclc,34101,471074524,1920,1080,1.778,CFR,29.970,2016823035,PCM,Little / Signed,sowt,34101,2,L R,44100,16
+125_NOP_Misc,00_LOGOLOOP,011_LOGOLOOP_AUD_F_v01.mov,1,,1,125,011,001,AUD_F,,,-F,64,,Generic Loop ,,125_NOP_Misc,00_LOGOLOOP,\125_NOP_Misc\00_LOGOLOOP\011_LOGOLOOP_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,014_LOGOLOOP_RIB_F_v02.mov,2,,1,125,014,010,RIB_F,,,-F,64,,,7/19/2020 7:41:28,125_NOP_Misc,00_LOGOLOOP,\125_NOP_Misc\00_LOGOLOOP\014_LOGOLOOP_RIB_F_v02.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_LOGOLOOP_SCB_v01.mov,1,,1,125,018,017,SCB,,,-F,64,,,,125_NOP_Misc,00_LOGOLOOP,\125_NOP_Misc\00_LOGOLOOP\018_LOGOLOOP_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,01_WBD,011_WBD_AUD_F_v01.mov,1,,1,125,011,001,AUD_F,,,-F,19,,,,125_NOP_Misc,01_WBD,\125_NOP_Misc\01_WBD\011_WBD_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,014_WBD_RIB_F_v01.mov,1,,1,125,014,010,RIB_F,,,-F,19,,,,125_NOP_Misc,01_WBD,\125_NOP_Misc\01_WBD\014_WBD_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_WBD_SCB_v01.mov,1,,1,125,018,017,SCB,,,-F,19,,,,125_NOP_Misc,01_WBD,\125_NOP_Misc\01_WBD\018_WBD_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,02_StillWBD,021_StillWBD_AUD_F_v01.mov,1,,,125,021,001,AUD_F,5.03s,,-,20,,,7/19/2020 7:41:48,125_NOP_Misc,02_StillWBD,\125_NOP_Misc\02_StillWBD\021_StillWBD_AUD_F_v01.mov,-,nclc,nclc,5039,3812372567,10160,1600,6.350,CFR,29.970,2401935609,PCM,Little / Signed,sowt,5039,2,L R,44100,16
+,,024_StillWBD_RIB_F_v02.mov,2,,,125,024,010,RIB_F,10s,,-,20,,,7/19/2020 7:41:49,125_NOP_Misc,02_StillWBD,\125_NOP_Misc\02_StillWBD\024_StillWBD_RIB_F_v02.mov,-,nclc,nclc,10010,334021765,9504,144,66.000,CFR,29.970,420277478,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,028_StillWBD_SCB_v01.mov,1,,,125,028,017,SCB,5.03s,,-,20,,,7/19/2020 7:41:50,125_NOP_Misc,02_StillWBD,\125_NOP_Misc\02_StillWBD\028_StillWBD_SCB_v01.mov,-,nclc,nclc,5039,514202829,1920,1080,1.778,CFR,29.970,324759989,PCM,Little / Signed,sowt,5039,2,L R,44100,16
+126_NOP_Intros_1,01_IntroWilliamson,011_IntroWilliamson_AUD_F_v01.mov,1,,1,126,011,001,AUD_F,10s,,-,2,,Intros and if a player is hot ,,126_NOP_Intros_1,01_IntroWilliamson,\126_NOP_Intros_1\01_IntroWilliamson\011_IntroWilliamson_AUD_F_v01.mov,-,nclc,nclc,10010,2997291087,10160,1600,6.350,CFR,29.970,3752289740,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,014_IntroWilliamson_RIB_F_v01.mov,1,,1,126,014,010,RIB_F,15s,,-,2,,,,126_NOP_Intros_1,01_IntroWilliamson,\126_NOP_Intros_1\01_IntroWilliamson\014_IntroWilliamson_RIB_F_v01.mov,-,nclc,nclc,15015,271907375,9504,144,66.000,CFR,29.970,513029752,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,018_IntroWilliamson_SCB_v01.mov,1,,,126,018,017,SCB,10s,,-,2,Not on d3,,7/19/2020 7:44:04,126_NOP_Intros_1,01_IntroWilliamson,\126_NOP_Intros_1\01_IntroWilliamson\018_IntroWilliamson_SCB_v01.mov,-,nclc,nclc,10010,405589684,1920,1080,1.778,CFR,29.970,507497676,-,-,-,-,-,-,-,-
+,02_IntroHoliday,021_IntroHoliday_AUD_F_v01.mov,1,,1,126,021,001,AUD_F,10s,,-,8,,,,126_NOP_Intros_1,02_IntroHoliday,\126_NOP_Intros_1\02_IntroHoliday\021_IntroHoliday_AUD_F_v01.mov,-,nclc,nclc,10010,3003090125,10160,1600,6.350,CFR,29.970,3759545793,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,024_IntroHoliday_RIB_F_v01.mov,1,,1,126,024,010,RIB_F,15s,,-,8,,,,126_NOP_Intros_1,02_IntroHoliday,\126_NOP_Intros_1\02_IntroHoliday\024_IntroHoliday_RIB_F_v01.mov,-,nclc,nclc,15015,264899347,9504,144,66.000,CFR,29.970,499876547,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,028_IntroHoliday_SCB_v01.mov,1,,,126,028,017,SCB,10s,,-,8,Not on d3,,7/19/2020 7:44:06,126_NOP_Intros_1,02_IntroHoliday,\126_NOP_Intros_1\02_IntroHoliday\028_IntroHoliday_SCB_v01.mov,-,nclc,nclc,10010,436117318,1920,1080,1.778,CFR,29.970,545695416,-,-,-,-,-,-,-,-
+,03_IntroFavors,031_IntroFavors_AUD_F_v01.mov,1,,1,126,031,001,AUD_F,10s,,-,13,,,,126_NOP_Intros_1,03_IntroFavors,\126_NOP_Intros_1\03_IntroFavors\031_IntroFavors_AUD_F_v01.mov,-,nclc,nclc,10010,2827383686,10160,1600,6.350,CFR,29.970,3537770451,-,-,-,-,-,-,-,-
+,,034_IntroFavors_RIB_F_v01.mov,1,,1,126,034,010,RIB_F,15s,,-,13,,,,126_NOP_Intros_1,03_IntroFavors,\126_NOP_Intros_1\03_IntroFavors\034_IntroFavors_RIB_F_v01.mov,-,nclc,nclc,15015,271914856,9504,144,66.000,CFR,29.970,513043794,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,038_IntroFavors_SCB_v01.mov,1,,,126,038,017,SCB,10s,,-,13,Not on d3,,7/19/2020 7:44:07,126_NOP_Intros_1,03_IntroFavors,\126_NOP_Intros_1\03_IntroFavors\038_IntroFavors_SCB_v01.mov,-,nclc,nclc,10010,422418119,1920,1080,1.778,CFR,29.970,528554276,-,-,-,-,-,-,-,-
+,04_IntroBall,041_IntroBall_AUD_F_v01.mov,1,,1,126,041,001,AUD_F,10s,,-,3,,,,126_NOP_Intros_1,04_IntroBall,\126_NOP_Intros_1\04_IntroBall\041_IntroBall_AUD_F_v01.mov,-,nclc,nclc,10010,2990975101,10160,1600,6.350,CFR,29.970,3742464414,-,-,-,-,-,-,-,-
+,,044_IntroBall_RIB_F_v01.mov,1,,1,126,044,010,RIB_F,10s,,-,3,,,,126_NOP_Intros_1,04_IntroBall,\126_NOP_Intros_1\04_IntroBall\044_IntroBall_RIB_F_v01.mov,-,nclc,nclc,10010,279555449,9504,144,66.000,CFR,29.970,351596999,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,048_IntroBall_SCB_v01.mov,1,,,126,048,017,SCB,10s,,-,3,Not on d3,,7/19/2020 7:44:08,126_NOP_Intros_1,04_IntroBall,\126_NOP_Intros_1\04_IntroBall\048_IntroBall_SCB_v01.mov,-,nclc,nclc,10010,434157682,1920,1080,1.778,CFR,29.970,543243419,-,-,-,-,-,-,-,-
+,05_IntroIngram,051_IntroIngram_AUD_F_v01.mov,1,,1,126,051,001,AUD_F,10s,,-,10,,,,126_NOP_Intros_1,05_IntroIngram,\126_NOP_Intros_1\05_IntroIngram\051_IntroIngram_AUD_F_v01.mov,-,nclc,nclc,10010,2908298183,10160,1600,6.350,CFR,29.970,3639014817,-,-,-,-,-,-,-,-
+,,054_IntroIngram_RIB_F_v01.mov,1,,1,126,054,010,RIB_F,15s,,-,10,,,,126_NOP_Intros_1,05_IntroIngram,\126_NOP_Intros_1\05_IntroIngram\054_IntroIngram_RIB_F_v01.mov,-,nclc,nclc,15015,270457289,9504,144,66.000,CFR,29.970,510308120,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,058_IntroIngram_SCB_v01.mov,1,,,126,058,017,SCB,10s,,-,10,Not on d3,,7/19/2020 7:44:08,126_NOP_Intros_1,05_IntroIngram,\126_NOP_Intros_1\05_IntroIngram\058_IntroIngram_SCB_v01.mov,-,nclc,nclc,10010,387368635,1920,1080,1.778,CFR,29.970,484698565,-,-,-,-,-,-,-,-
+,06_IntroHart,061_IntroHart_AUD_F_v01.mov,1,,1,126,061,001,AUD_F,10s,,-,4,,,,126_NOP_Intros_1,06_IntroHart,\126_NOP_Intros_1\06_IntroHart\061_IntroHart_AUD_F_v01.mov,-,nclc,nclc,10010,2993509666,10160,1600,6.350,CFR,29.970,3745635791,-,-,-,-,-,-,-,-
+,,064_IntroHart_RIB_F_v01.mov,1,,1,126,064,010,RIB_F,15s,,-,4,,,,126_NOP_Intros_1,06_IntroHart,\126_NOP_Intros_1\06_IntroHart\064_IntroHart_RIB_F_v01.mov,-,nclc,nclc,15015,267554606,9504,144,66.000,CFR,29.970,504860142,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,068_IntroHart_SCB_v01.mov,1,,,126,068,017,SCB,10s,,-,4,Not on d3,,7/19/2020 7:48:11,126_NOP_Intros_1,06_IntroHart,\126_NOP_Intros_1\06_IntroHart\068_IntroHart_SCB_v01.mov,-,nclc,nclc,10010,443606211,1920,1080,1.778,CFR,29.970,555065902,-,-,-,-,-,-,-,-
+,07_IntroRedick,071_IntroRedick_AUD_F_v01.mov,1,,1,126,071,001,AUD_F,10s,,-,5,,,,126_NOP_Intros_1,07_IntroRedick,\126_NOP_Intros_1\07_IntroRedick\071_IntroRedick_AUD_F_v01.mov,-,nclc,nclc,10010,3021829243,10160,1600,6.350,CFR,29.970,3781070697,-,-,-,-,-,-,-,-
+,,074_IntroRedick_RIB_F_v01.mov,1,,1,126,074,010,RIB_F,15s,,-,5,,,,126_NOP_Intros_1,07_IntroRedick,\126_NOP_Intros_1\07_IntroRedick\074_IntroRedick_RIB_F_v01.mov,-,nclc,nclc,15015,271950894,9504,144,66.000,CFR,29.970,513111433,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,078_IntroRedick_SCB_v01.mov,1,,,126,078,017,SCB,10s,,-,5,Not on d3,,7/19/2020 7:48:13,126_NOP_Intros_1,07_IntroRedick,\126_NOP_Intros_1\07_IntroRedick\078_IntroRedick_SCB_v01.mov,-,nclc,nclc,10010,413075004,1920,1080,1.778,CFR,29.970,516863691,-,-,-,-,-,-,-,-
+,08_IntroMelli,081_IntroMelli_AUD_F_v01.mov,1,,1,126,081,001,AUD_F,10s,,-,12,,,,126_NOP_Intros_1,08_IntroMelli,\126_NOP_Intros_1\08_IntroMelli\081_IntroMelli_AUD_F_v01.mov,-,nclc,nclc,10010,3099288432,10160,1600,6.350,CFR,29.970,3877991605,-,-,-,-,-,-,-,-
+,,084_IntroMelli_RIB_F_v01.mov,1,,,126,084,010,RIB_F,15s,,-,12,,,7/19/2020 7:48:16,126_NOP_Intros_1,08_IntroMelli,\126_NOP_Intros_1\08_IntroMelli\084_IntroMelli_RIB_F_v01.mov,-,nclc,nclc,15015,267515774,9504,144,66.000,CFR,29.970,504787259,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,088_IntroMelli_SCB_v01.mov,1,,1,126,088,017,SCB,10s,,-,12,,,,126_NOP_Intros_1,08_IntroMelli,\126_NOP_Intros_1\08_IntroMelli\088_IntroMelli_SCB_v01.mov,-,nclc,nclc,10010,530291019,1920,1080,1.778,CFR,29.970,663530377,-,-,-,-,-,-,-,-
+,09_IntroMoore,091_IntroMoore_AUD_F_v01.mov,1,,1,126,091,001,AUD_F,10s,,-,16,,,,126_NOP_Intros_1,09_IntroMoore,\126_NOP_Intros_1\09_IntroMoore\091_IntroMoore_AUD_F_v01.mov,-,nclc,nclc,10010,2973419825,10160,1600,6.350,CFR,29.970,3720498353,-,-,-,-,-,-,-,-
+,,094_IntroMoore_RIB_F_v01.mov,1,,1,126,094,010,RIB_F,15s,,-,16,,,,126_NOP_Intros_1,09_IntroMoore,\126_NOP_Intros_1\09_IntroMoore\094_IntroMoore_RIB_F_v01.mov,-,nclc,nclc,15015,263665484,9504,144,66.000,CFR,29.970,497560738,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,098_IntroMoore_SCB_v01.mov,1,,,126,098,017,SCB,10s,,-,16,Not on d3,,7/19/2020 7:48:17,126_NOP_Intros_1,09_IntroMoore,\126_NOP_Intros_1\09_IntroMoore\098_IntroMoore_SCB_v01.mov,-,nclc,nclc,10010,526543306,1920,1080,1.778,CFR,29.970,658841046,-,-,-,-,-,-,-,-
+,10_IntroHayes,101_IntroHayes_AUD_F_v01.mov,1,,1,126,101,001,AUD_F,10s,,-,7,,,,126_NOP_Intros_1,10_IntroHayes,\126_NOP_Intros_1\10_IntroHayes\101_IntroHayes_AUD_F_v01.mov,-,nclc,nclc,10010,3046761911,10160,1600,6.350,CFR,29.970,3812267730,-,-,-,-,-,-,-,-
+,,104_IntroHayes_RIB_F_v01.mov,1,,1,126,104,010,RIB_F,15s,,-,7,,,,126_NOP_Intros_1,10_IntroHayes,\126_NOP_Intros_1\10_IntroHayes\104_IntroHayes_RIB_F_v01.mov,-,nclc,nclc,15015,279866416,9504,144,66.000,CFR,29.970,527967893,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,108_IntroHayes_SCB_v01.mov,1,,,126,108,017,SCB,10s,,-,7,Not on d3,,,126_NOP_Intros_1,10_IntroHayes,\126_NOP_Intros_1\10_IntroHayes\108_IntroHayes_SCB_v01.mov,-,nclc,nclc,10010,505831374,1920,1080,1.778,CFR,29.970,632925216,-,-,-,-,-,-,-,-
+,11_IntroJackson,111_IntroJackson_AUD_F_v01.mov,1,,1,126,111,001,AUD_F,10s,,-,11,,,,126_NOP_Intros_1,11_IntroJackson,\126_NOP_Intros_1\11_IntroJackson\111_IntroJackson_AUD_F_v01.mov,-,nclc,nclc,10010,3015274247,10160,1600,6.350,CFR,29.970,3774791191,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,114_IntroJackson_RIB_F_v01.mov,1,,1,126,114,010,RIB_F,15s,,-,11,,,,126_NOP_Intros_1,11_IntroJackson,\126_NOP_Intros_1\11_IntroJackson\114_IntroJackson_RIB_F_v01.mov,-,nclc,nclc,15015,268605186,9504,144,66.000,CFR,29.970,506831944,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,118_IntroJackson_SCB_v01.mov,1,,,126,118,017,SCB,10s,,-,11,Not on d3,,,126_NOP_Intros_1,11_IntroJackson,\126_NOP_Intros_1\11_IntroJackson\118_IntroJackson_SCB_v01.mov,-,nclc,nclc,10010,506425881,1920,1080,1.778,CFR,29.970,633669093,-,-,-,-,-,-,-,-
+,12_IntroAlexanderWalker,121_IntroAlexander_Walker_AUD_F_v01.mov,1,,1,126,121,001,AUD_F,10s,,-,1,,,,126_NOP_Intros_1,12_IntroAlexanderWalker,\126_NOP_Intros_1\12_IntroAlexanderWalker\121_IntroAlexander_Walker_AUD_F_v01.mov,-,nclc,nclc,10010,2845960420,10160,1600,6.350,CFR,29.970,3561014613,-,-,-,-,-,-,-,-
+,,124_IntroAlexanderWalker_RIB_F_v01.mov,1,,1,126,124,010,RIB_F,15s,,-,1,,,,126_NOP_Intros_1,12_IntroAlexanderWalker,\126_NOP_Intros_1\12_IntroAlexanderWalker\124_IntroAlexanderWalker_RIB_F_v01.mov,-,nclc,nclc,15015,269853570,9504,144,66.000,CFR,29.970,509175013,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,128_IntroAlexanderWalker_SCB_v01.mov,1,,,126,128,017,SCB,10s,,-,1,Not on d3,,,126_NOP_Intros_1,12_IntroAlexanderWalker,\126_NOP_Intros_1\12_IntroAlexanderWalker\128_IntroAlexanderWalker_SCB_v01.mov,-,nclc,nclc,10010,518887705,1920,1080,1.778,CFR,29.970,649261966,-,-,-,-,-,-,-,-
+,13_IntroWilliams,131_IntroWilliams_AUD_F_v01.mov,1,,1,126,131,001,AUD_F,10s,,-,14,,,,126_NOP_Intros_1,13_IntroWilliams,\126_NOP_Intros_1\13_IntroWilliams\131_IntroWilliams_AUD_F_v01.mov,-,nclc,nclc,10010,2982016050,10160,1600,6.350,CFR,29.970,3733176831,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,134_IntroWilliams_RIB_F_v01.mov,1,,1,126,134,010,RIB_F,15s,,-,14,,,,126_NOP_Intros_1,13_IntroWilliams,\126_NOP_Intros_1\13_IntroWilliams\134_IntroWilliams_RIB_F_v01.mov,-,nclc,nclc,15015,264160067,9504,144,66.000,CFR,29.970,498489010,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,138_IntroWilliams_SCB_v01.mov,1,,,126,138,017,SCB,10s,,-,14,Not on d3,,7/19/2020 7:48:17,126_NOP_Intros_1,13_IntroWilliams,\126_NOP_Intros_1\13_IntroWilliams\138_IntroWilliams_SCB_v01.mov,-,nclc,nclc,10010,531150097,1920,1080,1.778,CFR,29.970,664605300,-,-,-,-,-,-,-,-
+,14_IntroOkafor,141_IntroOkafor_AUD_F_v01.mov,1,,1,126,141,001,AUD_F,10s,,-,6,,,,126_NOP_Intros_1,14_IntroOkafor,\126_NOP_Intros_1\14_IntroOkafor\141_IntroOkafor_AUD_F_v01.mov,-,nclc,nclc,10010,3184160374,10160,1600,6.350,CFR,29.970,3984187728,-,-,-,-,-,-,-,-
+,,144_IntroOkafor_RIB_F_v01.mov,1,,1,126,144,010,RIB_F,15s,,-,6,,,,126_NOP_Intros_1,14_IntroOkafor,\126_NOP_Intros_1\14_IntroOkafor\144_IntroOkafor_RIB_F_v01.mov,-,nclc,nclc,15015,274704370,9504,144,66.000,CFR,29.970,518279356,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,148_IntroOkafor_SCB_v01.mov,1,,,126,148,017,SCB,10s,,-,6,Not on d3,,7/19/2020 7:48:21,126_NOP_Intros_1,14_IntroOkafor,\126_NOP_Intros_1\14_IntroOkafor\148_IntroOkafor_SCB_v01.mov,-,nclc,nclc,10010,567753163,1920,1080,1.778,CFR,29.970,710404932,-,-,-,-,-,-,-,-
+,15_IntroGray,151_IntroGray_AUD_F_v01.mov,1,,1,126,151,001,AUD_F,10s,,-,17,,,,126_NOP_Intros_1,15_IntroGray,\126_NOP_Intros_1\15_IntroGray\151_IntroGray_AUD_F_v01.mov,-,nclc,nclc,10010,2767014258,10160,1600,6.350,CFR,29.970,3464155570,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,154_IntroGray_RIB_F_v01.mov,1,,1,126,154,010,RIB_F,15s,,-,17,,,,126_NOP_Intros_1,15_IntroGray,\126_NOP_Intros_1\15_IntroGray\154_IntroGray_RIB_F_v01.mov,-,nclc,nclc,15015,267458674,9504,144,66.000,CFR,29.970,504680089,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,158_IntroGray_SCB_v01.mov,1,,,126,158,017,SCB,10s,,-,17,,,,126_NOP_Intros_1,15_IntroGray,\126_NOP_Intros_1\15_IntroGray\158_IntroGray_SCB_v01.mov,-,nclc,nclc,10010,544841906,1920,1080,1.778,CFR,29.970,681737192,-,-,-,-,-,-,-,-
+,16_IntroCheatham,161_IntroCheatham_AUD_F_v01.mov,1,,1,126,161,001,AUD_F,10s,,-,15,,,,126_NOP_Intros_1,16_IntroCheatham,\126_NOP_Intros_1\16_IntroCheatham\161_IntroCheatham_AUD_F_v01.mov,-,nclc,nclc,10010,2748995999,10160,1600,6.350,CFR,29.970,3441610201,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,164_IntroCheatham_RIB_F_v01.mov,1,,1,126,164,010,RIB_F,15s,,-,15,,,,126_NOP_Intros_1,16_IntroCheatham,\126_NOP_Intros_1\16_IntroCheatham\164_IntroCheatham_RIB_F_v01.mov,-,nclc,nclc,15015,265510610,9504,144,66.000,CFR,29.970,501023813,PCM,Little / Signed,sowt,15015,2,L R,44100,16
+,,168_IntroCheatham_SCB_v01.mov,1,,,126,168,017,SCB,10s,,-,15,Not on d3,,,126_NOP_Intros_1,16_IntroCheatham,\126_NOP_Intros_1\16_IntroCheatham\168_IntroCheatham_SCB_v01.mov,-,nclc,nclc,10010,502268892,1920,1080,1.778,CFR,29.970,628467655,-,-,-,-,-,-,-,-
+127_NOP_Intros_2,,,,,,,,,,,,-,,,,,127_NOP_Intros_2,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+128_NOP_Intros_3,,,,,,,,,,,,-,,,,,128_NOP_Intros_3,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+129_NOP_CRN_ROTATE,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,129_NOP_CRN_ROTATE,16_IntroCheatham,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

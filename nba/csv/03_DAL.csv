@@ -1,0 +1,260 @@
+DALLAS MAVERICKS Media Delivery,,SYNC COMPLETE,NO ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+030_DAL_PCC,00_EqualityWIL01,001_EqualityWIL01_AUD_F_v01.mov,1,,,030,001,001,AUD_F,10s,?,-,19,,When he blocks a shot,,030_DAL_PCC,00_EqualityWIL01,\030_DAL_PCC\00_EqualityWIL01\001_EqualityWIL01_AUD_F_v01.mov,-,nclc,nclc,10010,3285351084,10160,1600,6.350,CFR,29.970,4112601971,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,004_EqualityWIL01_RIB_F_v01.mov,1,,,030,004,010,RIB_F,10s,,-,19,,,,030_DAL_PCC,00_EqualityWIL01,\030_DAL_PCC\00_EqualityWIL01\004_EqualityWIL01_RIB_F_v01.mov,-,nclc,nclc,10010,325423196,9504,144,66.000,CFR,29.970,409263519,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,008_EqualityWIL01_SCB_v01.mov,1,,,030,008,017,SCB,10s,,-,19,,,,030_DAL_PCC,00_EqualityWIL01,\030_DAL_PCC\00_EqualityWIL01\008_EqualityWIL01_SCB_v01.mov,-,nclc,nclc,10010,414543827,1920,1080,1.778,CFR,29.970,520500796,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,01_KRISSTOPS,011_KRISSTOPS_AUD_F_v01.mov,1,,1,030,011,001,AUD_F,,,-,,,,7/23/2020 16:49:48,030_DAL_PCC,01_KRISSTOPS,\030_DAL_PCC\01_KRISSTOPS\011_KRISSTOPS_AUD_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,014_KRISSTOPS_RIB_F_v01.mov,1,,1,030,014,010,RIB_F,,,-,,,,7/23/2020 16:49:48,030_DAL_PCC,01_KRISSTOPS,\030_DAL_PCC\01_KRISSTOPS\014_KRISSTOPS_RIB_F_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,018_KRISSTOPS_SCB_v01.mov,1,,1,030,018,017,SCB,,,-,,,,7/23/2020 16:49:49,030_DAL_PCC,01_KRISSTOPS,\030_DAL_PCC\01_KRISSTOPS\018_KRISSTOPS_SCB_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,02_LETS_GO_MAVS_SUPER8,021_LETS_GO_MAVS_SUPER8_AUD_F_v01.mov,1,,1,030,021,001,AUD_F,10s,,-,45,,Offense basic ,,030_DAL_PCC,02_LETS_GO_MAVS_SUPER8,\030_DAL_PCC\02_LETS_GO_MAVS_SUPER8\021_LETS_GO_MAVS_SUPER8_AUD_F_v01.mov,-,nclc,nclc,10010,4232900262,10160,1600,6.350,CFR,29.970,5298445217,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,024_LETS_GO_MAVS_SUPER8_RIB_F_v01.mov,1,,1,030,024,010,RIB_F,10s,,-,45,,,,030_DAL_PCC,02_LETS_GO_MAVS_SUPER8,\030_DAL_PCC\02_LETS_GO_MAVS_SUPER8\024_LETS_GO_MAVS_SUPER8_RIB_F_v01.mov,-,nclc,nclc,10010,367916015,9504,144,66.000,CFR,29.970,462386166,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,028_LETS_GO_MAVS_SUPER8_SCB_v01.mov,1,,1,030,028,017,SCB,10s,,-,45,,,,030_DAL_PCC,02_LETS_GO_MAVS_SUPER8,\030_DAL_PCC\02_LETS_GO_MAVS_SUPER8\028_LETS_GO_MAVS_SUPER8_SCB_v01.mov,-,nclc,nclc,10010,486213744,1920,1080,1.778,CFR,29.970,610282704,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,03_DEFENSE_SUPER8,031_DEFENSE_SUPER8_AUD_F_v01.mov,1,,1,030,031,001,AUD_F,10s,,-,47,,,,030_DAL_PCC,03_DEFENSE_SUPER8,\030_DAL_PCC\03_DEFENSE_SUPER8\031_DEFENSE_SUPER8_AUD_F_v01.mov,-,nclc,nclc,10010,4176249808,10160,1600,6.350,CFR,29.970,5227574810,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,034_DEFENSE_SUPER8_RIB_F_v01.mov,1,,1,030,034,010,RIB_F,10s,,-,47,,,,030_DAL_PCC,03_DEFENSE_SUPER8,\030_DAL_PCC\03_DEFENSE_SUPER8\034_DEFENSE_SUPER8_RIB_F_v01.mov,-,nclc,nclc,10010,365865326,9504,144,66.000,CFR,29.970,459822777,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,038_DEFENSE_SUPER8_SCB_v01.mov,1,,1,030,038,017,SCB,10s,,-,47,,,,030_DAL_PCC,03_DEFENSE_SUPER8,\030_DAL_PCC\03_DEFENSE_SUPER8\038_DEFENSE_SUPER8_SCB_v01.mov,-,nclc,nclc,10010,560775388,1920,1080,1.778,CFR,29.970,703591598,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,04_1800_MAXI_K_3POINTER,041_1800_MAXI_K_3POINTER_AUD_F_v01.mov,1,,1,030,041,001,AUD_F,10s,,-,20,,When he hits a 3 and does the hand sign ,,030_DAL_PCC,04_1800_MAXI_K_3POINTER,\030_DAL_PCC\04_1800_MAXI_K_3POINTER\041_1800_MAXI_K_3POINTER_AUD_F_v01.mov,-,nclc,nclc,10010,2896524857,10160,1600,6.350,CFR,29.970,3626347709,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,044_1800_MAXI_K_3POINTER_RIB_F_v01.mov,1,,1,030,044,010,RIB_F,10s,,-,20,,,,030_DAL_PCC,04_1800_MAXI_K_3POINTER,\030_DAL_PCC\04_1800_MAXI_K_3POINTER\044_1800_MAXI_K_3POINTER_RIB_F_v01.mov,-,nclc,nclc,10010,305239787,9504,144,66.000,CFR,29.970,383994875,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,048_1800_MAXI_K_3POINTER_SCB_v01.mov,1,,1,030,048,017,SCB,10s,,-,20,,,,030_DAL_PCC,04_1800_MAXI_K_3POINTER,\030_DAL_PCC\04_1800_MAXI_K_3POINTER\048_1800_MAXI_K_3POINTER_SCB_v01.mov,-,nclc,nclc,10010,505398448,1920,1080,1.778,CFR,29.970,634450828,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,05_ONFIRE,051_OnFire_AUD_F_v01.mov,1,,1,030,051,001,AUD_F,10s,,-,51,,Hot timeout ,,030_DAL_PCC,05_ONFIRE,\030_DAL_PCC\05_ONFIRE\051_OnFire_AUD_F_v01.mov,-,nclc,nclc,10010,1145247228,10160,1600,6.350,CFR,29.970,1439418249,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,054_OnFire_RIB_F_v01.mov,1,,1,030,054,010,RIB_F,10s,,-,51,,,,030_DAL_PCC,05_ONFIRE,\030_DAL_PCC\05_ONFIRE\054_OnFire_RIB_F_v01.mov,-,nclc,nclc,10010,140154317,9504,144,66.000,CFR,29.970,181729726,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,058_OnFire_SCB_v01.mov,1,,1,030,058,017,SCB,10s,,-,51,,,,030_DAL_PCC,05_ONFIRE,\030_DAL_PCC\05_ONFIRE\058_OnFire_SCB_v01.mov,-,nclc,nclc,10010,182899030,1920,1080,1.778,CFR,29.970,235165770,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,06_LETS_GO_MAVS_LANGUAGES,,,,,,,,,,,-,,,,7/21/2020 8:16:02,030_DAL_PCC,06_LETS_GO_MAVS_LANGUAGES,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,030_DAL_PCC,06_LETS_GO_MAVS_LANGUAGES,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,030_DAL_PCC,06_LETS_GO_MAVS_LANGUAGES,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,07_MAVS_WIN,071_MAVS_WIN_AUD_F_v01.mov,1,,,030,071,001,AUD_F,10s,,-,,,,7/18/2020 13:30:07,030_DAL_PCC,07_MAVS_WIN,\030_DAL_PCC\07_MAVS_WIN\071_MAVS_WIN_AUD_F_v01.mov,-,nclc,nclc,10010,3152594829,10160,1600,6.350,CFR,29.970,3947048604,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,074_MAVS_WIN_RIB_F_v01.mov,1,,,030,074,010,RIB_F,10s,,-,,,,7/18/2020 13:30:06,030_DAL_PCC,07_MAVS_WIN,\030_DAL_PCC\07_MAVS_WIN\074_MAVS_WIN_RIB_F_v01.mov,-,nclc,nclc,10010,121971669,9504,144,66.000,CFR,29.970,154985828,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,,078_MAVS_WIN_SCB_v01.mov,1,,,030,078,017,SCB,10s,,-,,,,7/22/2020 19:37:56,030_DAL_PCC,07_MAVS_WIN,\030_DAL_PCC\07_MAVS_WIN\078_MAVS_WIN_SCB_v01.mov,-,nclc,nclc,10010,553345055,1920,1080,1.778,CFR,29.970,694695109,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+031_DAL_FERA,,,,,,,,,,,,-,,,,,031_DAL_FERA,07_MAVS_WIN,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+032_DAL_Image_1,,,,,,,,,,,,-,,,,,032_DAL_Image_1,07_MAVS_WIN,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+033_DAL_Image_2,,,,,,,,,,,,-,,,,,033_DAL_Image_2,07_MAVS_WIN,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+034_DAL_VIDEO,00_TIPOFFHYPE,000_TipoffHype_AUDIO_v01.mov,1,,1,034,000,024,AUDIO,2m14.37s,,-,,,,,034_DAL_VIDEO,00_TIPOFFHYPE,\034_DAL_VIDEO\00_TIPOFFHYPE\000_TipoffHype_AUDIO_v01.mov,-,nclc,nclc,134502,55900,16,16,1.000,CFR,29.970,27411675,PCM,Little / Signed,sowt,134502,2,L R,48000,16
+,,001_TipoffHype_AUD_F_v01.mov,1,,1,034,001,001,AUD_F,,,-F,,,,,034_DAL_VIDEO,00_TIPOFFHYPE,\034_DAL_VIDEO\00_TIPOFFHYPE\001_TipoffHype_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,004_TipoffHype_RIB_F_v01.mov,1,,,034,004,010,RIB_F,,,-F,,,,,034_DAL_VIDEO,00_TIPOFFHYPE,\034_DAL_VIDEO\00_TIPOFFHYPE\004_TipoffHype_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_TipoffHype_SCB_v01.mov,1,,,034,008,017,SCB,2m14.37s,,-,,,,,034_DAL_VIDEO,00_TIPOFFHYPE,\034_DAL_VIDEO\00_TIPOFFHYPE\008_TipoffHype_SCB_v01.mov,-,nclc,nclc,134502,123571492,1920,1080,1.778,CFR,29.970,2101937382,PCM,Little / Signed,sowt,134502,2,L R,44100,16
+,01_HalftimeHype,010_HalftimeHype_AUDIO_v01.mov,1,,,034,010,024,AUDIO,1m1.4s,,-,,,,,034_DAL_VIDEO,01_HalftimeHype,\034_DAL_VIDEO\01_HalftimeHype\010_HalftimeHype_AUDIO_v01.mov,-,nclc,nclc,61462,76419,16,16,1.000,CFR,29.970,12925397,PCM,Little / Signed,sowt,61462,2,L R,48000,16
+,,011_HalftimeHype_AUD_F_v01.mov,1,,,034,011,001,AUD_F,1m1.4s,,-,,,,,034_DAL_VIDEO,01_HalftimeHype,\034_DAL_VIDEO\01_HalftimeHype\011_HalftimeHype_AUD_F_v01.mov,-,nclc,nclc,61462,630158737,10160,1600,6.350,CFR,29.970,4841375769,-,-,-,-,-,-,-,-
+,,014_HalftimeHype_RIB_F_v01.mov,1,,,034,014,010,RIB_F,1m1.4s,,-,,,,,034_DAL_VIDEO,01_HalftimeHype,\034_DAL_VIDEO\01_HalftimeHype\014_HalftimeHype_RIB_F_v01.mov,-,nclc,nclc,61462,146358125,9504,144,66.000,CFR,29.970,1124489178,-,-,-,-,-,-,-,-
+,,018_HalftimeHype_SCB_v01.mov,1,,,034,018,017,SCB,1m1.4s,,-,,,,,034_DAL_VIDEO,01_HalftimeHype,\034_DAL_VIDEO\01_HalftimeHype\018_HalftimeHype_SCB_v01.mov,-,nclc,nclc,61462,436823645,1920,1080,1.778,CFR,29.970,3368315741,PCM,Little / Signed,sowt,61462,2,L R,48000,16
+,02_DOMINATEHYPE,020_DominateHype_AUDIO_v01.mov,1,,1,034,020,024,AUDIO,0m60s,,-,,,Coming out of a hot timeout ,,034_DAL_VIDEO,02_DOMINATEHYPE,\034_DAL_VIDEO\02_DOMINATEHYPE\020_DominateHype_AUDIO_v01.mov,-,nclc,nclc,60060,92947,16,16,1.000,CFR,29.970,12848353,PCM,Little / Signed,sowt,60060,2,L R,48000,16
+,,028_DominateHype_SCB_v01.mov,1,,1,034,028,017,SCB,0m60s,,-,,,Back half of TO's are programmed ,,034_DAL_VIDEO,02_DOMINATEHYPE,\034_DAL_VIDEO\02_DOMINATEHYPE\028_DominateHype_SCB_v01.mov,-,nclc,nclc,60060,332459936,1920,1080,1.778,CFR,29.970,2508096016,PCM,Little / Signed,sowt,60060,2,L R,48000,16
+,03_IGOTITHYPE,030_IGotItHype_AUDIO_v01.mov,1,,1,034,030,024,AUDIO,59.57s,,-,,,,,034_DAL_VIDEO,03_IGOTITHYPE,\034_DAL_VIDEO\03_IGOTITHYPE\030_IGotItHype_AUDIO_v01.mov,-,nclc,nclc,59627,82450,16,16,1.000,CFR,29.970,12361382,PCM,Little / Signed,sowt,59627,2,L R,48000,16
+,,038_IGotItHype_SCB_v01.mov,1,,1,034,038,017,SCB,59.57s,,-,,,,,034_DAL_VIDEO,03_IGOTITHYPE,\034_DAL_VIDEO\03_IGOTITHYPE\038_IGotItHype_SCB_v01.mov,-,nclc,nclc,59627,434869550,1920,1080,1.778,CFR,29.970,3252024086,PCM,Little / Signed,sowt,59627,2,L R,44100,16
+,04_AgropopHype,040_AgropopHype_AUDIO_v01.mov,1,,,034,040,024,AUDIO,1m6.67s,,-,,,,7/22/2020 21:47:08,034_DAL_VIDEO,04_AgropopHype,\034_DAL_VIDEO\04_AgropopHype\040_AgropopHype_AUDIO_v01.mov,-,nclc,nclc,66734,75735,16,16,1.000,CFR,29.970,13922047,PCM,Little / Signed,sowt,66734,2,L R,48000,16
+,,048_AgropopHype_SCB_v01.mov,1,,,034,048,017,SCB,1m6.67s,,-,,,,7/22/2020 21:47:16,034_DAL_VIDEO,04_AgropopHype,\034_DAL_VIDEO\04_AgropopHype\048_AgropopHype_SCB_v01.mov,-,nclc,nclc,66734,519069848,1920,1080,1.778,CFR,29.970,4343202269,PCM,Little / Signed,sowt,66734,2,L R,48000,16
+,05_PFRHype,050_PFRHype_AUDIO_v01.mov,1,,,034,050,024,AUDIO,1m16s,,-,,,,7/22/2020 21:47:19,034_DAL_VIDEO,05_PFRHype,\034_DAL_VIDEO\05_PFRHype\050_PFRHype_AUDIO_v01.mov,-,nclc,nclc,76076,77265,16,16,1.000,CFR,29.970,15633285,PCM,Little / Signed,sowt,76076,2,L R,48000,16
+,,058_PFRHype_SCB_v01.mov,1,,,034,058,017,SCB,1m16s,,-,,,,7/22/2020 21:47:20,034_DAL_VIDEO,05_PFRHype,\034_DAL_VIDEO\05_PFRHype\058_PFRHype_SCB_v01.mov,-,nclc,nclc,76076,534022819,1920,1080,1.778,CFR,29.970,5093193599,PCM,Little / Signed,sowt,76076,2,L R,48000,16
+,06_CantStopTheFeeling,060_CantStopTheFeeling_AUDIO_v01.mov,1,,1,034,060,024,AUDIO,1m1.9s,,-,,,All of these are fun for back of timeouts. ,,034_DAL_VIDEO,06_CantStopTheFeeling,\034_DAL_VIDEO\06_CantStopTheFeeling\060_CantStopTheFeeling_AUDIO_v01.mov,-,nclc,nclc,61962,76287,16,16,1.000,CFR,29.970,12847944,PCM,Little / Signed,sowt,61962,2,L R,48000,16
+,,068_CantStopTheFeeling_SCB_v01.mov,1,,1,034,068,017,SCB,1m1.9s,,-,,,Use for first 3 quarters ,,034_DAL_VIDEO,06_CantStopTheFeeling,\034_DAL_VIDEO\06_CantStopTheFeeling\068_CantStopTheFeeling_SCB_v01.mov,-,nclc,nclc,61962,447564384,1920,1080,1.778,CFR,29.970,3478752999,PCM,Little / Signed,sowt,61962,2,L R,48000,16
+,07_DelPool,070_DelPool_AUDIO_v01.mov,1,,1,034,070,024,AUDIO,56s,,-,,,,,034_DAL_VIDEO,07_DelPool,\034_DAL_VIDEO\07_DelPool\070_DelPool_AUDIO_v01.mov,-,nclc,nclc,56056,67939,16,16,1.000,CFR,29.970,12015178,PCM,Little / Signed,sowt,56056,2,L R,48000,16
+,,078_DelPool_SCB_v01.mov,1,,1,034,078,017,SCB,56s,,-,,,,,034_DAL_VIDEO,07_DelPool,\034_DAL_VIDEO\07_DelPool\078_DelPool_SCB_v01.mov,-,nclc,nclc,56056,376920031,1920,1080,1.778,CFR,29.970,2652620430,PCM,Little / Signed,sowt,56056,2,L R,48000,16
+,08_EuroStepBrothers,080_EuroStepBrothers_AUDIO_v01.mov,1,,1,034,080,024,AUDIO,1m10.5s,,-,,,,,034_DAL_VIDEO,08_EuroStepBrothers,\034_DAL_VIDEO\08_EuroStepBrothers\080_EuroStepBrothers_AUDIO_v01.mov,-,nclc,nclc,70571,64733,16,16,1.000,CFR,29.970,14481695,PCM,Little / Signed,sowt,70571,2,L R,48000,16
+,,088_EuroStepBrothers_SCB_v01.mov,1,,1,034,088,017,SCB,1m10.5s,,-,,,,,034_DAL_VIDEO,08_EuroStepBrothers,\034_DAL_VIDEO\08_EuroStepBrothers\088_EuroStepBrothers_SCB_v01.mov,-,nclc,nclc,70571,363892758,1920,1080,1.778,CFR,29.970,3223925603,PCM,Little / Signed,sowt,70571,2,L R,48000,16
+,09_Footloose,090_Footloose_AUDIO_v01.mov,1,,1,034,090,024,AUDIO,1m6.2s,,-,,,,,034_DAL_VIDEO,09_Footloose,\034_DAL_VIDEO\09_Footloose\090_Footloose_AUDIO_v01.mov,-,nclc,nclc,66267,76557,16,16,1.000,CFR,29.970,13706075,PCM,Little / Signed,sowt,66267,2,L R,48000,16
+,,098_Footloose_SCB_v01.mov,1,,1,034,098,017,SCB,1m6.2s,,-,,,,,034_DAL_VIDEO,09_Footloose,\034_DAL_VIDEO\09_Footloose\098_Footloose_SCB_v01.mov,-,nclc,nclc,66267,438841665,1920,1080,1.778,CFR,29.970,3648121763,PCM,Little / Signed,sowt,66267,2,L R,48000,16
+,10_GameNightFever,100_GameNightFever_AUDIO_v01.mov,1,,1,034,100,024,AUDIO,53.53s,,-,,,,,034_DAL_VIDEO,10_GameNightFever,\034_DAL_VIDEO\10_GameNightFever\100_GameNightFever_AUDIO_v01.mov,-,nclc,nclc,53587,75722,16,16,1.000,CFR,29.970,10980141,PCM,Little / Signed,sowt,53587,2,L R,48000,16
+,,108_GameNightFever_SCB_v01.mov,1,,1,034,108,017,SCB,53.53s,,-,,,,,034_DAL_VIDEO,10_GameNightFever,\034_DAL_VIDEO\10_GameNightFever\108_GameNightFever_SCB_v01.mov,-,nclc,nclc,53587,402463429,1920,1080,1.778,CFR,29.970,2706319886,PCM,Little / Signed,sowt,53587,2,L R,48000,16
+,11_JuanWick,110_JuanWick_AUDIO_v01.mov,1,,1,034,110,024,AUDIO,1m2.03s,,-,,,,,034_DAL_VIDEO,11_JuanWick,\034_DAL_VIDEO\11_JuanWick\110_JuanWick_AUDIO_v01.mov,-,nclc,nclc,62096,64026,16,16,1.000,CFR,29.970,12882012,PCM,Little / Signed,sowt,62096,2,L R,48000,16
+,,118_JuanWick_SCB_v01.mov,1,,1,034,118,017,SCB,1m2.03s,,-,,,,,034_DAL_VIDEO,11_JuanWick,\034_DAL_VIDEO\11_JuanWick\118_JuanWick_SCB_v01.mov,-,nclc,nclc,62096,321512344,1920,1080,1.778,CFR,29.970,2507940906,PCM,Little / Signed,sowt,62096,2,L R,48000,16
+,12_Mavalorian,120_Mavalorian_AUDIO_v01.mov,1,,1,034,120,024,AUDIO,1m11.67s,,-,,,,,034_DAL_VIDEO,12_Mavalorian,\034_DAL_VIDEO\12_Mavalorian\120_Mavalorian_AUDIO_v01.mov,-,nclc,nclc,71739,65837,16,16,1.000,CFR,29.970,15007185,PCM,Little / Signed,sowt,71739,2,L R,48000,16
+,,128_Mavalorian_SCB_v01.mov,1,,1,034,128,017,SCB,1m11.67s,,-,,,,,034_DAL_VIDEO,12_Mavalorian,\034_DAL_VIDEO\12_Mavalorian\128_Mavalorian_SCB_v01.mov,-,nclc,nclc,71739,285232391,1920,1080,1.778,CFR,29.970,2572181408,PCM,Little / Signed,sowt,71739,2,L R,48000,16
+,13_THJCreed,130_THJCreed_AUDIO_v01.mov,1,,1,034,130,024,AUDIO,58.17s,,-,,,,,034_DAL_VIDEO,13_THJCreed,\034_DAL_VIDEO\13_THJCreed\130_THJCreed_AUDIO_v01.mov,-,nclc,nclc,58225,60909,16,16,1.000,CFR,29.970,11986284,PCM,Little / Signed,sowt,58225,2,L R,48000,16
+,,138_THJCreed_SCB_v01.mov,1,,1,034,138,017,SCB,58.17s,,-,,,,,034_DAL_VIDEO,13_THJCreed,\034_DAL_VIDEO\13_THJCreed\138_THJCreed_SCB_v01.mov,-,nclc,nclc,58225,250303710,1920,1080,1.778,CFR,29.970,1833281276,PCM,Little / Signed,sowt,58225,2,L R,48000,16
+,14_TopGunMaverick,140_TopGunMaverick_AUDIO_v01.mov,1,,1,034,140,024,AUDIO,1m13.6s,,-,,,,,034_DAL_VIDEO,14_TopGunMaverick,\034_DAL_VIDEO\14_TopGunMaverick\140_TopGunMaverick_AUDIO_v01.mov,-,nclc,nclc,73674,59327,16,16,1.000,CFR,29.970,15224690,PCM,Little / Signed,sowt,73674,2,L R,48000,16
+,,148_TopGunMaverick_SCB_v01.mov,1,,1,034,148,017,SCB,1m13.6s,,-,,,,,034_DAL_VIDEO,14_TopGunMaverick,\034_DAL_VIDEO\14_TopGunMaverick\148_TopGunMaverick_SCB_v01.mov,-,nclc,nclc,73674,238603244,1920,1080,1.778,CFR,29.970,2212025528,PCM,Little / Signed,sowt,73674,2,L R,48000,16
+,15_Twins,150_Twins_AUDIO_v01.mov,1,,1,034,150,024,AUDIO,1m20.6s,,-,,,,,034_DAL_VIDEO,15_Twins,\034_DAL_VIDEO\15_Twins\150_Twins_AUDIO_v01.mov,-,nclc,nclc,80681,73627,16,16,1.000,CFR,29.970,16896491,PCM,Little / Signed,sowt,80681,2,L R,48000,16
+,,158_Twins_SCB_v01.mov,1,,1,034,158,017,SCB,1m20.6s,,-,,,,,034_DAL_VIDEO,15_Twins,\034_DAL_VIDEO\15_Twins\158_Twins_SCB_v01.mov,-,nclc,nclc,80681,362555826,1920,1080,1.778,CFR,29.970,3672560312,PCM,Little / Signed,sowt,80681,2,L R,48000,16
+,16_WildCrazyGuys,160_WildCrazyGuys_AUDIO_v01.mov,1,,1,034,160,024,AUDIO,1m9.7s,,-,,,,,034_DAL_VIDEO,16_WildCrazyGuys,\034_DAL_VIDEO\16_WildCrazyGuys\160_WildCrazyGuys_AUDIO_v01.mov,-,nclc,nclc,69770,76845,16,16,1.000,CFR,29.970,14738652,PCM,Little / Signed,sowt,69770,2,L R,48000,16
+,,168_WildCrazyGuys_SCB_v01.mov,1,,1,034,168,017,SCB,1m9.7s,,-,,,,,034_DAL_VIDEO,16_WildCrazyGuys,\034_DAL_VIDEO\16_WildCrazyGuys\168_WildCrazyGuys_SCB_v01.mov,-,nclc,nclc,69770,452567424,1920,1080,1.778,CFR,29.970,3961009096,PCM,Little / Signed,sowt,69770,2,L R,48000,16
+,17_HotTimeout,171_HotTimeout_AUD_F_v01.mov,1,,1,034,171,001,AUD_F,12.5s,,-,,,Hot Timout. Can also be used for generics ,,034_DAL_VIDEO,17_HotTimeout,\034_DAL_VIDEO\17_HotTimeout\171_HotTimeout_AUD_F_v01.mov,-,nclc,nclc,12513,2843954581,10160,1600,6.350,CFR,29.970,4448425012,-,-,-,-,-,-,-,-
+,,174_HotTimeout_RIB_F_v01.mov,1,,1,034,174,010,RIB_F,12.5s,,-,,,,,034_DAL_VIDEO,17_HotTimeout,\034_DAL_VIDEO\17_HotTimeout\174_HotTimeout_RIB_F_v01.mov,-,nclc,nclc,12513,246317189,9504,144,66.000,CFR,29.970,385566997,-,-,-,-,-,-,-,-
+,,178_HotTimeout_SCB_v01.mov,1,,,034,178,017,SCB,12.5s,,-,,,,7/21/2020 11:47:26,034_DAL_VIDEO,17_HotTimeout,\034_DAL_VIDEO\17_HotTimeout\178_HotTimeout_SCB_v01.mov,-,nclc,nclc,12513,315048314,1920,1080,1.778,CFR,29.970,492978195,-,-,-,-,-,-,-,-
+,18_LuuukaBigPlay,181_LuuukaBigPlay_AUD_F_v01.mov,1,,,034,181,001,AUD_F,15s,,-,,,,7/18/2020 13:10:21,034_DAL_VIDEO,18_LuuukaBigPlay,\034_DAL_VIDEO\18_LuuukaBigPlay\181_LuuukaBigPlay_AUD_F_v01.mov,-,nclc,nclc,15015,355197932,10160,1600,6.350,CFR,29.970,666774205,-,-,-,-,-,-,-,-
+,,184_LuuukaBigPlay_RIB_F_v01.mov,1,,,034,184,010,RIB_F,15s,,-,,,,7/18/2020 13:10:17,034_DAL_VIDEO,18_LuuukaBigPlay,\034_DAL_VIDEO\18_LuuukaBigPlay\184_LuuukaBigPlay_RIB_F_v01.mov,-,nclc,nclc,15015,18809016,9504,144,66.000,CFR,29.970,35414945,-,-,-,-,-,-,-,-
+,19_THJBigPlay,191_THJBigPlay_AUD_F_v01.mov,1,,,034,191,001,AUD_F,15s,,-,,,,7/18/2020 13:10:17,034_DAL_VIDEO,19_THJBigPlay,\034_DAL_VIDEO\19_THJBigPlay\191_THJBigPlay_AUD_F_v01.mov,-,nclc,nclc,15015,1783263502,10160,1600,6.350,CFR,29.970,3347080666,-,-,-,-,-,-,-,-
+,,194_THJBigPlay_RIB_F_v01.mov,1,,,034,194,010,RIB_F,15s,,-,,,,7/18/2020 13:10:16,034_DAL_VIDEO,19_THJBigPlay,\034_DAL_VIDEO\19_THJBigPlay\194_THJBigPlay_RIB_F_v01.mov,-,nclc,nclc,15015,192609284,9504,144,66.000,CFR,29.970,361613864,-,-,-,-,-,-,-,-
+035_DAL_Misc,,,,,,,,,,,,-,,,,,035_DAL_Misc,19_THJBigPlay,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+036_DAL_Intros_1,00_StormIntro,000_DALStormIntro_AUDIO_v01.mov,1,,1,036,000,024,AUDIO,2m5.6s,,-,,,,,036_DAL_Intros_1,00_StormIntro,\036_DAL_Intros_1\00_StormIntro\000_DALStormIntro_AUDIO_v01.mov,-,nclc,nclc,125726,93192,16,16,1.000,CFR,29.970,26176057,PCM,Little / Signed,sowt,125726,2,L R,48000,16
+,,001_DALStormIntro_AUD_F_v01.mov,1,,1,036,001,001,AUD_F,2m5.6s,,-,,,,,036_DAL_Intros_1,00_StormIntro,\036_DAL_Intros_1\00_StormIntro\001_DALStormIntro_AUD_F_v01.mov,-,nclc,nclc,125726,4197960446,10160,1600,6.350,CFR,29.970,65974066095,-,-,-,-,-,-,-,-
+,,004_DALStormIntro_RIB_F_v01.mov,1,,1,036,004,010,RIB_F,2m5.6s,,-,,,,,036_DAL_Intros_1,00_StormIntro,\036_DAL_Intros_1\00_StormIntro\004_DALStormIntro_RIB_F_v01.mov,-,nclc,nclc,125726,374245475,9504,144,66.000,CFR,29.970,5881648615,-,-,-,-,-,-,-,-
+,,008_DALStormIntro_SCB_v01.mov,1,,,036,008,017,SCB,2m5.6s,,-,,,,7/18/2020 13:11:23,036_DAL_Intros_1,00_StormIntro,\036_DAL_Intros_1\00_StormIntro\008_DALStormIntro_SCB_v01.mov,-,nclc,nclc,125726,221095911,1920,1080,1.778,CFR,29.970,3497430596,PCM,Little / Signed,sowt,125726,2,L R,44100,16
+,01_BareaPC,011_BareaPC_AUD_F_v01.mov,1,,,036,011,001,AUD_F,20s,,-,2,,,7/18/2020 14:33:33,036_DAL_Intros_1,01_BareaPC,\036_DAL_Intros_1\01_BareaPC\011_BareaPC_AUD_F_v01.mov,-,nclc,nclc,20020,3489496781,10160,1600,6.350,CFR,29.970,8732510331,-,-,-,-,-,-,-,-
+,,014_BareaPC_RIB_F_v01.mov,1,,,036,014,010,RIB_F,20s,,-,2,,,7/18/2020 14:33:32,036_DAL_Intros_1,01_BareaPC,\036_DAL_Intros_1\01_BareaPC\014_BareaPC_RIB_F_v01.mov,-,nclc,nclc,20020,248964897,9504,144,66.000,CFR,29.970,623071172,-,-,-,-,-,-,-,-
+,,018_BareaPC_SCB_v01.mov,1,,,036,018,017,SCB,20s,,-,2,,,7/18/2020 14:33:31,036_DAL_Intros_1,01_BareaPC,\036_DAL_Intros_1\01_BareaPC\018_BareaPC_SCB_v01.mov,-,nclc,nclc,20020,559257849,1920,1080,1.778,CFR,29.970,1399580030,-,-,-,-,-,-,-,-
+,02_BrunsonPC,021_BrunsonPC_AUD_F_v01.mov,1,,,036,021,001,AUD_F,20s,,-,7,,,7/18/2020 14:33:32,036_DAL_Intros_1,02_BrunsonPC,\036_DAL_Intros_1\02_BrunsonPC\021_BrunsonPC_AUD_F_v01.mov,-,nclc,nclc,20020,3507536482,10160,1600,6.350,CFR,29.970,8777654732,-,-,-,-,-,-,-,-
+,,024_BrunsonPC_RIB_F_v01.mov,1,,,036,024,010,RIB_F,20s,,-,7,,,7/18/2020 14:33:31,036_DAL_Intros_1,02_BrunsonPC,\036_DAL_Intros_1\02_BrunsonPC\024_BrunsonPC_RIB_F_v01.mov,-,nclc,nclc,20020,249224904,9504,144,66.000,CFR,29.970,623721843,-,-,-,-,-,-,-,-
+,,028_BrunsonPC_SCB_v01.mov,1,,,036,028,017,SCB,20s,,-,7,,,7/18/2020 13:19:25,036_DAL_Intros_1,02_BrunsonPC,\036_DAL_Intros_1\02_BrunsonPC\028_BrunsonPC_SCB_v01.mov,-,nclc,nclc,20020,524885042,1920,1080,1.778,CFR,29.970,1313561994,-,-,-,-,-,-,-,-
+,03_BurkePC,034_BurkePC_RIB_F_v01.mov,1,,,036,034,010,RIB_F,20s,,-,,,,7/21/2020 11:54:24,036_DAL_Intros_1,03_BurkePC,\036_DAL_Intros_1\03_BurkePC\034_BurkePC_RIB_F_v01.mov,-,nclc,nclc,20020,248745329,9504,144,66.000,CFR,29.970,622521703,-,-,-,-,-,-,-,-
+,,038_BurkePC_SCB_v01.mov,1,,,036,038,017,SCB,20s,,-,,,,7/18/2020 13:19:25,036_DAL_Intros_1,03_BurkePC,\036_DAL_Intros_1\03_BurkePC\038_BurkePC_SCB_v01.mov,-,nclc,nclc,20020,548302406,1920,1080,1.778,CFR,29.970,1372164008,-,-,-,-,-,-,-,-
+,04_CurryPC,044_CurryPC_RIB_F_v01.mov,1,,,036,044,010,RIB_F,20s,,-,,,,7/21/2020 11:59:35,036_DAL_Intros_1,04_CurryPC,\036_DAL_Intros_1\04_CurryPC\044_CurryPC_RIB_F_v01.mov,-,nclc,nclc,20020,248786925,9504,144,66.000,CFR,29.970,622625797,-,-,-,-,-,-,-,-
+,,048_CurryPC_SCB_v01.mov,1,,,036,048,017,SCB,20s,,-,9,,,,036_DAL_Intros_1,04_CurryPC,\036_DAL_Intros_1\04_CurryPC\048_CurryPC_SCB_v01.mov,-,nclc,nclc,20020,547496904,1920,1080,1.778,CFR,29.970,1370148236,-,-,-,-,-,-,-,-
+,05_DoncicPC,054_DoncicPC_RIB_F_v01.mov,1,,,036,054,010,RIB_F,20s,,-,,,,7/21/2020 12:01:07,036_DAL_Intros_1,05_DoncicPC,\036_DAL_Intros_1\05_DoncicPC\054_DoncicPC_RIB_F_v01.mov,-,nclc,nclc,20020,248941857,9504,144,66.000,CFR,29.970,623013515,-,-,-,-,-,-,-,-
+,,058_DoncicPC_SCB_v01.mov,1,,,036,058,017,SCB,20s,,-,14,,,,036_DAL_Intros_1,05_DoncicPC,\036_DAL_Intros_1\05_DoncicPC\058_DoncicPC_SCB_v01.mov,-,nclc,nclc,20020,544306031,1920,1080,1.778,CFR,29.970,1362163068,-,-,-,-,-,-,-,-
+,06_FinneySmithPC,064_FinneySmithPC_RIB_F_v01.mov,1,,,036,064,010,RIB_F,20s,,-,,,,7/21/2020 12:01:38,036_DAL_Intros_1,06_FinneySmithPC,\036_DAL_Intros_1\06_FinneySmithPC\064_FinneySmithPC_RIB_F_v01.mov,-,nclc,nclc,20020,249316089,9504,144,66.000,CFR,29.970,623950045,-,-,-,-,-,-,-,-
+,,068_FinneySmithPC_SCB_v01.mov,1,,,036,068,017,SCB,20s,,-,5,,,,036_DAL_Intros_1,06_FinneySmithPC,\036_DAL_Intros_1\06_FinneySmithPC\068_FinneySmithPC_SCB_v01.mov,-,nclc,nclc,20020,550501701,1920,1080,1.778,CFR,29.970,1377667749,-,-,-,-,-,-,-,-
+,07_HardawayJrPC,074_HardawayJrPC_RIB_F_v01.mov,1,,,036,074,010,RIB_F,20s,,-,,,,7/21/2020 12:01:52,036_DAL_Intros_1,07_HardawayJrPC,\036_DAL_Intros_1\07_HardawayJrPC\074_HardawayJrPC_RIB_F_v01.mov,-,nclc,nclc,20020,249114908,9504,144,66.000,CFR,29.970,623446586,-,-,-,-,-,-,-,-
+,,078_HardawayJrPC_SCB_v01.mov,1,,,036,078,017,SCB,20s,,-,6,,,,036_DAL_Intros_1,07_HardawayJrPC,\036_DAL_Intros_1\07_HardawayJrPC\078_HardawayJrPC_SCB_v01.mov,-,nclc,nclc,20020,561595209,1920,1080,1.778,CFR,29.970,1405429281,-,-,-,-,-,-,-,-
+,08_JacksonPC,084_JacksonPC_RIB_F_v01.mov,1,,,036,084,010,RIB_F,20s,,-,,,,7/21/2020 12:02:33,036_DAL_Intros_1,08_JacksonPC,\036_DAL_Intros_1\08_JacksonPC\084_JacksonPC_RIB_F_v01.mov,-,nclc,nclc,20020,249064067,9504,144,66.000,CFR,29.970,623319349,-,-,-,-,-,-,-,-
+,,088_JacksonPC_SCB_v01.mov,1,,,036,088,017,SCB,20s,,-,11,,,,036_DAL_Intros_1,08_JacksonPC,\036_DAL_Intros_1\08_JacksonPC\088_JacksonPC_SCB_v01.mov,-,nclc,nclc,20020,530013890,1920,1080,1.778,CFR,29.970,1326396950,-,-,-,-,-,-,-,-
+,09_KiddGilchristPC,094_KiddGilchristPC_RIB_F_v01.mov,1,,,036,094,010,RIB_F,20s,,-,,,,7/21/2020 12:13:49,036_DAL_Intros_1,09_KiddGilchristPC,\036_DAL_Intros_1\09_KiddGilchristPC\094_KiddGilchristPC_RIB_F_v01.mov,-,nclc,nclc,20020,249227927,9504,144,66.000,CFR,29.970,623729423,-,-,-,-,-,-,-,-
+,,098_KiddGilchristPC_SCB_v01.mov,1,,,036,098,017,SCB,20s,,-,4,,,,036_DAL_Intros_1,09_KiddGilchristPC,\036_DAL_Intros_1\09_KiddGilchristPC\098_KiddGilchristPC_SCB_v01.mov,-,nclc,nclc,20020,551788556,1920,1080,1.778,CFR,29.970,1380888105,-,-,-,-,-,-,-,-
+,10_KleberPC,104_KleberPC_RIB_F_v01.mov,1,,,036,104,010,RIB_F,20s,,-,,,,7/21/2020 12:18:15,036_DAL_Intros_1,10_KleberPC,\036_DAL_Intros_1\10_KleberPC\104_KleberPC_RIB_F_v01.mov,-,nclc,nclc,20020,248731252,9504,144,66.000,CFR,29.970,622486476,-,-,-,-,-,-,-,-
+,,108_KleberPC_SCB_v01.mov,1,,,036,108,017,SCB,20s,,-,10,,,,036_DAL_Intros_1,10_KleberPC,\036_DAL_Intros_1\10_KleberPC\108_KleberPC_SCB_v01.mov,-,nclc,nclc,20020,541835942,1920,1080,1.778,CFR,29.970,1355981664,-,-,-,-,-,-,-,-
+,11_LeePC,114_LeePC_RIB_F_v01.mov,1,,,036,114,010,RIB_F,20s,,-,,,,7/21/2020 12:18:36,036_DAL_Intros_1,11_LeePC,\036_DAL_Intros_1\11_LeePC\114_LeePC_RIB_F_v01.mov,-,nclc,nclc,20020,248885801,9504,144,66.000,CFR,29.970,626729953,PCM,Little / Signed,sowt,20020,2,L R,48000,16
+,,118_LeePC_SCB_v01.mov,1,,,036,118,017,SCB,20s,,-,,,,7/18/2020 13:19:25,036_DAL_Intros_1,11_LeePC,\036_DAL_Intros_1\11_LeePC\118_LeePC_SCB_v01.mov,-,nclc,nclc,20020,548275675,1920,1080,1.778,CFR,29.970,1372097112,-,-,-,-,-,-,-,-
+,12_MarjanovicPC,124_MarjanovicPC_RIB_F_v01.mov,1,,,036,124,010,RIB_F,20s,,-,,,,7/21/2020 12:19:04,036_DAL_Intros_1,12_MarjanovicPC,\036_DAL_Intros_1\12_MarjanovicPC\124_MarjanovicPC_RIB_F_v01.mov,-,nclc,nclc,20020,249309371,9504,144,66.000,CFR,29.970,623933229,-,-,-,-,-,-,-,-
+,,128_MarjanovicPC_SCB_v01.mov,1,,,036,128,017,SCB,20s,,-,12,,,,036_DAL_Intros_1,12_MarjanovicPC,\036_DAL_Intros_1\12_MarjanovicPC\128_MarjanovicPC_SCB_v01.mov,-,nclc,nclc,20020,544707311,1920,1080,1.778,CFR,29.970,1363167274,-,-,-,-,-,-,-,-
+,13_PorzingisPC,134_PorzingisPC_RIB_F_v01.mov,1,,,036,134,010,RIB_F,20s,,-,,,,7/21/2020 12:21:05,036_DAL_Intros_1,13_PorzingisPC,\036_DAL_Intros_1\13_PorzingisPC\134_PorzingisPC_RIB_F_v01.mov,-,nclc,nclc,20020,249379880,9504,144,66.000,CFR,29.970,624109676,-,-,-,-,-,-,-,-
+,,138_PorzingisPC_SCB_v01.mov,1,,,036,138,017,SCB,20s,,-,3,,,7/18/2020 13:19:25,036_DAL_Intros_1,13_PorzingisPC,\036_DAL_Intros_1\13_PorzingisPC\138_PorzingisPC_SCB_v01.mov,-,nclc,nclc,20020,529206170,1920,1080,1.778,CFR,29.970,1324375630,-,-,-,-,-,-,-,-
+,14_PowellPC,144_PowellPC_RIB_F_v01.mov,1,,,036,144,010,RIB_F,20s,,-,,,,7/21/2020 12:21:44,036_DAL_Intros_1,14_PowellPC,\036_DAL_Intros_1\14_PowellPC\144_PowellPC_RIB_F_v01.mov,-,nclc,nclc,20020,248980389,9504,144,66.000,CFR,29.970,623109942,-,-,-,-,-,-,-,-
+,,148_PowellPC_SCB_v01.mov,1,,,036,148,017,SCB,20s,,-,,,,,036_DAL_Intros_1,14_PowellPC,\036_DAL_Intros_1\14_PowellPC\148_PowellPC_SCB_v01.mov,-,nclc,nclc,20020,532653857,1920,1080,1.778,CFR,29.970,1333003475,-,-,-,-,-,-,-,-
+,15_WrightPC,154_WrightPC_RIB_F_v01.mov,1,,,036,154,010,RIB_F,20s,,-,,,,7/21/2020 12:47:56,036_DAL_Intros_1,15_WrightPC,\036_DAL_Intros_1\15_WrightPC\154_WrightPC_RIB_F_v01.mov,-,nclc,nclc,20020,248946839,9504,144,66.000,CFR,29.970,623025983,-,-,-,-,-,-,-,-
+,,158_WrightPC_SCB_v01.mov,1,,,036,158,017,SCB,20s,,-,13,,,7/18/2020 13:19:25,036_DAL_Intros_1,15_WrightPC,\036_DAL_Intros_1\15_WrightPC\158_WrightPC_SCB_v01.mov,-,nclc,nclc,20020,534855717,1920,1080,1.778,CFR,29.970,1338513634,-,-,-,-,-,-,-,-
+,16_ClevelandPC,164_ClevelandPC_RIB_F_v01.mov,1,,,036,164,010,RIB_F,20s,,-,,,,7/21/2020 12:48:23,036_DAL_Intros_1,16_ClevelandPC,\036_DAL_Intros_1\16_ClevelandPC\164_ClevelandPC_RIB_F_v01.mov,-,nclc,nclc,20020,249196731,9504,144,66.000,CFR,29.970,623651344,-,-,-,-,-,-,-,-
+,,168_ClevelandPC_SCB_v01.mov,1,,,036,168,017,SCB,20s,,-,1,,,,036_DAL_Intros_1,16_ClevelandPC,\036_DAL_Intros_1\16_ClevelandPC\168_ClevelandPC_SCB_v01.mov,-,nclc,nclc,20020,523395855,1920,1080,1.778,CFR,29.970,1309835302,-,-,-,-,-,-,-,-
+,17_ReavesPC,174_ReavesPC_RIB_F_v01.mov,1,,,036,174,010,RIB_F,20s,,-,,,,7/21/2020 12:51:13,036_DAL_Intros_1,17_ReavesPC,\036_DAL_Intros_1\17_ReavesPC\174_ReavesPC_RIB_F_v01.mov,-,nclc,nclc,20020,248795400,9504,144,66.000,CFR,29.970,622647007,-,-,-,-,-,-,-,-
+,,178_ReavesPC_SCB_v01.mov,1,,,036,178,017,SCB,20s,,-,8,,,7/18/2020 13:19:21,036_DAL_Intros_1,17_ReavesPC,\036_DAL_Intros_1\17_ReavesPC\178_ReavesPC_SCB_v01.mov,-,nclc,nclc,20020,543453278,1920,1080,1.778,CFR,29.970,1360029052,-,-,-,-,-,-,-,-
+,18_CarlislePC,184_CarlislePC_RIB_F_v01.mov,1,,,036,184,010,RIB_F,20s,,-,,,,7/21/2020 13:04:14,036_DAL_Intros_1,18_CarlislePC,\036_DAL_Intros_1\18_CarlislePC\184_CarlislePC_RIB_F_v01.mov,-,nclc,nclc,20020,248849372,9504,144,66.000,CFR,29.970,622782075,-,-,-,-,-,-,-,-
+,,188_CarlislePC_SCB_v01.mov,1,,,036,188,017,SCB,20s,,-,,,,7/18/2020 13:19:21,036_DAL_Intros_1,18_CarlislePC,\036_DAL_Intros_1\18_CarlislePC\188_CarlislePC_SCB_v01.mov,-,nclc,nclc,20020,541406699,1920,1080,1.778,CFR,29.970,1354907482,-,-,-,-,-,-,-,-
+037_DAL_Intros_2,,,,,,,,,,,,-,,,,,037_DAL_Intros_2,18_CarlislePC,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+038_DAL_Intros_3,,,,,,,,,,,,-,,,,,038_DAL_Intros_3,18_CarlislePC,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+039_DAL_CRN_ROTATE,00_DALStormIntro,007_DALStormIntro_CRN_v01.mov,1,,,039,007,014,CRN,,,-,,,,7/23/2020 17:40:19,039_DAL_CRN_ROTATE,00_DALStormIntro,\039_DAL_CRN_ROTATE\00_DALStormIntro\007_DALStormIntro_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,7/23/2020 16:49:13,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,039_DAL_CRN_ROTATE,00_DALStormIntro,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

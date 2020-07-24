@@ -1,0 +1,260 @@
+UTAH JAZZ Media Delivery,,SYNC COMPLETE,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210_UTA_PCC,00_3Point1,001_3Point1_AUD_F_v01.mov,1,,1,210,001,001,AUD_F,4.03s,,-,,,Do the colors shift with jerseys???,,210_UTA_PCC,00_3Point1,\210_UTA_PCC\00_3Point1\001_3Point1_AUD_F_v01.mov,-,nclc,nclc,4038,1318638900,10160,1600,6.350,CFR,29.970,666438616,PCM,Little / Signed,sowt,4038,2,L R,44100,16
+,,004_3Point1_RIB_F_v02.mov,2,,2,210,004,010,RIB_F,4.03s,,-,,,,7/21/2020 10:29:23,210_UTA_PCC,00_3Point1,\210_UTA_PCC\00_3Point1\004_3Point1_RIB_F_v02.mov,-,nclc,nclc,4038,143608629,9504,144,66.000,CFR,29.970,73443511,PCM,Little / Signed,sowt,4038,2,L R,44100,16
+,,008_3Point1_SCB_v01.mov,1,,1,210,008,017,SCB,4.03s,,-,,,,,210_UTA_PCC,00_3Point1,\210_UTA_PCC\00_3Point1\008_3Point1_SCB_v01.mov,-,nclc,nclc,4038,266561655,1920,1080,1.778,CFR,29.970,135452871,PCM,Little / Signed,sowt,4038,2,L R,44100,16
+,01_3Point2,011_3Point2_AUD_F_v01.mov,1,,1,210,011,001,AUD_F,4.03s,,-,,,,,210_UTA_PCC,01_3Point2,\210_UTA_PCC\01_3Point2\011_3Point2_AUD_F_v01.mov,-,nclc,nclc,4038,1134694041,10160,1600,6.350,CFR,29.970,573618498,PCM,Little / Signed,sowt,4038,2,L R,44100,16
+,,014_3Point2_RIB_F_v02.mov,2,,2,210,014,010,RIB_F,4.03s,,-,,,,7/21/2020 10:29:23,210_UTA_PCC,01_3Point2,\210_UTA_PCC\01_3Point2\014_3Point2_RIB_F_v02.mov,-,nclc,nclc,4038,128771977,9504,144,66.000,CFR,29.970,65970186,PCM,Little / Signed,sowt,4038,2,L R,44100,16
+,,018_3Point2_SCB_v01.mov,1,,1,210,018,017,SCB,4.03s,,-,,,,,210_UTA_PCC,01_3Point2,\210_UTA_PCC\01_3Point2\018_3Point2_SCB_v01.mov,-,nclc,nclc,4038,274252315,1920,1080,1.778,CFR,29.970,139343837,PCM,Little / Signed,sowt,4038,2,L R,44100,16
+,02_Dunk1,021_Dunk1_AUD_F_v01.mov,1,,1,210,021,001,AUD_F,4.03s,,-,,,,,210_UTA_PCC,02_Dunk1,\210_UTA_PCC\02_Dunk1\021_Dunk1_AUD_F_v01.mov,-,nclc,nclc,4038,4882335648,10160,1600,6.350,CFR,29.970,2463976508,-,-,-,-,-,-,-,-
+,,024_Dunk1_RIB_F_v02.mov,2,,2,210,024,010,RIB_F,3s,,-,,,,7/21/2020 10:29:26,210_UTA_PCC,02_Dunk1,\210_UTA_PCC\02_Dunk1\024_Dunk1_RIB_F_v02.mov,-,nclc,nclc,3003,398270342,9504,144,66.000,CFR,29.970,149502275,-,-,-,-,-,-,-,-
+,,028_Dunk1_SCB_v01.mov,1,,1,210,028,017,SCB,3s,,-,,,,,210_UTA_PCC,02_Dunk1,\210_UTA_PCC\02_Dunk1\028_Dunk1_SCB_v01.mov,-,nclc,nclc,3003,634948893,1920,1080,1.778,CFR,29.970,238345575,-,-,-,-,-,-,-,-
+,03_Dunk2,031_Dunk2_AUD_F_v01.mov,1,,1,210,031,001,AUD_F,4.03s,,-,,,,,210_UTA_PCC,03_Dunk2,\210_UTA_PCC\03_Dunk2\031_Dunk2_AUD_F_v01.mov,-,nclc,nclc,4038,4703995457,10160,1600,6.350,CFR,29.970,2373973325,-,-,-,-,-,-,-,-
+,,034_Dunk2_RIB_F_v02.mov,2,,2,210,034,010,RIB_F,2s,,-,,,,7/21/2020 10:29:26,210_UTA_PCC,03_Dunk2,\210_UTA_PCC\03_Dunk2\034_Dunk2_RIB_F_v02.mov,-,nclc,nclc,2002,374455833,9504,144,66.000,CFR,29.970,93708822,-,-,-,-,-,-,-,-
+,,038_Dunk2_SCB_v01.mov,1,,1,210,038,017,SCB,2.63s,,-,,,,,210_UTA_PCC,03_Dunk2,\210_UTA_PCC\03_Dunk2\038_Dunk2_SCB_v01.mov,-,nclc,nclc,2636,607562377,1920,1080,1.778,CFR,29.970,200190780,-,-,-,-,-,-,-,-
+,04_Defense1,040_Defense1_AUDIO_v01.mov,1,,1,210,040,024,AUDIO,3.27s,,-,,,,,210_UTA_PCC,04_Defense1,\210_UTA_PCC\04_Defense1\040_Defense1_AUDIO_v01.mov,-,nclc,nclc,3270,65885,16,16,1.000,CFR,29.970,733964,PCM,Little / Signed,sowt,3270,2,L R,48000,16
+,,041_Defense1_AUD_F_v01.mov,1,,1,210,041,001,AUD_F,3.27s,,-,,,,,210_UTA_PCC,04_Defense1,\210_UTA_PCC\04_Defense1\041_Defense1_AUD_F_v01.mov,-,nclc,nclc,3270,1920755423,10160,1600,6.350,CFR,29.970,785314020,-,-,-,-,-,-,-,-
+,,044_Defense1_RIB_F_v02.mov,2,,2,210,044,010,RIB_F,3.27s,,-,,,,7/21/2020 10:29:14,210_UTA_PCC,04_Defense1,\210_UTA_PCC\04_Defense1\044_Defense1_RIB_F_v02.mov,-,nclc,nclc,3270,140275028,9504,144,66.000,CFR,29.970,57597328,-,-,-,-,-,-,-,-
+,,048_Defense1_SCB_v01.mov,1,,1,210,048,017,SCB,3.27s,,-,,,,,210_UTA_PCC,04_Defense1,\210_UTA_PCC\04_Defense1\048_Defense1_SCB_v01.mov,-,nclc,nclc,3270,270912457,1920,1080,1.778,CFR,29.970,111388902,PCM,Little / Signed,sowt,3270,2,L R,44100,16
+,05_Defense2,050_Defense2_AUDIO_v01.mov,1,,1,210,050,024,AUDIO,3.27s,,-,,,,7/21/2020 10:29:11,210_UTA_PCC,05_Defense2,\210_UTA_PCC\05_Defense2\050_Defense2_AUDIO_v01.mov,-,nclc,nclc,3270,65653,16,16,1.000,CFR,29.970,732475,PCM,Little / Signed,sowt,3270,2,L R,48000,16
+,,051_Defense2_AUD_F_v01.mov,1,,1,210,051,001,AUD_F,3.27s,,-,,,,7/21/2020 10:29:11,210_UTA_PCC,05_Defense2,\210_UTA_PCC\05_Defense2\051_Defense2_AUD_F_v01.mov,-,nclc,nclc,3270,1557703841,10160,1600,6.350,CFR,29.970,637037895,-,-,-,-,-,-,-,-
+,,054_Defense2_RIB_F_v02.mov,2,,2,210,054,010,RIB_F,3.27s,,-,,,,7/21/2020 10:29:08,210_UTA_PCC,05_Defense2,\210_UTA_PCC\05_Defense2\054_Defense2_RIB_F_v02.mov,-,nclc,nclc,3270,150319323,9504,144,66.000,CFR,29.970,62415574,PCM,Little / Signed,sowt,3270,2,L R,44100,16
+,,058_Defense2_SCB_v01.mov,1,,1,210,058,017,SCB,3.27s,,-,,,,7/21/2020 10:29:07,210_UTA_PCC,05_Defense2,\210_UTA_PCC\05_Defense2\058_Defense2_SCB_v01.mov,-,nclc,nclc,3270,212691783,1920,1080,1.778,CFR,29.970,87590287,PCM,Little / Signed,sowt,3270,2,L R,44100,16
+,06_Defense3,060_Defense3_AUDIO_v02.mov,2,,2,210,060,024,AUDIO,12s,,-,,,,7/21/2020 10:29:06,210_UTA_PCC,06_Defense3,\210_UTA_PCC\06_Defense3\060_Defense3_AUDIO_v02.mov,-,nclc,nclc,12012,73830,16,16,1.000,CFR,29.970,2480340,PCM,Little / Signed,sowt,12012,2,L R,48000,16
+,,061_Defense3_AUD_F_v02.mov,2,,2,210,061,001,AUD_F,12s,,-,,,,7/21/2020 10:29:05,210_UTA_PCC,06_Defense3,\210_UTA_PCC\06_Defense3\061_Defense3_AUD_F_v02.mov,-,nclc,nclc,12012,4016328913,10160,1600,6.350,CFR,29.970,6030599945,-,-,-,-,-,-,-,-
+,,064_Defense3_RIB_F_v02.mov,2,,2,210,064,010,RIB_F,4s,,-,,,,7/21/2020 10:29:05,210_UTA_PCC,06_Defense3,\210_UTA_PCC\06_Defense3\064_Defense3_RIB_F_v02.mov,-,nclc,nclc,4004,412146635,9504,144,66.000,CFR,29.970,206713937,-,-,-,-,-,-,-,-
+,,068_Defense3_SCB_v03.mov,3,,3,210,068,017,SCB,12s,,-,,,,7/21/2020 10:29:05,210_UTA_PCC,06_Defense3,\210_UTA_PCC\06_Defense3\068_Defense3_SCB_v03.mov,-,nclc,nclc,12012,635024697,1920,1080,1.778,CFR,29.970,955672632,PCM,Little / Signed,sowt,12012,2,L R,44100,16
+,07_Defense4,070_Defense4_AUDIO_v02.mov,2,,2,210,070,024,AUDIO,6s,,-,,,,7/23/2020 6:58:49,210_UTA_PCC,07_Defense4,\210_UTA_PCC\07_Defense4\070_Defense4_AUDIO_v02.mov,-,nclc,nclc,6006,65897,16,16,1.000,CFR,29.970,1252790,PCM,Little / Signed,sowt,6006,2,L R,48000,16
+,,071_Defense4_AUD_F_v02.mov,2,,2,210,071,001,AUD_F,6s,,-,,,,7/23/2020 22:26:49,210_UTA_PCC,07_Defense4,\210_UTA_PCC\07_Defense4\071_Defense4_AUD_F_v02.mov,-,nclc,nclc,6006,4409970386,10160,1600,6.350,CFR,29.970,3310824882,-,-,-,-,-,-,-,-
+,,074_Defense4_RIB_F_v02.mov,2,,2,210,074,010,RIB_F,6s,,-,,,,7/21/2020 10:29:03,210_UTA_PCC,07_Defense4,\210_UTA_PCC\07_Defense4\074_Defense4_RIB_F_v02.mov,-,nclc,nclc,6006,356110985,9504,144,66.000,CFR,29.970,267402909,-,-,-,-,-,-,-,-
+,,078_Defense4_SCB_v02.mov,2,,2,210,078,017,SCB,6s,,-,,,,7/23/2020 6:58:56,210_UTA_PCC,07_Defense4,\210_UTA_PCC\07_Defense4\078_Defense4_SCB_v02.mov,-,nclc,nclc,6006,568523201,1920,1080,1.778,CFR,29.970,428022534,PCM,Little / Signed,sowt,6006,2,L R,48000,16
+,08_Offense1,080_Offense1_AUDIO_v01.mov,1,,1,210,080,024,AUDIO,2.93s,,-,,,,,210_UTA_PCC,08_Offense1,\210_UTA_PCC\08_Offense1\080_Offense1_AUDIO_v01.mov,-,nclc,nclc,2937,65602,16,16,1.000,CFR,29.970,665920,PCM,Little / Signed,sowt,2937,2,L R,48000,16
+,,081_Offense1_AUD_F_v01.mov,1,,1,210,081,001,AUD_F,2.93s,,-,,,,,210_UTA_PCC,08_Offense1,\210_UTA_PCC\08_Offense1\081_Offense1_AUD_F_v01.mov,-,nclc,nclc,2937,1657297105,10160,1600,6.350,CFR,29.970,608504605,-,-,-,-,-,-,-,-
+,,084_Offense1_RIB_F_v02.mov,2,,2,210,084,010,RIB_F,,,-F,,,,7/21/2020 10:28:59,210_UTA_PCC,08_Offense1,\210_UTA_PCC\08_Offense1\084_Offense1_RIB_F_v02.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,088_Offense1_SCB_v01.mov,1,,1,210,088,017,SCB,2.93s,,-,,,,,210_UTA_PCC,08_Offense1,\210_UTA_PCC\08_Offense1\088_Offense1_SCB_v01.mov,-,nclc,nclc,2937,211391136,1920,1080,1.778,CFR,29.970,78183283,PCM,Little / Signed,sowt,2937,2,L R,44100,16
+,09_Offense2,090_Offense2_AUDIO_v01.mov,1,,1,210,090,024,AUDIO,10.2s,,-,,,,,210_UTA_PCC,09_Offense2,\210_UTA_PCC\09_Offense2\090_Offense2_AUDIO_v01.mov,-,nclc,nclc,10211,69262,16,16,1.000,CFR,29.970,2187369,PCM,Little / Signed,sowt,10211,2,L R,48000,16
+,,091_Offense2_AUD_F_v01.mov,1,,1,210,091,001,AUD_F,10.2s,,-,,,,,210_UTA_PCC,09_Offense2,\210_UTA_PCC\09_Offense2\091_Offense2_AUD_F_v01.mov,-,nclc,nclc,10211,1181469802,10160,1600,6.350,CFR,29.970,1508161864,-,-,-,-,-,-,-,-
+,,094_Offense2_RIB_F_v03.mov,3,,2,210,094,010,RIB_F,10.33s,,-,,,,7/23/2020 22:27:10,210_UTA_PCC,09_Offense2,\210_UTA_PCC\09_Offense2\094_Offense2_RIB_F_v03.mov,-,nclc,nclc,10344,193082027,9504,144,66.000,CFR,29.970,251816107,PCM,Little / Signed,sowt,10344,2,L R,44100,16
+,,098_Offense2_SCB_v01.mov,1,,1,210,098,017,SCB,10.2s,,-,,,,,210_UTA_PCC,09_Offense2,\210_UTA_PCC\09_Offense2\098_Offense2_SCB_v01.mov,-,nclc,nclc,10211,262117918,1920,1080,1.778,CFR,29.970,336423678,PCM,Little / Signed,sowt,10211,2,L R,44100,16
+,10_Offense3,100_Offense3_AUDIO_v02.mov,2,,2,210,100,024,AUDIO,10s,,-,,,,,210_UTA_PCC,10_Offense3,\210_UTA_PCC\10_Offense3\100_Offense3_AUDIO_v02.mov,-,nclc,nclc,10010,77063,16,16,1.000,CFR,29.970,2107465,PCM,Little / Signed,sowt,10010,2,L R,48000,16
+,,101_Offense3_AUD_F_v02.mov,2,,2,210,101,001,AUD_F,10s,,-,,,,7/21/2020 10:28:54,210_UTA_PCC,10_Offense3,\210_UTA_PCC\10_Offense3\101_Offense3_AUD_F_v02.mov,-,nclc,nclc,10010,4852251352,10160,1600,6.350,CFR,29.970,6071436121,-,-,-,-,-,-,-,-
+,,104_Offense3_RIB_F_v02.mov,2,,2,210,104,010,RIB_F,10s,,-,,,,7/21/2020 10:28:54,210_UTA_PCC,10_Offense3,\210_UTA_PCC\10_Offense3\104_Offense3_RIB_F_v02.mov,-,nclc,nclc,10010,412237845,9504,144,66.000,CFR,29.970,515874025,-,-,-,-,-,-,-,-
+,,108_Offense3_SCB_v02.mov,2,,2,210,108,017,SCB,10s,,-,,,,7/21/2020 10:28:54,210_UTA_PCC,10_Offense3,\210_UTA_PCC\10_Offense3\108_Offense3_SCB_v02.mov,-,nclc,nclc,10010,631448821,1920,1080,1.778,CFR,29.970,791956007,PCM,Little / Signed,sowt,10010,2,L R,44100,16
+,11_Offense4,110_Offense4_AUDIO_v02.mov,2,,2,210,110,024,AUDIO,20.03s,,-,,,,7/21/2020 10:28:51,210_UTA_PCC,11_Offense4,\210_UTA_PCC\11_Offense4\110_Offense4_AUDIO_v02.mov,-,nclc,nclc,20054,73585,16,16,1.000,CFR,29.970,4365884,PCM,Little / Signed,sowt,20054,2,L R,48000,16
+,,114_Offense4_AUD_F_v02.mov,2,,2,210,114,001,AUD_F,20.03s,,-,,"Wrong Slot returning here, didn't autopop correctly, I moved it manually -JL",,7/21/2020 10:28:51,210_UTA_PCC,11_Offense4,\210_UTA_PCC\11_Offense4\114_Offense4_AUD_F_v02.mov,-,nclc,nclc,20054,2792311642,10160,1600,6.350,CFR,29.970,7003246501,PCM,Little / Signed,sowt,20054,2,L R,44100,16
+,,114_Offense4_RIB_F_v02.mov,2,Missing file -JL,2,210,114,010,RIB_F,20.03s,,-,,missing from d3 -JL,,,210_UTA_PCC,11_Offense4,\210_UTA_PCC\11_Offense4\114_Offense4_RIB_F_v02.mov,-,nclc,nclc,20054,365810224,9504,144,66.000,CFR,29.970,917024632,-,-,-,-,-,-,-,-
+,,118_Offense4_SCB_v02.mov,2,,2,210,118,017,SCB,20.03s,,-,,,,7/21/2020 10:28:50,210_UTA_PCC,11_Offense4,\210_UTA_PCC\11_Offense4\118_Offense4_SCB_v02.mov,-,nclc,nclc,20054,361666728,1920,1080,1.778,CFR,29.970,910448942,PCM,Little / Signed,sowt,20054,2,L R,44100,16
+211_UTA_FERA,00_AnthemAmberlyJohnson,000_AnthemAmberlyJohnson_AUDIO_v01.mov,1,,1,211,000,024,AUDIO,2m5.23s,,-,,,Need other flag elements for ribbon etc,,211_UTA_FERA,00_AnthemAmberlyJohnson,\211_UTA_FERA\00_AnthemAmberlyJohnson\000_AnthemAmberlyJohnson_AUDIO_v01.mov,-,nclc,nclc,125359,77050,16,16,1.000,CFR,29.970,25549154,PCM,Little / Signed,sowt,125359,2,L R,48000,16
+,,008_AnthemAmberlyJohnson_SCB_v01.mov,1,,1,211,008,017,SCB,2m5.23s,,-,,,,,211_UTA_FERA,00_AnthemAmberlyJohnson,\211_UTA_FERA\00_AnthemAmberlyJohnson\008_AnthemAmberlyJohnson_SCB_v01.mov,-,nclc,nclc,125359,392311589,1920,1080,1.778,CFR,29.970,6171800248,PCM,Little / Signed,sowt,125359,2,L R,48000,16
+,01_AnthemEstherCabrera,010_AnthemEstherCabrera_AUDIO_v01.mov,1,,1,211,010,024,AUDIO,2m4.6s,,-,,,,,211_UTA_FERA,01_AnthemEstherCabrera,\211_UTA_FERA\01_AnthemEstherCabrera\010_AnthemEstherCabrera_AUDIO_v01.mov,-,nclc,nclc,124725,77077,16,16,1.000,CFR,29.970,25432163,PCM,Little / Signed,sowt,124725,2,L R,48000,16
+,,018_AnthemEstherCabrera_SCB_v01.mov,1,,1,211,018,017,SCB,2m4.6s,,-,,,,,211_UTA_FERA,01_AnthemEstherCabrera,\211_UTA_FERA\01_AnthemEstherCabrera\018_AnthemEstherCabrera_SCB_v01.mov,-,nclc,nclc,124725,380586132,1920,1080,1.778,CFR,29.970,5957793053,PCM,Little / Signed,sowt,124725,2,L R,48000,16
+,02_AnthemKeyaFowler,020_AnthemKeyaFowler_AUDIO_v01.mov,1,,1,211,020,024,AUDIO,2m4.57s,,-,,,,,211_UTA_FERA,02_AnthemKeyaFowler,\211_UTA_FERA\02_AnthemKeyaFowler\020_AnthemKeyaFowler_AUDIO_v01.mov,-,nclc,nclc,124692,76984,16,16,1.000,CFR,29.970,25412616,PCM,Little / Signed,sowt,124692,2,L R,48000,16
+,,028_AnthemKeyaFowler_SCB_v01.mov,1,,1,211,028,017,SCB,2m4.57s,,-,,,,,211_UTA_FERA,02_AnthemKeyaFowler,\211_UTA_FERA\02_AnthemKeyaFowler\028_AnthemKeyaFowler_SCB_v01.mov,-,nclc,nclc,124692,390892270,1920,1080,1.778,CFR,29.970,6116823707,PCM,Little / Signed,sowt,124692,2,L R,48000,16
+,03_AnthemPaigeAnn,030_AnthemPaigeAnn_AUDIO_v01.mov,1,,1,211,030,024,AUDIO,2m21.33s,,-,,,,,211_UTA_FERA,03_AnthemPaigeAnn,\211_UTA_FERA\03_AnthemPaigeAnn\030_AnthemPaigeAnn_AUDIO_v01.mov,-,nclc,nclc,141475,77049,16,16,1.000,CFR,29.970,28834576,PCM,Little / Signed,sowt,141475,2,L R,48000,16
+,,038_AnthemPaigeAnn_SCB_v01.mov,1,,1,211,038,017,SCB,2m21.33s,,-,,,,,211_UTA_FERA,03_AnthemPaigeAnn,\211_UTA_FERA\03_AnthemPaigeAnn\038_AnthemPaigeAnn_SCB_v01.mov,-,nclc,nclc,141475,378109756,1920,1080,1.778,CFR,29.970,56623104,PCM,Little / Signed,sowt,141475,2,L R,48000,16
+212_UTA_Image_1,00_LogoLoop1,001_LogoLoop1_AUD_F_v02.mov,2,,2,212,001,001,AUD_F,13.57s,,-,,,,,212_UTA_Image_1,00_LogoLoop1,\212_UTA_Image_1\00_LogoLoop1\001_LogoLoop1_AUD_F_v02.mov,-,nclc,nclc,13581,914857635,10160,1600,6.350,CFR,29.970,1555835799,PCM,Little / Signed,sowt,13581,2,L R,44100,16
+,,004_LogoLoop1_RIB_F_v02.mov,2,,2,212,004,010,RIB_F,13.57s,,-,,,,7/21/2020 10:31:10,212_UTA_Image_1,00_LogoLoop1,\212_UTA_Image_1\00_LogoLoop1\004_LogoLoop1_RIB_F_v02.mov,-,nclc,nclc,13581,134392048,9504,144,66.000,CFR,29.970,230953141,PCM,Little / Signed,sowt,13581,2,L R,44100,16
+,,008_LogoLoop1_SCB_v01.mov,1,,1,212,008,017,SCB,13.53s,,-,,,,,212_UTA_Image_1,00_LogoLoop1,\212_UTA_Image_1\00_LogoLoop1\008_LogoLoop1_SCB_v01.mov,-,nclc,nclc,13547,100628073,1920,1080,1.778,CFR,29.970,173214312,PCM,Little / Signed,sowt,13567,2,L R,44100,16
+,01_LogoLoop2,011_LogoLoop2_AUD_F_v01.mov,1,,1,212,011,001,AUD_F,17.7s,,-,,,,,212_UTA_Image_1,01_LogoLoop2,\212_UTA_Image_1\01_LogoLoop2\011_LogoLoop2_AUD_F_v01.mov,-,nclc,nclc,17718,1875652468,10160,1600,6.350,CFR,29.970,4157619568,PCM,Little / Signed,sowt,17718,2,L R,44100,16
+,,014_LogoLoop2_RIB_F_v02.mov,2,,2,212,014,010,RIB_F,17.7s,,-,,,,7/21/2020 10:31:10,212_UTA_Image_1,01_LogoLoop2,\212_UTA_Image_1\01_LogoLoop2\014_LogoLoop2_RIB_F_v02.mov,-,nclc,nclc,17718,209909823,9504,144,66.000,CFR,29.970,468494204,PCM,Little / Signed,sowt,17718,2,L R,44100,16
+,,018_LogoLoop2_SCB_v02.mov,2,,2,212,018,017,SCB,17.7s,,-,,,,,212_UTA_Image_1,01_LogoLoop2,\212_UTA_Image_1\01_LogoLoop2\018_LogoLoop2_SCB_v02.mov,-,nclc,nclc,17718,387403287,1920,1080,1.778,CFR,29.970,861569145,PCM,Little / Signed,sowt,17718,2,L R,44100,16
+,02_LogoLoop3,021_LogoLoop3_AUD_F_v01.mov,1,,1,212,021,001,AUD_F,15.03s,,-,,,,,212_UTA_Image_1,02_LogoLoop3,\212_UTA_Image_1\02_LogoLoop3\021_LogoLoop3_AUD_F_v01.mov,-,nclc,nclc,15049,2902688200,10160,1600,6.350,CFR,29.970,5463093776,PCM,Little / Signed,sowt,15049,2,L R,44100,16
+,,024_LogoLoop3_RIB_F_v02.mov,2,,2,212,024,010,RIB_F,15.03s,,-,,,,7/21/2020 10:32:50,212_UTA_Image_1,02_LogoLoop3,\212_UTA_Image_1\02_LogoLoop3\024_LogoLoop3_RIB_F_v02.mov,-,nclc,nclc,15049,334466324,9504,144,66.000,CFR,29.970,632226197,PCM,Little / Signed,sowt,15049,2,L R,44100,16
+,,028_LogoLoop3_SCB_v02.mov,2,,1,212,028,017,SCB,15.03s,,-,,,,7/23/2020 22:27:42,212_UTA_Image_1,02_LogoLoop3,\212_UTA_Image_1\02_LogoLoop3\028_LogoLoop3_SCB_v02.mov,-,nclc,nclc,15049,533884641,1920,1080,1.778,CFR,29.970,1007361595,PCM,Little / Signed,sowt,15049,2,L R,44100,16
+,03_LogoStill1,031_LogoStill1_AUD_F_v01.mov,1,,1,212,031,001,AUD_F,0.03s,,-,,,,,212_UTA_Image_1,03_LogoStill1,\212_UTA_Image_1\03_LogoStill1\031_LogoStill1_AUD_F_v01.mov,-,nclc,nclc,34,1065595098,10160,1600,6.350,CFR,29.970,4874956,PCM,Little / Signed,sowt,34,2,L R,44100,16
+,,034_LogoStill1_RIB_F_v02.mov,2,,2,212,034,010,RIB_F,0.03s,,-,,,,7/21/2020 10:32:51,212_UTA_Image_1,03_LogoStill1,\212_UTA_Image_1\03_LogoStill1\034_LogoStill1_RIB_F_v02.mov,-,nclc,nclc,34,136857406,9504,144,66.000,CFR,29.970,1027442,PCM,Little / Signed,sowt,25,2,L R,44100,16
+,,038_LogoStill1_SCB_v01.mov,1,,1,212,038,017,SCB,0.03s,,-,,,,,212_UTA_Image_1,03_LogoStill1,\212_UTA_Image_1\03_LogoStill1\038_LogoStill1_SCB_v01.mov,-,nclc,nclc,34,117388654,1920,1080,1.778,CFR,29.970,900227,PCM,Little / Signed,sowt,34,2,L R,44100,16
+,04_LogoStill2,041_LogoStill2_AUD_F_v01.mov,1,,1,212,041,001,AUD_F,0.03s,,-,,,,,212_UTA_Image_1,04_LogoStill2,\212_UTA_Image_1\04_LogoStill2\041_LogoStill2_AUD_F_v01.mov,-,nclc,nclc,34,1805883589,10160,1600,6.350,CFR,29.970,7972395,PCM,Little / Signed,sowt,15,2,L R,44100,16
+,,044_LogoStill2_RIB_F_v02.mov,2,,2,212,044,010,RIB_F,0.03s,,-,,,,7/21/2020 10:32:53,212_UTA_Image_1,04_LogoStill2,\212_UTA_Image_1\04_LogoStill2\044_LogoStill2_RIB_F_v02.mov,-,nclc,nclc,34,215160144,9504,144,66.000,CFR,29.970,1383216,PCM,Little / Signed,sowt,13,2,L R,44100,16
+,,048_LogoStill2_SCB_v01.mov,1,,1,212,048,017,SCB,0.03s,,-,,,,,212_UTA_Image_1,04_LogoStill2,\212_UTA_Image_1\04_LogoStill2\048_LogoStill2_SCB_v01.mov,-,nclc,nclc,34,362084353,1920,1080,1.778,CFR,29.970,1947537,PCM,Little / Signed,sowt,15,2,L R,44100,16
+,05_LogoStill3,051_LogoStill3_AUD_F_v01.mov,1,,1,212,051,001,AUD_F,0.03s,,-,,,,,212_UTA_Image_1,05_LogoStill3,\212_UTA_Image_1\05_LogoStill3\051_LogoStill3_AUD_F_v01.mov,-,nclc,nclc,34,3004930542,10160,1600,6.350,CFR,29.970,12863719,PCM,Little / Signed,sowt,25,2,L R,44100,16
+,,054_LogoStill3_RIB_F_v02.mov,2,,2,212,054,010,RIB_F,0.03s,,-,,,,7/21/2020 10:32:53,212_UTA_Image_1,05_LogoStill3,\212_UTA_Image_1\05_LogoStill3\054_LogoStill3_RIB_F_v02.mov,-,nclc,nclc,34,332849218,9504,144,66.000,CFR,29.970,1845976,PCM,Little / Signed,sowt,33,2,L R,44100,16
+,,058_LogoStill3_SCB_v01.mov,1,,1,212,058,017,SCB,0.03s,,-,,,,,212_UTA_Image_1,05_LogoStill3,\212_UTA_Image_1\05_LogoStill3\058_LogoStill3_SCB_v01.mov,-,nclc,nclc,34,538064837,1920,1080,1.778,CFR,29.970,2673371,PCM,Little / Signed,sowt,15,2,L R,44100,16
+,06_LogoLoop4,061_LogoLoop4_AUD_F_v01.mov,1,,1,212,061,001,AUD_F,15.5s,,-,,,,,212_UTA_Image_1,06_LogoLoop4,\212_UTA_Image_1\06_LogoLoop4\061_LogoLoop4_AUD_F_v01.mov,-,nclc,nclc,15516,1189221886,10160,1600,6.350,CFR,29.970,2309641396,PCM,Little / Signed,sowt,15516,2,L R,44100,16
+,,064_LogoLoop4_RIB_F_v02.mov,2,,2,212,064,010,RIB_F,16.63s,,-,,,,7/21/2020 10:32:53,212_UTA_Image_1,06_LogoLoop4,\212_UTA_Image_1\06_LogoLoop4\064_LogoLoop4_RIB_F_v02.mov,-,nclc,nclc,16650,114276426,9504,144,66.000,CFR,29.970,241060251,PCM,Little / Signed,sowt,16650,2,L R,44100,16
+,,068_LogoLoop4_SCB_v01.mov,1,,1,212,068,017,SCB,16.63s,,-,,,,,212_UTA_Image_1,06_LogoLoop4,\212_UTA_Image_1\06_LogoLoop4\068_LogoLoop4_SCB_v01.mov,-,nclc,nclc,16650,229925724,1920,1080,1.778,CFR,29.970,481762631,PCM,Little / Signed,sowt,16650,2,L R,44100,16
+,07_LogoStill4,071_LogoLoop4_AUD_F_v01.mov,1,,1,212,071,001,AUD_F,0.03s,,-,,,,,212_UTA_Image_1,07_LogoStill4,\212_UTA_Image_1\07_LogoStill4\071_LogoLoop4_AUD_F_v01.mov,-,nclc,nclc,34,1329200189,10160,1600,6.350,CFR,29.970,6040162,PCM,Little / Signed,sowt,34,2,L R,44100,16
+,,074_LogoStill4_RIB_F_v02.mov,2,,2,212,074,010,RIB_F,0.03s,,-,,,,7/21/2020 10:32:55,212_UTA_Image_1,07_LogoStill4,\212_UTA_Image_1\07_LogoStill4\074_LogoStill4_RIB_F_v02.mov,-,nclc,nclc,34,117711371,9504,144,66.000,CFR,29.970,784347,PCM,Little / Signed,sowt,1,2,L R,44100,16
+,,078_LogoLoop4_SCB_v01.mov,1,,1,212,078,017,SCB,0.03s,,-,,,,,212_UTA_Image_1,07_LogoStill4,\212_UTA_Image_1\07_LogoStill4\078_LogoLoop4_SCB_v01.mov,-,nclc,nclc,34,263748707,1920,1080,1.778,CFR,29.970,1394097,PCM,Little / Signed,sowt,34,2,L R,44100,16
+213_UTA_Image_2,,,,,,,,,,,,-,,,,,213_UTA_Image_2,07_LogoStill4,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+214_UTA_Video,,,,,,,,,,,,-,,,,,214_UTA_Video,07_LogoStill4,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+215_UTA_Misc,,,,,,,,,,,,-,,,,,215_UTA_Misc,07_LogoStill4,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+216_UTA_Intros_1,00_IntroOrlando24,000_IntroOrlando24_AUDIO_v01.mov,1,we are missing many headshots/starters for your team? -JL,1,216,000,024,AUDIO,24.57s,,-,,,PA Announce is in this ,7/21/2020 10:33:39,216_UTA_Intros_1,00_IntroOrlando24,\216_UTA_Intros_1\00_IntroOrlando24\000_IntroOrlando24_AUDIO_v01.mov,-,nclc,nclc,24592,76663,16,16,1.000,CFR,29.970,6153053,PCM,Little / Signed,sowt,24592,2,L R,48000,16
+,,001_IntroOrlando24_AUD_F_v01.mov,1,,1,216,001,001,AUD_F,24.03s,,-,,,,,216_UTA_Intros_1,00_IntroOrlando24,\216_UTA_Intros_1\00_IntroOrlando24\001_IntroOrlando24_AUD_F_v01.mov,-,nclc,nclc,24058,612956394,10160,1600,6.350,CFR,29.970,1847891880,PCM,Little / Signed,sowt,24058,2,L R,44100,16
+,,004_IntroOrlando24_RIB_F_v02.mov,2,,2,216,004,010,RIB_F,24.53s,,-,,,,7/23/2020 7:05:54,216_UTA_Intros_1,00_IntroOrlando24,\216_UTA_Intros_1\00_IntroOrlando24\004_IntroOrlando24_RIB_F_v02.mov,-,nclc,nclc,24558,70494004,9504,144,66.000,CFR,29.970,221114687,PCM,Little / Signed,sowt,24558,2,L R,44100,16
+,,008_IntroOrlando24_SCB_v01.mov,1,,1,216,008,017,SCB,24.57s,,-,,,,,216_UTA_Intros_1,00_IntroOrlando24,\216_UTA_Intros_1\00_IntroOrlando24\008_IntroOrlando24_SCB_v01.mov,-,nclc,nclc,24592,496076386,1920,1080,1.778,CFR,29.970,1540442276,PCM,Little / Signed,sowt,24592,2,L R,44100,16
+,01_IntroBradley,010_IntroBradley_AUDIO_v03.mov,3,,3,216,010,024,AUDIO,15.93s,,-,,,,7/23/2020 7:08:44,216_UTA_Intros_1,01_IntroBradley,\216_UTA_Intros_1\01_IntroBradley\010_IntroBradley_AUDIO_v03.mov,-,nclc,nclc,15950,75047,16,16,1.000,CFR,29.970,11394816,PCM,Little / Signed,sowt,15950,2,L R,48000,16
+,,011_IntroBradley_AUD_F_v01.mov,1,,1,216,011,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,01_IntroBradley,\216_UTA_Intros_1\01_IntroBradley\011_IntroBradley_AUD_F_v01.mov,-,nclc,nclc,16050,813488338,10160,1600,6.350,CFR,29.970,1635472833,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,014_IntroBradley_RIB_F_v02.mov,2,,2,216,014,010,RIB_F,16s,,-,,,,7/23/2020 7:09:09,216_UTA_Intros_1,01_IntroBradley,\216_UTA_Intros_1\01_IntroBradley\014_IntroBradley_RIB_F_v02.mov,-,nclc,nclc,16016,91517299,9504,144,66.000,CFR,29.970,186591646,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,018_IntroBradley_SCB_v01.mov,1,,1,216,018,017,SCB,15.93s,,-,,,,,216_UTA_Intros_1,01_IntroBradley,\216_UTA_Intros_1\01_IntroBradley\018_IntroBradley_SCB_v01.mov,-,nclc,nclc,15950,466867852,1920,1080,1.778,CFR,29.970,941721164,PCM,Little / Signed,sowt,15950,2,L R,44100,16
+,02_IntroClarkson,020_IntroClarkson_AUDIO_v01.mov,1,,1,216,020,024,AUDIO,16s,,-,,,,,216_UTA_Intros_1,02_IntroClarkson,\216_UTA_Intros_1\02_IntroClarkson\020_IntroClarkson_AUDIO_v01.mov,-,nclc,nclc,16016,76200,16,16,1.000,CFR,29.970,6724635,PCM,Little / Signed,sowt,16016,2,L R,48000,16
+,,021_IntroClarkson_AUD_F_v01.mov,1,,1,216,021,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,02_IntroClarkson,\216_UTA_Intros_1\02_IntroClarkson\021_IntroClarkson_AUD_F_v01.mov,-,nclc,nclc,16050,801196571,10160,1600,6.350,CFR,29.970,1610813424,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,024_IntroClarkson_RIB_F_v02.mov,2,,2,216,024,010,RIB_F,16s,,-,,,,7/23/2020 7:09:48,216_UTA_Intros_1,02_IntroClarkson,\216_UTA_Intros_1\02_IntroClarkson\024_IntroClarkson_RIB_F_v02.mov,-,nclc,nclc,16016,91221846,9504,144,66.000,CFR,29.970,186000148,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,028_IntroClarkson_SCB_v01.mov,1,,1,216,028,017,SCB,16s,,-,,,,,216_UTA_Intros_1,02_IntroClarkson,\216_UTA_Intros_1\02_IntroClarkson\028_IntroClarkson_SCB_v01.mov,-,nclc,nclc,16016,475345773,1920,1080,1.778,CFR,29.970,957936837,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,03_IntroConley,030_IntroConley_AUDIO_v01.mov,1,,1,216,030,024,AUDIO,16s,,-,,,,,216_UTA_Intros_1,03_IntroConley,\216_UTA_Intros_1\03_IntroConley\030_IntroConley_AUDIO_v01.mov,-,nclc,nclc,16016,75933,16,16,1.000,CFR,29.970,6661611,PCM,Little / Signed,sowt,16016,2,L R,48000,16
+,,031_IntroConley_AUD_F_v01.mov,1,,1,216,031,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,03_IntroConley,\216_UTA_Intros_1\03_IntroConley\031_IntroConley_AUD_F_v01.mov,-,nclc,nclc,16050,813858598,10160,1600,6.350,CFR,29.970,1636215638,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,034_IntroConley_RIB_F_v02.mov,2,,2,216,034,010,RIB_F,16s,,-,,,,,216_UTA_Intros_1,03_IntroConley,\216_UTA_Intros_1\03_IntroConley\034_IntroConley_RIB_F_v02.mov,-,nclc,nclc,16016,91432084,9504,144,66.000,CFR,29.970,186421045,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,038_IntroConley_SCB_v01.mov,1,,1,216,038,017,SCB,16s,,-,,,,,216_UTA_Intros_1,03_IntroConley,\216_UTA_Intros_1\03_IntroConley\038_IntroConley_SCB_v01.mov,-,nclc,nclc,16016,469587468,1920,1080,1.778,CFR,29.970,948674167,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,04_IntroDavis,040_IntroDavis_AUDIO_v01.mov,1,,1,216,040,024,AUDIO,15.93s,,-,,,,,216_UTA_Intros_1,04_IntroDavis,\216_UTA_Intros_1\04_IntroDavis\040_IntroDavis_AUDIO_v01.mov,-,nclc,nclc,15950,74789,16,16,1.000,CFR,29.970,9470613,PCM,Little / Signed,sowt,15950,2,L R,48000,16
+,,041_IntroDavis_AUD_F_v01.mov,1,,1,216,041,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,04_IntroDavis,\216_UTA_Intros_1\04_IntroDavis\041_IntroDavis_AUD_F_v01.mov,-,nclc,nclc,16050,822130666,10160,1600,6.350,CFR,29.970,1652810836,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,044_IntroDavis_RIB_F_v02.mov,2,,2,216,044,010,RIB_F,16s,,-,,,,7/23/2020 7:12:56,216_UTA_Intros_1,04_IntroDavis,\216_UTA_Intros_1\04_IntroDavis\044_IntroDavis_RIB_F_v02.mov,-,nclc,nclc,16016,91425584,9504,144,66.000,CFR,29.970,186408033,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,048_IntroDavis_SCB_v01.mov,1,,1,216,048,017,SCB,15.93s,,-,,,,,216_UTA_Intros_1,04_IntroDavis,\216_UTA_Intros_1\04_IntroDavis\048_IntroDavis_SCB_v01.mov,-,nclc,nclc,15950,440868215,1920,1080,1.778,CFR,29.970,887965281,PCM,Little / Signed,sowt,15950,2,L R,44100,16
+,05_IntroGobert,050_IntroGobert_AUDIO_v01.mov,1,,1,216,050,024,AUDIO,16s,,-,,,,,216_UTA_Intros_1,05_IntroGobert,\216_UTA_Intros_1\05_IntroGobert\050_IntroGobert_AUDIO_v01.mov,-,nclc,nclc,16016,75641,16,16,1.000,CFR,29.970,6137140,PCM,Little / Signed,sowt,16016,2,L R,48000,16
+,,051_IntroGobert_AUD_F_v01.mov,1,,1,216,051,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,05_IntroGobert,\216_UTA_Intros_1\05_IntroGobert\051_IntroGobert_AUD_F_v01.mov,-,nclc,nclc,16050,839503749,10160,1600,6.350,CFR,29.970,1687664244,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,054_IntroGobert_RIB_F_v02.mov,2,,2,216,054,010,RIB_F,16s,,-,,,,7/23/2020 7:12:54,216_UTA_Intros_1,05_IntroGobert,\216_UTA_Intros_1\05_IntroGobert\054_IntroGobert_RIB_F_v02.mov,-,nclc,nclc,16016,91322943,9504,144,66.000,CFR,29.970,186202544,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,058_IntroGobert_SCB_v01.mov,1,,1,216,058,017,SCB,16s,,-,,,,,216_UTA_Intros_1,05_IntroGobert,\216_UTA_Intros_1\05_IntroGobert\058_IntroGobert_SCB_v01.mov,-,nclc,nclc,16016,388814906,1920,1080,1.778,CFR,29.970,786962512,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,06_IntroIngles,060_IntroIngles_AUDIO_v01.mov,1,,1,216,060,024,AUDIO,16s,,-,,,,,216_UTA_Intros_1,06_IntroIngles,\216_UTA_Intros_1\06_IntroIngles\060_IntroIngles_AUDIO_v01.mov,-,nclc,nclc,16016,76284,16,16,1.000,CFR,29.970,6644661,PCM,Little / Signed,sowt,16016,2,L R,48000,16
+,,061_IntroIngles_AUD_F_v01.mov,1,,1,216,061,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,06_IntroIngles,\216_UTA_Intros_1\06_IntroIngles\061_IntroIngles_AUD_F_v01.mov,-,nclc,nclc,16050,833363994,10160,1600,6.350,CFR,29.970,1675346834,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,064_IntroIngles_RIB_F_v02.mov,2,,2,216,064,010,RIB_F,16s,,-,,,,7/23/2020 7:12:44,216_UTA_Intros_1,06_IntroIngles,\216_UTA_Intros_1\06_IntroIngles\064_IntroIngles_RIB_F_v02.mov,-,nclc,nclc,16016,91384014,9504,144,66.000,CFR,29.970,186324808,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,068_IntroIngles_SCB_v01.mov,1,,1,216,068,017,SCB,16s,,-,,,,,216_UTA_Intros_1,06_IntroIngles,\216_UTA_Intros_1\06_IntroIngles\068_IntroIngles_SCB_v01.mov,-,nclc,nclc,16016,473675168,1920,1080,1.778,CFR,29.970,954487799,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,07_IntroMitchell,070_IntroMitchell_AUDIO_v01.mov,1,,1,216,070,024,AUDIO,16.03s,,-,,,,,216_UTA_Intros_1,07_IntroMitchell,\216_UTA_Intros_1\07_IntroMitchell\070_IntroMitchell_AUDIO_v01.mov,-,nclc,nclc,16050,75817,16,16,1.000,CFR,29.970,5927348,PCM,Little / Signed,sowt,16050,2,L R,48000,16
+,,071_IntroMitchell_AUD_F_v01.mov,1,,1,216,071,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,07_IntroMitchell,\216_UTA_Intros_1\07_IntroMitchell\071_IntroMitchell_AUD_F_v01.mov,-,nclc,nclc,16050,803176233,10160,1600,6.350,CFR,29.970,1614784968,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,074_IntroMitchell_RIB_F_v02.mov,2,,2,216,074,010,RIB_F,16s,,-,,,,7/23/2020 7:12:43,216_UTA_Intros_1,07_IntroMitchell,\216_UTA_Intros_1\07_IntroMitchell\074_IntroMitchell_RIB_F_v02.mov,-,nclc,nclc,16016,91424183,9504,144,66.000,CFR,29.970,186405227,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,078_IntroMitchell_SCB_v01.mov,1,,1,216,078,017,SCB,16.03s,,-,,,,,216_UTA_Intros_1,07_IntroMitchell,\216_UTA_Intros_1\07_IntroMitchell\078_IntroMitchell_SCB_v01.mov,-,nclc,nclc,16050,379166644,1920,1080,1.778,CFR,29.970,769362454,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,08_IntroMorgan,080_IntroMorgan_AUDIO_v01.mov,1,,1,216,080,024,AUDIO,15.93s,,-,,,,,216_UTA_Intros_1,08_IntroMorgan,\216_UTA_Intros_1\08_IntroMorgan\080_IntroMorgan_AUDIO_v01.mov,-,nclc,nclc,15950,74355,16,16,1.000,CFR,29.970,7709713,PCM,Little / Signed,sowt,15950,2,L R,48000,16
+,,081_IntroMorgan_AUD_F_v01.mov,1,,1,216,081,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,08_IntroMorgan,\216_UTA_Intros_1\08_IntroMorgan\081_IntroMorgan_AUD_F_v01.mov,-,nclc,nclc,16050,811348971,10160,1600,6.350,CFR,29.970,1631180892,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,084_IntroMorgan_RIB_F_v02.mov,2,,2,216,084,010,RIB_F,16s,,-,,,,7/23/2020 7:12:40,216_UTA_Intros_1,08_IntroMorgan,\216_UTA_Intros_1\08_IntroMorgan\084_IntroMorgan_RIB_F_v02.mov,-,nclc,nclc,16016,91326463,9504,144,66.000,CFR,29.970,186209592,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,088_IntroMorgan_SCB_v01.mov,1,,1,216,088,017,SCB,15.93s,,-,,,,,216_UTA_Intros_1,08_IntroMorgan,\216_UTA_Intros_1\08_IntroMorgan\088_IntroMorgan_SCB_v01.mov,-,nclc,nclc,15950,469451074,1920,1080,1.778,CFR,29.970,943190389,PCM,Little / Signed,sowt,15950,2,L R,44100,16
+,09_IntroMudiay,090_IntroMudiay_AUDIO_v01.mov,1,,1,216,090,024,AUDIO,15.87s,,-,,,,,216_UTA_Intros_1,09_IntroMudiay,\216_UTA_Intros_1\09_IntroMudiay\090_IntroMudiay_AUDIO_v01.mov,-,nclc,nclc,15883,76471,16,16,1.000,CFR,29.970,6694423,PCM,Little / Signed,sowt,15883,2,L R,48000,16
+,,091_IntroMudiay_AUD_F_v01.mov,1,,1,216,091,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,09_IntroMudiay,\216_UTA_Intros_1\09_IntroMudiay\091_IntroMudiay_AUD_F_v01.mov,-,nclc,nclc,16050,822032205,10160,1600,6.350,CFR,29.970,1652613306,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,094_IntroMudiay_RIB_F_v02.mov,2,,2,216,094,010,RIB_F,16s,,-,,,,7/23/2020 7:12:37,216_UTA_Intros_1,09_IntroMudiay,\216_UTA_Intros_1\09_IntroMudiay\094_IntroMudiay_RIB_F_v02.mov,-,nclc,nclc,16016,91367546,9504,144,66.000,CFR,29.970,186291841,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,098_IntroMudiay_SCB_v01.mov,1,,1,216,098,017,SCB,15.87s,,-,,,,,216_UTA_Intros_1,09_IntroMudiay,\216_UTA_Intros_1\09_IntroMudiay\098_IntroMudiay_SCB_v01.mov,-,nclc,nclc,15883,463768704,1920,1080,1.778,CFR,29.970,926965021,PCM,Little / Signed,sowt,15883,2,L R,44100,16
+,10_IntroNiang,100_IntroNiang_AUDIO_v01.mov,1,,1,216,100,024,AUDIO,16s,,-,,,,,216_UTA_Intros_1,10_IntroNiang,\216_UTA_Intros_1\10_IntroNiang\100_IntroNiang_AUDIO_v01.mov,-,nclc,nclc,16016,76344,16,16,1.000,CFR,29.970,6668184,PCM,Little / Signed,sowt,16016,2,L R,48000,16
+,,101_IntroNiang_AUD_F_v01.mov,1,,1,216,101,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,10_IntroNiang,\216_UTA_Intros_1\10_IntroNiang\101_IntroNiang_AUD_F_v01.mov,-,nclc,nclc,16050,820261538,10160,1600,6.350,CFR,29.970,1649061042,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,104_IntroNiang_RIB_F_v02.mov,2,,2,216,104,010,RIB_F,16s,,-,,,,7/23/2020 7:12:35,216_UTA_Intros_1,10_IntroNiang,\216_UTA_Intros_1\10_IntroNiang\104_IntroNiang_RIB_F_v02.mov,-,nclc,nclc,16016,91413338,9504,144,66.000,CFR,29.970,186383515,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,108_IntroNiang_SCB_v01.mov,1,,1,216,108,017,SCB,16s,,-,,,,,216_UTA_Intros_1,10_IntroNiang,\216_UTA_Intros_1\10_IntroNiang\108_IntroNiang_SCB_v01.mov,-,nclc,nclc,16016,463311937,1920,1080,1.778,CFR,29.970,933753800,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,11_IntroONeale,110_IntroONeale_AUDIO_v01.mov,1,,1,216,110,024,AUDIO,15.87s,,-,,,,,216_UTA_Intros_1,11_IntroONeale,\216_UTA_Intros_1\11_IntroONeale\110_IntroONeale_AUDIO_v01.mov,-,nclc,nclc,15883,75756,16,16,1.000,CFR,29.970,6618592,PCM,Little / Signed,sowt,15883,2,L R,48000,16
+,,111_IntroONeale_AUD_F_v01.mov,1,,1,216,111,001,AUD_F,16.03s,,-,,,,,216_UTA_Intros_1,11_IntroONeale,\216_UTA_Intros_1\11_IntroONeale\111_IntroONeale_AUD_F_v01.mov,-,nclc,nclc,16050,892533441,10160,1600,6.350,CFR,29.970,1794050972,PCM,Little / Signed,sowt,16050,2,L R,44100,16
+,,114_IntroONeale_RIB_F_v02.mov,2,,2,216,114,010,RIB_F,16s,,-,,,,7/23/2020 7:12:33,216_UTA_Intros_1,11_IntroONeale,\216_UTA_Intros_1\11_IntroONeale\114_IntroONeale_RIB_F_v02.mov,-,nclc,nclc,16016,91484870,9504,144,66.000,CFR,29.970,186526723,PCM,Little / Signed,sowt,16016,2,L R,44100,16
+,,118_IntroONeale_SCB_v01.mov,1,,1,216,118,017,SCB,15.87s,,-,,,,,216_UTA_Intros_1,11_IntroONeale,\216_UTA_Intros_1\11_IntroONeale\118_IntroONeale_SCB_v01.mov,-,nclc,nclc,15883,463620745,1920,1080,1.778,CFR,29.970,926585900,PCM,Little / Signed,sowt,15883,2,L R,44100,16
+,12_IntrosLoop,127_IntrosLoop_CRN_v01.mov,1,,1,216,127,014,CRN,0.03s,,-,,,,7/23/2020 7:12:18,216_UTA_Intros_1,12_IntrosLoop,\216_UTA_Intros_1\12_IntrosLoop\127_IntrosLoop_CRN_v01.mov,-,nclc,nclc,34,24273302,3328,208,16.000,CFR,29.970,166058,-,-,-,-,-,-,-,-
+217_UTA_Intros_2,,,,,,,,,,,,-,,,,,217_UTA_Intros_2,12_IntrosLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+218_UTA_Intros_3,,,,,,,,,,,,-,,,,,218_UTA_Intros_3,12_IntrosLoop,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+219_UTA_CRN_ROTATE,00_5FTF,007_5FTF_CRN_v01.mov,1,,1,219,007,014,CRN,0.03s,,-,,,,7/23/2020 11:36:53,219_UTA_CRN_ROTATE,00_5FTF,\219_UTA_CRN_ROTATE\00_5FTF\007_5FTF_CRN_v01.mov,-,nclc,nclc,34,17751591,3328,208,16.000,CFR,29.970,228789,-,-,-,-,-,-,-,-
+,01_Alsco,017_ALSCO_CRN_v01.mov,1,,1,219,017,014,CRN,0.03s,,-,,,,7/23/2020 11:36:54,219_UTA_CRN_ROTATE,01_Alsco,\219_UTA_CRN_ROTATE\01_Alsco\017_ALSCO_CRN_v01.mov,-,nclc,nclc,34,13405941,3328,208,16.000,CFR,29.970,182452,-,-,-,-,-,-,-,-
+,02_Exxon,027_Exxon_CRN_v01.mov,1,,1,219,027,014,CRN,0.03s,,-,,,,7/23/2020 11:36:56,219_UTA_CRN_ROTATE,02_Exxon,\219_UTA_CRN_ROTATE\02_Exxon\027_Exxon_CRN_v01.mov,-,nclc,nclc,34,8150401,3328,208,16.000,CFR,29.970,77414,-,-,-,-,-,-,-,-
+,03_Lexus,037_Lexus_CRN_v01.mov,1,,1,219,037,014,CRN,0.03s,,-,,,,7/23/2020 11:36:57,219_UTA_CRN_ROTATE,03_Lexus,\219_UTA_CRN_ROTATE\03_Lexus\037_Lexus_CRN_v01.mov,-,nclc,nclc,34,8892698,3328,208,16.000,CFR,29.970,74468,-,-,-,-,-,-,-,-
+,04_LHMDealerships,047_LHMDealerships_CRN_v01.mov,1,,1,219,047,014,CRN,0.03s,,-,,,,7/23/2020 11:36:57,219_UTA_CRN_ROTATE,04_LHMDealerships,\219_UTA_CRN_ROTATE\04_LHMDealerships\047_LHMDealerships_CRN_v01.mov,-,nclc,nclc,34,54243063,3328,208,16.000,CFR,29.970,250983,PCM,Little / Signed,sowt,3,2,L R,44100,16
+,05_LittleCaesars,057_LittleCaesars_CRN_v01.mov,1,,1,219,057,014,CRN,0.03s,,-,,,,7/23/2020 22:30:03,219_UTA_CRN_ROTATE,05_LittleCaesars,\219_UTA_CRN_ROTATE\05_LittleCaesars\057_LittleCaesars_CRN_v01.mov,-,nclc,nclc,34,13277429,3328,208,16.000,CFR,29.970,110124,-,-,-,-,-,-,-,-
+,06_MACU,067_MACU_CRN_v01.mov,1,,1,219,067,014,CRN,0.03s,,-,,,,7/23/2020 11:37:00,219_UTA_CRN_ROTATE,06_MACU,\219_UTA_CRN_ROTATE\06_MACU\067_MACU_CRN_v01.mov,-,nclc,nclc,34,10749160,3328,208,16.000,CFR,29.970,163931,-,-,-,-,-,-,-,-
+,07_NuSkin,077_NuSkin_CRN_v01.mov,1,,1,219,077,014,CRN,0.03s,,-,,,,7/23/2020 11:37:00,219_UTA_CRN_ROTATE,07_NuSkin,\219_UTA_CRN_ROTATE\07_NuSkin\077_NuSkin_CRN_v01.mov,-,nclc,nclc,34,15509595,3328,208,16.000,CFR,29.970,94842,-,-,-,-,-,-,-,-
+,08_Qualtrics,087_Qualtrics_CRN_v01.mov,1,,1,219,087,014,CRN,0.03s,,-,,,,7/23/2020 22:30:02,219_UTA_CRN_ROTATE,08_Qualtrics,\219_UTA_CRN_ROTATE\08_Qualtrics\087_Qualtrics_CRN_v01.mov,-,nclc,nclc,34,8009662,3328,208,16.000,CFR,29.970,153137,-,-,-,-,-,-,-,-
+,09_Shell,097_Shell_CRN_v01.mov,1,,1,219,097,014,CRN,0.03s,,-,,,,7/23/2020 11:37:02,219_UTA_CRN_ROTATE,09_Shell,\219_UTA_CRN_ROTATE\09_Shell\097_Shell_CRN_v01.mov,-,nclc,nclc,34,14311994,3328,208,16.000,CFR,29.970,159701,-,-,-,-,-,-,-,-
+,10_Smiths,107_Smiths_CRN_v01.mov,1,,1,219,107,014,CRN,0.03s,,-,,,,7/23/2020 11:37:02,219_UTA_CRN_ROTATE,10_Smiths,\219_UTA_CRN_ROTATE\10_Smiths\107_Smiths_CRN_v01.mov,-,nclc,nclc,34,8729182,3328,208,16.000,CFR,29.970,104184,PCM,Little / Signed,sowt,34,2,L R,44100,16
+,11_USBank,117_USBank_CRN_v01.mov,1,,1,219,117,014,CRN,0.03s,,-,,,,7/23/2020 11:37:02,219_UTA_CRN_ROTATE,11_USBank,\219_UTA_CRN_ROTATE\11_USBank\117_USBank_CRN_v01.mov,-,nclc,nclc,34,10479910,3328,208,16.000,CFR,29.970,93816,-,-,-,-,-,-,-,-
+,12_UUH,127_UUH_CRN_v01.mov,1,,1,219,127,014,CRN,0.03s,,-,,,,7/23/2020 22:30:01,219_UTA_CRN_ROTATE,12_UUH,\219_UTA_CRN_ROTATE\12_UUH\127_UUH_CRN_v01.mov,-,nclc,nclc,34,12747560,3328,208,16.000,CFR,29.970,112848,-,-,-,-,-,-,-,-
+,13_Vivint,137_Vivint_CRN_v01.mov,1,,1,219,137,014,CRN,0.03s,,-,,,,7/23/2020 11:37:05,219_UTA_CRN_ROTATE,13_Vivint,\219_UTA_CRN_ROTATE\13_Vivint\137_Vivint_CRN_v01.mov,-,nclc,nclc,34,9895135,3328,208,16.000,CFR,29.970,276373,-,-,-,-,-,-,-,-
+,14_WCF,147_WCF_CRN_v01.mov,1,,1,219,147,014,CRN,0.03s,,-,,,,7/23/2020 11:37:05,219_UTA_CRN_ROTATE,14_WCF,\219_UTA_CRN_ROTATE\14_WCF\147_WCF_CRN_v01.mov,-,nclc,nclc,34,9564985,3328,208,16.000,CFR,29.970,224694,-,-,-,-,-,-,-,-
+,15_WGU,157_WGU_CRN_v01.mov,1,,1,219,157,014,CRN,0.03s,,-,,,,7/23/2020 11:37:05,219_UTA_CRN_ROTATE,15_WGU,\219_UTA_CRN_ROTATE\15_WGU\157_WGU_CRN_v01.mov,-,nclc,nclc,34,14162623,3328,208,16.000,CFR,29.970,95204,-,-,-,-,-,-,-,-
+,16_Ford,167_Ford_CRN_v01.mov,1,,,219,167,014,CRN,,,-,,,,7/23/2020 22:29:51,219_UTA_CRN_ROTATE,16_Ford,\219_UTA_CRN_ROTATE\16_Ford\167_Ford_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,17_Toyota,177_Toyota_CRN_v01.mov,1,,,219,177,014,CRN,,,-,,,,7/23/2020 22:29:58,219_UTA_CRN_ROTATE,17_Toyota,\219_UTA_CRN_ROTATE\17_Toyota\177_Toyota_CRN_v01.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,219_UTA_CRN_ROTATE,17_Toyota,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

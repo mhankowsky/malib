@@ -1,0 +1,260 @@
+PHILADELPHIA 76ERS Media Delivery,,SYNC COMPLETE,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150_PHI_PCC,00_MakeNoise,001_MakeNoise_AUD_F_v01.mov,1,,1,150,001,001,AUD_F,30s,,-,37,,,,150_PHI_PCC,00_MakeNoise,\150_PHI_PCC\00_MakeNoise\001_MakeNoise_AUD_F_v01.mov,-,nclc,nclc,30030,280190409,10160,1600,6.350,CFR,29.970,1051773677,-,-,-,-,-,-,-,-
+,,004_MakeNoise_RIB_F_v01.mov,1,,1,150,004,010,RIB_F,,,-F,37,,,,150_PHI_PCC,00_MakeNoise,\150_PHI_PCC\00_MakeNoise\004_MakeNoise_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_MakeNoise_SCB_v01.mov,1,,1,150,008,017,SCB,30.57s,,-,37,,,,150_PHI_PCC,00_MakeNoise,\150_PHI_PCC\00_MakeNoise\008_MakeNoise_SCB_v01.mov,-,nclc,nclc,30598,142376707,1920,1080,1.778,CFR,29.970,544550222,-,-,-,-,-,-,-,-
+,01_MakeNoise-Still,011_MakeNoise_Still_AUD_F_v01.mov,1,,1,150,011,001,AUD_F,,,-F,,,,,150_PHI_PCC,01_MakeNoise-Still,\150_PHI_PCC\01_MakeNoise-Still\011_MakeNoise_Still_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,014_MakeNoise_Still_RIB_F_v01.mov,1,,1,150,014,010,RIB_F,,,-F,,,,,150_PHI_PCC,01_MakeNoise-Still,\150_PHI_PCC\01_MakeNoise-Still\014_MakeNoise_Still_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_MakeNoise_Still_SCB_v01.mov,1,,1,150,018,017,SCB,,,-F,,,,,150_PHI_PCC,01_MakeNoise-Still,\150_PHI_PCC\01_MakeNoise-Still\018_MakeNoise_Still_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,02_LetsGo,020_LetsGo_AUDIO_v01.mov,1,,1,150,020,024,AUDIO,53s,,-,45,,Looping? For one poss,,150_PHI_PCC,02_LetsGo,\150_PHI_PCC\02_LetsGo\020_LetsGo_AUDIO_v01.mov,-,nclc,nclc,53053,89550,16,16,1.000,CFR,29.970,10788027,PCM,Little / Signed,sowt,53054,2,L R,48000,16
+,,021_LetsGo_AUD_F_v01.mov,1,,1,150,021,001,AUD_F,30.53s,,-,45,,,,150_PHI_PCC,02_LetsGo,\150_PHI_PCC\02_LetsGo\021_LetsGo_AUD_F_v01.mov,-,nclc,nclc,30564,288472290,10160,1600,6.350,CFR,29.970,1107981548,PCM,Little / Signed,sowt,30564,2,L R,48000,16
+,,024_LetsGo_RIB_F_v01.mov,1,,1,150,024,010,RIB_F,,,-F,45,,,,150_PHI_PCC,02_LetsGo,\150_PHI_PCC\02_LetsGo\024_LetsGo_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,028_LetsGo_SCB_v01.mov,1,,1,150,028,017,SCB,30.57s,,-,45,,,,150_PHI_PCC,02_LetsGo,\150_PHI_PCC\02_LetsGo\028_LetsGo_SCB_v01.mov,-,nclc,nclc,30598,134751235,1920,1080,1.778,CFR,29.970,521260723,PCM,Little / Signed,sowt,30598,2,L R,48000,16
+,03_LetsGo-Still,031_LetsGo_Still_AUD_F_v01.mov,1,,1,150,031,001,AUD_F,,,-F,,,,,150_PHI_PCC,03_LetsGo-Still,\150_PHI_PCC\03_LetsGo-Still\031_LetsGo_Still_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,034_LetsGo_Still_RIB_F_v01.mov,1,,1,150,034,010,RIB_F,,,-F,,,,,150_PHI_PCC,03_LetsGo-Still,\150_PHI_PCC\03_LetsGo-Still\034_LetsGo_Still_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,038_LetsGo_Still_SCB_v01.mov,1,,1,150,038,017,SCB,,,-F,,,,,150_PHI_PCC,03_LetsGo-Still,\150_PHI_PCC\03_LetsGo-Still\038_LetsGo_Still_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,04_Defense,040_Defense_AUDIO_v01.mov,1,,1,150,040,024,AUDIO,53s,,-,47,,,,150_PHI_PCC,04_Defense,\150_PHI_PCC\04_Defense\040_Defense_AUDIO_v01.mov,-,nclc,nclc,53053,89324,16,16,1.000,CFR,29.970,10786530,PCM,Little / Signed,sowt,53054,2,L R,48000,16
+,,041_Defense_AUD_F_v01.mov,1,,1,150,041,001,AUD_F,30.53s,,-,47,,,,150_PHI_PCC,04_Defense,\150_PHI_PCC\04_Defense\041_Defense_AUD_F_v01.mov,-,nclc,nclc,30564,269904314,10160,1600,6.350,CFR,29.970,1037042833,PCM,Little / Signed,sowt,30564,2,L R,48000,16
+,,044_Defense_RIB_F_v01.mov,1,,1,150,044,010,RIB_F,,,-F,47,,,,150_PHI_PCC,04_Defense,\150_PHI_PCC\04_Defense\044_Defense_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,048_Defense_SCB_v01.mov,1,,1,150,048,017,SCB,30.57s,,-,47,,,,150_PHI_PCC,04_Defense,\150_PHI_PCC\04_Defense\048_Defense_SCB_v01.mov,-,nclc,nclc,30598,135420778,1920,1080,1.778,CFR,29.970,523821442,PCM,Little / Signed,sowt,30598,2,L R,48000,16
+,05_Defense-Still,051_Defense-Still_AUD_F_v01.mov,1,,1,150,051,001,AUD_F,,,-F,,,,,150_PHI_PCC,05_Defense-Still,\150_PHI_PCC\05_Defense-Still\051_Defense-Still_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,054_Defense-Still_RIB_F_v01.mov,1,,1,150,054,010,RIB_F,,,-F,,,,,150_PHI_PCC,05_Defense-Still,\150_PHI_PCC\05_Defense-Still\054_Defense-Still_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,058_Defense-Still_SCB_v01.mov,1,,1,150,058,017,SCB,,,-F,,,,,150_PHI_PCC,05_Defense-Still,\150_PHI_PCC\05_Defense-Still\058_Defense-Still_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+151_PHI_FERA,,,,,,,,,,,,-,,,,,151_PHI_FERA,05_Defense-Still,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+152_PHI_Image_1,,,,,,,,,,,,-,,,,,152_PHI_Image_1,05_Defense-Still,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+153_PHI_Image_2,,,,,,,,,,,,-,,,,,153_PHI_Image_2,05_Defense-Still,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+154_PHI_Video,00_Open01,000_Open01_AUDIO_v01.mov,1,Wrong Sample Rate -CD,1,154,000,024,AUDIO,1m26.93s,,-A,,Mising on HP 202. Issue with Sync? ,Audio needs clearance ,,154_PHI_Video,00_Open01,\154_PHI_Video\00_Open01\000_Open01_AUDIO_v01.mov,-A,nclc,nclc,87021,91840,16,16,1.000,CFR,29.970,17822411,PCM,Little / Signed,sowt,87021,2,L R,44100,16
+,,001_Open01_AUD_F_v02.mov,2,,2,154,001,001,AUD_F,,,-F,,,,,154_PHI_Video,00_Open01,\154_PHI_Video\00_Open01\001_Open01_AUD_F_v02.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,004_Open01_RIB_F_v01.mov,1,,1,154,004,010,RIB_F,1m26.93s,,-,,,,,154_PHI_Video,00_Open01,\154_PHI_Video\00_Open01\004_Open01_RIB_F_v01.mov,-,nclc,nclc,87021,137401285,9504,144,66.000,CFR,29.970,1511525649,PCM,Little / Signed,sowt,87021,2,L R,44100,16
+,,008_Open01_SCB_v01.mov,1,,1,154,008,017,SCB,1m26.93s,,-,,,,,154_PHI_Video,00_Open01,\154_PHI_Video\00_Open01\008_Open01_SCB_v01.mov,-,nclc,nclc,87021,488325021,1920,1080,1.778,CFR,29.970,5328620363,PCM,Little / Signed,sowt,87021,2,L R,44100,16
+,01_Open02,010_Open02_AUDIO_v01.mov,1,Wrong Sample Rate -CD,1,154,010,024,AUDIO,1m4.93s,,-A,,,Audio needs clearance ,,154_PHI_Video,01_Open02,\154_PHI_Video\01_Open02\010_Open02_AUDIO_v01.mov,-A,nclc,nclc,64999,92114,16,16,1.000,CFR,29.970,14730893,PCM,Little / Signed,sowt,64999,2,L R,44100,16
+,,011_Open02_AUD_F_v01.mov,1,,1,154,011,001,AUD_F,,,-F,,,,,154_PHI_Video,01_Open02,\154_PHI_Video\01_Open02\011_Open02_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,014_Open02_RIB_F_v01.mov,1,,1,154,014,010,RIB_F,1m4.93s,,-,,,,,154_PHI_Video,01_Open02,\154_PHI_Video\01_Open02\014_Open02_RIB_F_v01.mov,-,nclc,nclc,64999,68343540,9504,144,66.000,CFR,29.970,569373787,PCM,Little / Signed,sowt,64999,2,L R,44100,16
+,,018_Open02_SCB_v01.mov,1,,1,154,018,017,SCB,,,-F,,,,,154_PHI_Video,01_Open02,\154_PHI_Video\01_Open02\018_Open02_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+155_PHI_Misc,00_Screensaver,001_Screensaver_AUD_F_v01.mov,1,,1,155,001,001,AUD_F,16s,,-,,,,,155_PHI_Misc,00_Screensaver,\155_PHI_Misc\00_Screensaver\001_Screensaver_AUD_F_v01.mov,-,nclc,nclc,16016,278280362,10160,1600,6.350,CFR,29.970,557122358,-,-,-,-,-,-,-,-
+,,004_Screensaver_RIB_F_v01.mov,1,,1,155,004,010,RIB_F,,,-F,,,,,155_PHI_Misc,00_Screensaver,\155_PHI_Misc\00_Screensaver\004_Screensaver_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_Screensaver_SCB_v01.mov,1,,1,155,008,017,SCB,16s,,-,,,,,155_PHI_Misc,00_Screensaver,\155_PHI_Misc\00_Screensaver\008_Screensaver_SCB_v01.mov,-,nclc,nclc,16016,144438077,1920,1080,1.778,CFR,29.970,289169844,-,-,-,-,-,-,-,-
+,01_Screensaver-Still,011_Screensaver_Still_AUD_F_v01.mov,1,,1,155,011,001,AUD_F,,,-F,,,,,155_PHI_Misc,01_Screensaver-Still,\155_PHI_Misc\01_Screensaver-Still\011_Screensaver_Still_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,014_Screensaver_Still_RIB_F_v01.mov,1,,1,155,014,010,RIB_F,,,-F,,,,,155_PHI_Misc,01_Screensaver-Still,\155_PHI_Misc\01_Screensaver-Still\014_Screensaver_Still_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_Screensaver_Still_SCB_v01.mov,1,,1,155,018,017,SCB,,,-F,,,,,155_PHI_Misc,01_Screensaver-Still,\155_PHI_Misc\01_Screensaver-Still\018_Screensaver_Still_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,02_76ersWin,021_76ersWin_AUD_F_v01.mov,1,,1,155,021,001,AUD_F,16s,,-,,,,,155_PHI_Misc,02_76ersWin,\155_PHI_Misc\02_76ersWin\021_76ersWin_AUD_F_v01.mov,-,nclc,nclc,16016,339818346,10160,1600,6.350,CFR,29.970,680321526,-,-,-,-,-,-,-,-
+,,024_76ersWin_RIB_F_v01.mov,1,,1,155,024,010,RIB_F,,,-F,,,,,155_PHI_Misc,02_76ersWin,\155_PHI_Misc\02_76ersWin\024_76ersWin_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,028_76ersWin_SCB_v01.mov,1,,1,155,028,017,SCB,16s,,-,,,,,155_PHI_Misc,02_76ersWin,\155_PHI_Misc\02_76ersWin\028_76ersWin_SCB_v01.mov,-,nclc,nclc,16016,156866598,1920,1080,1.778,CFR,29.970,314051759,-,-,-,-,-,-,-,-
+,03_76ersWin-Still,031_76ersWin_Still_AUD_F_v01.mov,1,,1,155,031,001,AUD_F,,,-F,,,,,155_PHI_Misc,03_76ersWin-Still,\155_PHI_Misc\03_76ersWin-Still\031_76ersWin_Still_AUD_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,034_76ersWin_Still_RIB_F_v01.mov,1,,1,155,034,010,RIB_F,,,-F,,,,,155_PHI_Misc,03_76ersWin-Still,\155_PHI_Misc\03_76ersWin-Still\034_76ersWin_Still_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,038_76ersWin_Still_SCB_v01.mov,1,,1,155,038,017,SCB,,,-F,,,,,155_PHI_Misc,03_76ersWin-Still,\155_PHI_Misc\03_76ersWin-Still\038_76ersWin_Still_SCB_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+156_PHI_Intros_1,00_EMBIID,001_EMBIID_AUD_F_v01.mov,1,,1,156,001,001,AUD_F,10s,,-,9,,"For intros and made basket, big play, etc. ",,156_PHI_Intros_1,00_EMBIID,\156_PHI_Intros_1\00_EMBIID\001_EMBIID_AUD_F_v01.mov,-,nclc,nclc,10010,2386442224,10160,1600,6.350,CFR,29.970,2987695355,-,-,-,-,-,-,-,-
+,,004_EMBIID_RIB_F_v01.mov,1,,1,156,004,010,RIB_F,,,-F,9,,,,156_PHI_Intros_1,00_EMBIID,\156_PHI_Intros_1\00_EMBIID\004_EMBIID_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_EMBIID_SCB_v01.mov,1,,1,156,008,017,SCB,10s,,-,9,,,,156_PHI_Intros_1,00_EMBIID,\156_PHI_Intros_1\00_EMBIID\008_EMBIID_SCB_v01.mov,-,nclc,nclc,10010,367105398,1920,1080,1.778,CFR,29.970,460430424,-,-,-,-,-,-,-,-
+,01_SIMMONS,011_SIMMONS_AUD_F_v01.mov,1,,1,156,011,001,AUD_F,10s,,-,11,,,,156_PHI_Intros_1,01_SIMMONS,\156_PHI_Intros_1\01_SIMMONS\011_SIMMONS_AUD_F_v01.mov,-,nclc,nclc,10010,1815700232,10160,1600,6.350,CFR,29.970,2273706709,-,-,-,-,-,-,-,-
+,,014_SIMMONS_RIB_F_v01.mov,1,,1,156,014,010,RIB_F,,,-F,11,,,,156_PHI_Intros_1,01_SIMMONS,\156_PHI_Intros_1\01_SIMMONS\014_SIMMONS_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_SIMMONS_SCB_v01.mov,1,,1,156,018,017,SCB,10s,,-,11,,,,156_PHI_Intros_1,01_SIMMONS,\156_PHI_Intros_1\01_SIMMONS\018_SIMMONS_SCB_v01.mov,-,nclc,nclc,10010,360811907,1920,1080,1.778,CFR,29.970,452569238,-,-,-,-,-,-,-,-
+,02_HARRIS,021_HARRIS_AUD_F_v01.mov,1,,1,156,021,001,AUD_F,10s,,-,4,,,,156_PHI_Intros_1,02_HARRIS,\156_PHI_Intros_1\02_HARRIS\021_HARRIS_AUD_F_v01.mov,-,nclc,nclc,10010,1756815678,10160,1600,6.350,CFR,29.970,2200961847,-,-,-,-,-,-,-,-
+,,024_HARRIS_RIB_F_v01.mov,1,,1,156,024,010,RIB_F,,,-F,4,,,,156_PHI_Intros_1,02_HARRIS,\156_PHI_Intros_1\02_HARRIS\024_HARRIS_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,028_HARRIS_SCB_v01.mov,1,,1,156,028,017,SCB,10s,,-,4,,,,156_PHI_Intros_1,02_HARRIS,\156_PHI_Intros_1\02_HARRIS\028_HARRIS_SCB_v01.mov,-,nclc,nclc,10010,378104142,1920,1080,1.778,CFR,29.970,474225709,-,-,-,-,-,-,-,-
+,03_RICHARDSON,031_RICHARDSON_AUD_F_v01.mov,1,,1,156,031,001,AUD_F,10s,,-,1,,,,156_PHI_Intros_1,03_RICHARDSON,\156_PHI_Intros_1\03_RICHARDSON\031_RICHARDSON_AUD_F_v01.mov,-,nclc,nclc,10010,1719665285,10160,1600,6.350,CFR,29.970,2154503818,-,-,-,-,-,-,-,-
+,,034_RICHARDSON_RIB_F_v01.mov,1,,1,156,034,010,RIB_F,,,-F,1,,,,156_PHI_Intros_1,03_RICHARDSON,\156_PHI_Intros_1\03_RICHARDSON\034_RICHARDSON_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,038_RICHARDSON_SCB_v01.mov,1,,1,156,038,017,SCB,10s,,-,1,,,,156_PHI_Intros_1,03_RICHARDSON,\156_PHI_Intros_1\03_RICHARDSON\038_RICHARDSON_SCB_v01.mov,-,nclc,nclc,10010,370301689,1920,1080,1.778,CFR,29.970,464480156,-,-,-,-,-,-,-,-
+,04_HORFORD,041_HORFORD_AUD_F_v01.mov,1,,1,156,041,001,AUD_F,10s,,-,15,,,,156_PHI_Intros_1,04_HORFORD,\156_PHI_Intros_1\04_HORFORD\041_HORFORD_AUD_F_v01.mov,-,nclc,nclc,10010,1692204492,10160,1600,6.350,CFR,29.970,2120122744,-,-,-,-,-,-,-,-
+,,044_HORFORD_RIB_F_v01.mov,1,,1,156,044,010,RIB_F,,,-F,15,,,,156_PHI_Intros_1,04_HORFORD,\156_PHI_Intros_1\04_HORFORD\044_HORFORD_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,048_HORFORD_SCB_v01.mov,1,,1,156,048,017,SCB,10s,,-,15,,,,156_PHI_Intros_1,04_HORFORD,\156_PHI_Intros_1\04_HORFORD\048_HORFORD_SCB_v01.mov,-,nclc,nclc,10010,366366209,1920,1080,1.778,CFR,29.970,459544018,-,-,-,-,-,-,-,-
+,05_MILTON,051_MILTON_AUD_F_v01.mov,1,,1,156,051,001,AUD_F,10s,,-,6,,,,156_PHI_Intros_1,05_MILTON,\156_PHI_Intros_1\05_MILTON\051_MILTON_AUD_F_v01.mov,-,nclc,nclc,10010,1689195285,10160,1600,6.350,CFR,29.970,2116378602,-,-,-,-,-,-,-,-
+,,054_MILTON_RIB_F_v01.mov,1,,1,156,054,010,RIB_F,,,-F,6,,,,156_PHI_Intros_1,05_MILTON,\156_PHI_Intros_1\05_MILTON\054_MILTON_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,058_MILTON_SCB_v01.mov,1,,1,156,058,017,SCB,10s,,-,6,,,,156_PHI_Intros_1,05_MILTON,\156_PHI_Intros_1\05_MILTON\058_MILTON_SCB_v01.mov,-,nclc,nclc,10010,366528106,1920,1080,1.778,CFR,29.970,459758673,-,-,-,-,-,-,-,-
+,06_KORKMAZ,061_KORKMAZ_AUD_F_v01.mov,1,,1,156,061,001,AUD_F,10s,,-,12,,,,156_PHI_Intros_1,06_KORKMAZ,\156_PHI_Intros_1\06_KORKMAZ\061_KORKMAZ_AUD_F_v01.mov,-,nclc,nclc,10010,1668431769,10160,1600,6.350,CFR,29.970,2090405840,-,-,-,-,-,-,-,-
+,,064_KORKMAZ_RIB_F_v01.mov,1,,1,156,064,010,RIB_F,,,-F,12,,,,156_PHI_Intros_1,06_KORKMAZ,\156_PHI_Intros_1\06_KORKMAZ\064_KORKMAZ_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,068_KORKMAZ_SCB_v01.mov,1,,1,156,068,017,SCB,10s,,-,12,,,,156_PHI_Intros_1,06_KORKMAZ,\156_PHI_Intros_1\06_KORKMAZ\068_KORKMAZ_SCB_v01.mov,-,nclc,nclc,10010,356655092,1920,1080,1.778,CFR,29.970,447409402,-,-,-,-,-,-,-,-
+,07_THYBULLE,071_THYBULLE_AUD_F_v01.mov,1,,1,156,071,001,AUD_F,10s,,-,10,,,,156_PHI_Intros_1,07_THYBULLE,\156_PHI_Intros_1\07_THYBULLE\071_THYBULLE_AUD_F_v01.mov,-,nclc,nclc,10010,1695702253,10160,1600,6.350,CFR,29.970,2123249616,-,-,-,-,-,-,-,-
+,,074_THYBULLE_RIB_F_v01.mov,1,,1,156,074,010,RIB_F,,,-F,10,,,,156_PHI_Intros_1,07_THYBULLE,\156_PHI_Intros_1\07_THYBULLE\074_THYBULLE_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,078_THYBULLE_SCB_v01.mov,1,,1,156,078,017,SCB,10s,,-,10,,,,156_PHI_Intros_1,07_THYBULLE,\156_PHI_Intros_1\07_THYBULLE\078_THYBULLE_SCB_v01.mov,-,nclc,nclc,10010,367963512,1920,1080,1.778,CFR,29.970,460624721,-,-,-,-,-,-,-,-
+,08_ROBINSON,081_ROBINSON_AUD_F_v01.mov,1,,1,156,081,001,AUD_F,10s,,-,14,,,,156_PHI_Intros_1,08_ROBINSON,\156_PHI_Intros_1\08_ROBINSON\081_ROBINSON_AUD_F_v01.mov,-,nclc,nclc,10010,1377756520,10160,1600,6.350,CFR,29.970,1726742734,-,-,-,-,-,-,-,-
+,,084_ROBINSON_RIB_F_v01.mov,1,,1,156,084,010,RIB_F,,,-F,14,,,,156_PHI_Intros_1,08_ROBINSON,\156_PHI_Intros_1\08_ROBINSON\084_ROBINSON_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,088_ROBINSON_SCB_V01.mov,1,,1,156,088,017,SCB,10s,,-,14,,,,156_PHI_Intros_1,08_ROBINSON,\156_PHI_Intros_1\08_ROBINSON\088_ROBINSON_SCB_V01.mov,-,nclc,nclc,10010,274717784,1920,1080,1.778,CFR,29.970,343956829,-,-,-,-,-,-,-,-
+,09_SCOTT,091_SCOTT_AUD_F_v01.mov,1,,1,156,091,001,AUD_F,10s,,-,2,,,,156_PHI_Intros_1,09_SCOTT,\156_PHI_Intros_1\09_SCOTT\091_SCOTT_AUD_F_v01.mov,-,nclc,nclc,10010,1656127189,10160,1600,6.350,CFR,29.970,2074325597,-,-,-,-,-,-,-,-
+,,094_SCOTT_RIB_F_v01.mov,1,,1,156,094,010,RIB_F,,,-F,2,,,,156_PHI_Intros_1,09_SCOTT,\156_PHI_Intros_1\09_SCOTT\094_SCOTT_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,098_SCOTT_SCB_v01.mov,1,,1,156,098,017,SCB,10s,,-,2,,,,156_PHI_Intros_1,09_SCOTT,\156_PHI_Intros_1\09_SCOTT\098_SCOTT_SCB_v01.mov,-,nclc,nclc,10010,367064334,1920,1080,1.778,CFR,29.970,460384087,-,-,-,-,-,-,-,-
+,10_BURKS,101_BURKS_AUD_F_v01.mov,1,,1,156,101,001,AUD_F,10s,,-,8,,,,156_PHI_Intros_1,10_BURKS,\156_PHI_Intros_1\10_BURKS\101_BURKS_AUD_F_v01.mov,-,nclc,nclc,10010,1362751081,10160,1600,6.350,CFR,29.970,1708019695,-,-,-,-,-,-,-,-
+,,104_BURKS_RIB_F_v01.mov,1,,1,156,104,010,RIB_F,,,-F,8,,,,156_PHI_Intros_1,10_BURKS,\156_PHI_Intros_1\10_BURKS\104_BURKS_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,108_BURKS_SCB_v01.mov,1,,1,156,108,017,SCB,10s,,-,8,,,,156_PHI_Intros_1,10_BURKS,\156_PHI_Intros_1\10_BURKS\108_BURKS_SCB_v01.mov,-,nclc,nclc,10010,252382862,1920,1080,1.778,CFR,29.970,316824434,-,-,-,-,-,-,-,-
+,11_OQUINN,111_OQUINN_AUD_F_v01.mov,1,,1,156,111,001,AUD_F,10s,,-,3,,,,156_PHI_Intros_1,11_OQUINN,\156_PHI_Intros_1\11_OQUINN\111_OQUINN_AUD_F_v01.mov,-,nclc,nclc,10010,1654676520,10160,1600,6.350,CFR,29.970,2071918368,-,-,-,-,-,-,-,-
+,,114_OQUINN_RIB_F_v01.mov,1,,1,156,114,010,RIB_F,,,-F,3,,,,156_PHI_Intros_1,11_OQUINN,\156_PHI_Intros_1\11_OQUINN\114_OQUINN_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,118_OQUINN_SCB_v01.mov,1,,1,156,118,017,SCB,10s,,-,3,,,,156_PHI_Intros_1,11_OQUINN,\156_PHI_Intros_1\11_OQUINN\118_OQUINN_SCB_v01.mov,-,nclc,nclc,10010,367070860,1920,1080,1.778,CFR,29.970,460392253,-,-,-,-,-,-,-,-
+,12_NETO,121_NETO_AUD_F_v01.mov,1,,1,156,121,001,AUD_F,10s,,-,7,,,,156_PHI_Intros_1,12_NETO,\156_PHI_Intros_1\12_NETO\121_NETO_AUD_F_v01.mov,-,nclc,nclc,10010,1542189533,10160,1600,6.350,CFR,29.970,1931877977,-,-,-,-,-,-,-,-
+,,124_NETO_RIB_F_v01.mov,1,,1,156,124,010,RIB_F,,,-F,7,,,,156_PHI_Intros_1,12_NETO,\156_PHI_Intros_1\12_NETO\124_NETO_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,128_NETO_SCB_v01.mov,1,,1,156,128,017,SCB,10s,,-,7,,,,156_PHI_Intros_1,12_NETO,\156_PHI_Intros_1\12_NETO\128_NETO_SCB_v01.mov,-,nclc,nclc,10010,344338271,1920,1080,1.778,CFR,29.970,432012746,-,-,-,-,-,-,-,-
+,13_SHAYOK,131_SHAYOK_AUD_F_v01.mov,1,,1,156,131,001,AUD_F,10s,,-,13,,,,156_PHI_Intros_1,13_SHAYOK,\156_PHI_Intros_1\13_SHAYOK\131_SHAYOK_AUD_F_v01.mov,-,nclc,nclc,10010,1792719319,10160,1600,6.350,CFR,29.970,2245327327,-,-,-,-,-,-,-,-
+,,134_SHAYOK_RIB_F_v01.mov,1,,1,156,134,010,RIB_F,,,-F,13,,,,156_PHI_Intros_1,13_SHAYOK,\156_PHI_Intros_1\13_SHAYOK\134_SHAYOK_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,138_SHAYOK_SCB_v01.mov,1,,1,156,138,017,SCB,10s,,-,13,,,,156_PHI_Intros_1,13_SHAYOK,\156_PHI_Intros_1\13_SHAYOK\138_SHAYOK_SCB_v01.mov,-,nclc,nclc,10010,381377662,1920,1080,1.778,CFR,29.970,478341505,-,-,-,-,-,-,-,-
+157_PHI_Intros_2,00_EMBIID_STILL,001_EMBIID_STILL_AUD_F_v01.mov,1,,1,157,001,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,00_EMBIID_STILL,\157_PHI_Intros_2\00_EMBIID_STILL\001_EMBIID_STILL_AUD_F_v01.mov,-,nclc,nclc,34,2267464506,10160,1600,6.350,CFR,29.970,10138810,-,-,-,-,-,-,-,-
+,,004_EMBIID_STILL_RIB_F_v01.mov,1,,1,157,004,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,00_EMBIID_STILL,\157_PHI_Intros_2\00_EMBIID_STILL\004_EMBIID_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,008_EMBIID_STILL_SCB_v01.mov,1,,1,157,008,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,00_EMBIID_STILL,\157_PHI_Intros_2\00_EMBIID_STILL\008_EMBIID_STILL_SCB_v01.mov,-,nclc,nclc,34,368648023,1920,1080,1.778,CFR,29.970,1902661,-,-,-,-,-,-,-,-
+,01_SIMMONS_STILL,011_SIMMONS_STILL_AUD_F_v01.mov,1,,1,157,011,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,01_SIMMONS_STILL,\157_PHI_Intros_2\01_SIMMONS_STILL\011_SIMMONS_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1601968908,10160,1600,6.350,CFR,29.970,7357322,-,-,-,-,-,-,-,-
+,,014_SIMMONS_STILL_RIB_F_v01.mov,1,,1,157,014,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,01_SIMMONS_STILL,\157_PHI_Intros_2\01_SIMMONS_STILL\014_SIMMONS_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,018_SIMMONS_STILL_SCB_v01.mov,1,,1,157,018,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,01_SIMMONS_STILL,\157_PHI_Intros_2\01_SIMMONS_STILL\018_SIMMONS_STILL_SCB_v01.mov,-,nclc,nclc,34,397846955,1920,1080,1.778,CFR,29.970,2032717,-,-,-,-,-,-,-,-
+,02_HARRIS_STILL,021_HARRIS_STILL_AUD_F_v01.mov,1,,1,157,021,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,02_HARRIS_STILL,\157_PHI_Intros_2\02_HARRIS_STILL\021_HARRIS_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1534789354,10160,1600,6.350,CFR,29.970,7403453,-,-,-,-,-,-,-,-
+,,024_HARRIS_STILL_RIB_F_v01.mov,1,,1,157,024,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,02_HARRIS_STILL,\157_PHI_Intros_2\02_HARRIS_STILL\024_HARRIS_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,028_HARRIS_STILL_SCB_v01.mov,1,,1,157,028,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,02_HARRIS_STILL,\157_PHI_Intros_2\02_HARRIS_STILL\028_HARRIS_STILL_SCB_v01.mov,-,nclc,nclc,34,407720032,1920,1080,1.778,CFR,29.970,2083466,-,-,-,-,-,-,-,-
+,03_RICHARDSON_STILL,031_RICHARDSON_STILL_AUD_F_v01.mov,1,,1,157,031,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,03_RICHARDSON_STILL,\157_PHI_Intros_2\03_RICHARDSON_STILL\031_RICHARDSON_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1546933678,10160,1600,6.350,CFR,29.970,7464349,-,-,-,-,-,-,-,-
+,,034_RICHARDSON_STILL_RIB_F_v01.mov,1,,1,157,034,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,03_RICHARDSON_STILL,\157_PHI_Intros_2\03_RICHARDSON_STILL\034_RICHARDSON_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,038_RICHARDSON_STILL_SCB_v01.mov,1,,1,157,038,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,03_RICHARDSON_STILL,\157_PHI_Intros_2\03_RICHARDSON_STILL\038_RICHARDSON_STILL_SCB_v01.mov,-,nclc,nclc,34,396594209,1920,1080,1.778,CFR,29.970,2046586,-,-,-,-,-,-,-,-
+,04_HORFORD_STILL,041_HORFORD_STILL_AUD_F_v01.mov,1,,1,157,041,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,04_HORFORD_STILL,\157_PHI_Intros_2\04_HORFORD_STILL\041_HORFORD_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1484467327,10160,1600,6.350,CFR,29.970,7193522,-,-,-,-,-,-,-,-
+,,044_HORFORD_STILL_RIB_F_v01.mov,1,,1,157,044,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,04_HORFORD_STILL,\157_PHI_Intros_2\04_HORFORD_STILL\044_HORFORD_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,048_HORFORD_STILL_SCB_v01.mov,1,,1,157,048,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,04_HORFORD_STILL,\157_PHI_Intros_2\04_HORFORD_STILL\048_HORFORD_STILL_SCB_v01.mov,-,nclc,nclc,34,394213152,1920,1080,1.778,CFR,29.970,2029485,-,-,-,-,-,-,-,-
+,05_MILTON_STILL,051_MILTON_STILL_AUD_F_v01.mov,1,,1,157,051,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,05_MILTON_STILL,\157_PHI_Intros_2\05_MILTON_STILL\051_MILTON_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1487353558,10160,1600,6.350,CFR,29.970,7215794,-,-,-,-,-,-,-,-
+,,054_MILTON_STILL_RIB_F_v01.mov,1,,1,157,054,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,05_MILTON_STILL,\157_PHI_Intros_2\05_MILTON_STILL\054_MILTON_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,058_MILTON_STILL_SCB_v01.mov,1,,1,157,058,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,05_MILTON_STILL,\157_PHI_Intros_2\05_MILTON_STILL\058_MILTON_STILL_SCB_v01.mov,-,nclc,nclc,34,389083487,1920,1080,1.778,CFR,29.970,2015242,-,-,-,-,-,-,-,-
+,06_KORKMAZ_STILL,061_KORKMAZ_STILL_AUD_F_v01.mov,1,,1,157,061,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,06_KORKMAZ_STILL,\157_PHI_Intros_2\06_KORKMAZ_STILL\061_KORKMAZ_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1446841550,10160,1600,6.350,CFR,29.970,7047859,-,-,-,-,-,-,-,-
+,,064_KORKMAZ_STILL_RIB_F_v01.mov,1,,1,157,064,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,06_KORKMAZ_STILL,\157_PHI_Intros_2\06_KORKMAZ_STILL\064_KORKMAZ_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,068_KORKMAZ_STILL_SCB_v01.mov,1,,1,157,068,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,06_KORKMAZ_STILL,\157_PHI_Intros_2\06_KORKMAZ_STILL\068_KORKMAZ_STILL_SCB_v01.mov,-,nclc,nclc,34,395030254,1920,1080,1.778,CFR,29.970,2041595,-,-,-,-,-,-,-,-
+,07_THYBULLE_STILL,071_THYBULLE_STILL_AUD_F_v01.mov,1,,1,157,071,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,07_THYBULLE_STILL,\157_PHI_Intros_2\07_THYBULLE_STILL\071_THYBULLE_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1480460697,10160,1600,6.350,CFR,29.970,6849591,-,-,-,-,-,-,-,-
+,,074_THYBULLE_STILL_RIB_F_v01.mov,1,,1,157,074,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,07_THYBULLE_STILL,\157_PHI_Intros_2\07_THYBULLE_STILL\074_THYBULLE_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,078_THYBULLE_STILL_SCB_v01.mov,1,,1,157,078,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,07_THYBULLE_STILL,\157_PHI_Intros_2\07_THYBULLE_STILL\078_THYBULLE_STILL_SCB_v01.mov,-,nclc,nclc,34,392177830,1920,1080,1.778,CFR,29.970,1698750,-,-,-,-,-,-,-,-
+,08_ROBINSON_STILL,081_ROBINSON_STILL_AUD_F_v01.mov,1,,1,157,081,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,08_ROBINSON_STILL,\157_PHI_Intros_2\08_ROBINSON_STILL\081_ROBINSON_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1126878953,10160,1600,6.350,CFR,29.970,5714117,-,-,-,-,-,-,-,-
+,,084_ROBINSON_STILL_RIB_F_v01.mov,1,,1,157,084,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,08_ROBINSON_STILL,\157_PHI_Intros_2\08_ROBINSON_STILL\084_ROBINSON_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,088_ROBINSON_STILL_SCB_v01.mov,1,,1,157,088,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,08_ROBINSON_STILL,\157_PHI_Intros_2\08_ROBINSON_STILL\088_ROBINSON_STILL_SCB_v01.mov,-,nclc,nclc,34,270515933,1920,1080,1.778,CFR,29.970,1197278,-,-,-,-,-,-,-,-
+,09_SCOTT_STILL,091_SCOTT_STILL_AUD_F_v01.mov,1,,1,157,091,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,09_SCOTT_STILL,\157_PHI_Intros_2\09_SCOTT_STILL\091_SCOTT_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1556649472,10160,1600,6.350,CFR,29.970,7470484,-,-,-,-,-,-,-,-
+,,094_SCOTT_STILL_RIB_F_v01.mov,1,,1,157,094,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,09_SCOTT_STILL,\157_PHI_Intros_2\09_SCOTT_STILL\094_SCOTT_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,098_SCOTT_STILL_SCB_v01.mov,1,,1,157,098,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,09_SCOTT_STILL,\157_PHI_Intros_2\09_SCOTT_STILL\098_SCOTT_STILL_SCB_v01.mov,-,nclc,nclc,34,368958752,1920,1080,1.778,CFR,29.970,1909001,-,-,-,-,-,-,-,-
+,10_BURKS_STILL,101_BURKS_STILL_AUD_F_v01.mov,1,,1,157,101,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,10_BURKS_STILL,\157_PHI_Intros_2\10_BURKS_STILL\101_BURKS_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1166497615,10160,1600,6.350,CFR,29.970,5887760,-,-,-,-,-,-,-,-
+,,104_BURKS_STILL_RIB_F_v01.mov,1,,1,157,104,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,10_BURKS_STILL,\157_PHI_Intros_2\10_BURKS_STILL\104_BURKS_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,108_BURKS_STILL_SCB_v01.mov,1,,1,157,108,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,10_BURKS_STILL,\157_PHI_Intros_2\10_BURKS_STILL\108_BURKS_STILL_SCB_v01.mov,-,nclc,nclc,34,247871081,1920,1080,1.778,CFR,29.970,1311416,-,-,-,-,-,-,-,-
+,11_OQUINN_STILL,111_OQUINN_STILL_AUD_F_v01.mov,1,,1,157,111,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,11_OQUINN_STILL,\157_PHI_Intros_2\11_OQUINN_STILL\111_OQUINN_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1465480972,10160,1600,6.350,CFR,29.970,6787095,-,-,-,-,-,-,-,-
+,,114_OQUINN_STILL_RIB_F_v01.mov,1,,1,157,114,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,11_OQUINN_STILL,\157_PHI_Intros_2\11_OQUINN_STILL\114_OQUINN_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,118_OQUINN_STILL_SCB_v01.mov,1,,1,157,118,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,11_OQUINN_STILL,\157_PHI_Intros_2\11_OQUINN_STILL\118_OQUINN_STILL_SCB_v01.mov,-,nclc,nclc,34,369082228,1920,1080,1.778,CFR,29.970,1909516,-,-,-,-,-,-,-,-
+,12_NETO_STILL,121_NETO_STILL_AUD_F_v01.mov,1,,1,157,121,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,12_NETO_STILL,\157_PHI_Intros_2\12_NETO_STILL\121_NETO_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1400293345,10160,1600,6.350,CFR,29.970,6859234,-,-,-,-,-,-,-,-
+,,124_NETO_STILL_RIB_F_v01.mov,1,,1,157,124,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,12_NETO_STILL,\157_PHI_Intros_2\12_NETO_STILL\124_NETO_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,128_NETO_STILL_SCB_v01.mov,1,,1,157,128,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,12_NETO_STILL,\157_PHI_Intros_2\12_NETO_STILL\128_NETO_STILL_SCB_v01.mov,-,nclc,nclc,34,379457842,1920,1080,1.778,CFR,29.970,1984611,-,-,-,-,-,-,-,-
+,13_SHAYOK_STILL,131_SHAYOK_STILL_AUD_F_v01.mov,1,,1,157,131,001,AUD_F,0.03s,,-,,,,,157_PHI_Intros_2,13_SHAYOK_STILL,\157_PHI_Intros_2\13_SHAYOK_STILL\131_SHAYOK_STILL_AUD_F_v01.mov,-,nclc,nclc,34,1535670712,10160,1600,6.350,CFR,29.970,7413703,-,-,-,-,-,-,-,-
+,,134_SHAYOK_STILL_RIB_F_v01.mov,1,,1,157,134,010,RIB_F,,,-F,,,,,157_PHI_Intros_2,13_SHAYOK_STILL,\157_PHI_Intros_2\13_SHAYOK_STILL\134_SHAYOK_STILL_RIB_F_v01.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,138_SHAYOK_STILL_SCB_v01.mov,1,,1,157,138,017,SCB,0.03s,,-,,,,,157_PHI_Intros_2,13_SHAYOK_STILL,\157_PHI_Intros_2\13_SHAYOK_STILL\138_SHAYOK_STILL_SCB_v01.mov,-,nclc,nclc,34,416655887,1920,1080,1.778,CFR,29.970,2130678,-,-,-,-,-,-,-,-
+158_PHI_Intros_3,,,,,,,,,,,,-,,,,,158_PHI_Intros_3,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+159_PHI_CRN_ROTATE,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,159_PHI_CRN_ROTATE,13_SHAYOK_STILL,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

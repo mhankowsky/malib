@@ -1,0 +1,260 @@
+DENVER NUGGETS Media Delivery,,SYNC COMPLETE,CONTENT ERRORS,,FUSE PROGRAMMER,,,PROGRAMMING IN PROGRESS,,,HUD,,,,RETURN TO INDEX,,,,,,,,,,,,,,,,,,,,,,,
+CATEGORY,LOOK IDENTIFIER #,File Name,File Version,Notes,Version,Bank,Slot ,Mapping #,"Mapping 
+Code",File Length,Play Mode,Error Flag,Midi Button,Notes to Kerstin,General/Show Call Notes,Upversioned Date,Folder,Look,File Path,Error Flag,Format,Codec_ID,Duration,Bit Rate,Width,Height,Aspect Ratio,Frame Rate Mode,Frame Rate,Stream Size,"Audio For,at",Audio Format/Settings,Audio Codec ID,Audio Duration,Audio Channels,Audio Channel Layout,Audio Sampling Rate,Audio Bit Depth
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+040_DEN_PCC,00_Nuggets_Ball,004_NuggetsBall_RIB_F_v01.mov,1,,,040,004,010,RIB_F,4.03s,,-,,,,7/22/2020 19:13:26,040_DEN_PCC,00_Nuggets_Ball,\040_DEN_PCC\00_Nuggets_Ball\004_NuggetsBall_RIB_F_v01.mov,-,nclc,nclc,4038,266293885,9504,144,66.000,CFR,29.970,134392483,-,-,-,-,-,-,-,-
+,01_ThreePointer,014_ThreePointer_RIB_F_v00.mov,,,,040,014,010,RIB_F,,,-,,,,,040_DEN_PCC,01_ThreePointer,\040_DEN_PCC\01_ThreePointer\014_ThreePointer_RIB_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,040_DEN_PCC,01_ThreePointer,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+041_DEN_FERA,00_MaryLouiseLee_Anthem,000_MaryLouiseLee_Anthem_AUDIO_v00.mov,0,,0,041,000,024,AUDIO,1m46.73s,,-,,,,,041_DEN_FERA,00_MaryLouiseLee_Anthem,\041_DEN_FERA\00_MaryLouiseLee_Anthem\000_MaryLouiseLee_Anthem_AUDIO_v00.mov,-,nclc,nclc,106841,77098,16,16,1.000,CFR,29.970,21701520,PCM,Little / Signed,sowt,106841,2,L R,48000,16
+,,008_MaryLouiseLee_Anthem_SCB_v00.mov,0,,,041,008,017,SCB,1m46.73s,,-,,,,7/21/2020 13:14:03,041_DEN_FERA,00_MaryLouiseLee_Anthem,\041_DEN_FERA\00_MaryLouiseLee_Anthem\008_MaryLouiseLee_Anthem_SCB_v00.mov,-,nclc,nclc,106841,581531600,1920,1080,1.778,CFR,29.970,7787039001,PCM,Little / Signed,sowt,106841,2,L R,48000,16
+,01_Rapp_Anthem,010_Rapp_Anthem_AUDIO_v00.mov,0,,0,041,010,024,AUDIO,1m40s,,-,,,,,041_DEN_FERA,01_Rapp_Anthem,\041_DEN_FERA\01_Rapp_Anthem\010_Rapp_Anthem_AUDIO_v00.mov,-,nclc,nclc,100100,75035,16,16,1.000,CFR,29.970,20334784,PCM,Little / Signed,sowt,100100,2,L R,48000,16
+,,018_Rapp_Anthem_SCB_v00.mov,0,,0,041,018,017,SCB,1m40s,,-,,,,,041_DEN_FERA,01_Rapp_Anthem,\041_DEN_FERA\01_Rapp_Anthem\018_Rapp_Anthem_SCB_v00.mov,-,nclc,nclc,100100,607897764,1920,1080,1.778,CFR,29.970,7624162721,PCM,Little / Signed,sowt,100100,2,L R,44100,16
+,02_Soul_Real_Anthem,020_SoulReal_Anthem_AUDIO_v00.mov,0,,0,041,020,024,AUDIO,,,-F,,,,,041_DEN_FERA,02_Soul_Real_Anthem,\041_DEN_FERA\02_Soul_Real_Anthem\020_SoulReal_Anthem_AUDIO_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,,028_Soul_Real_Anthem_SCB_v00.mov,0,,0,041,028,017,SCB,,,-F,,,,,041_DEN_FERA,02_Soul_Real_Anthem,\041_DEN_FERA\02_Soul_Real_Anthem\028_Soul_Real_Anthem_SCB_v00.mov,-F,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File,No File
+,03_Sue_Charles_Anthem,030_Sue_Charles_Anthem_AUDIO_v00.mov,0,,0,041,030,024,AUDIO,1m27.1s,,-,,,,,041_DEN_FERA,03_Sue_Charles_Anthem,\041_DEN_FERA\03_Sue_Charles_Anthem\030_Sue_Charles_Anthem_AUDIO_v00.mov,-,nclc,nclc,87188,77435,16,16,1.000,CFR,29.970,17718740,PCM,Little / Signed,sowt,87188,2,L R,48000,16
+,,038_Sue_Charles_Anthem_SCB_v00.mov,0,,0,041,038,017,SCB,1m27.1s,,-,,,,,041_DEN_FERA,03_Sue_Charles_Anthem,\041_DEN_FERA\03_Sue_Charles_Anthem\038_Sue_Charles_Anthem_SCB_v00.mov,-,nclc,nclc,87188,631223861,1920,1080,1.778,CFR,29.970,6896203939,PCM,Little / Signed,sowt,87188,2,L R,48000,16
+,04_Elshaddai_Mulugeta_Anthem,040_Elshaddai_Mulugeta_Anthem_AUDIO_v00.mov,0,,0,041,040,024,AUDIO,1m49.57s,,-,,,,,041_DEN_FERA,04_Elshaddai_Mulugeta_Anthem,\041_DEN_FERA\04_Elshaddai_Mulugeta_Anthem\040_Elshaddai_Mulugeta_Anthem_AUDIO_v00.mov,-,nclc,nclc,109677,76964,16,16,1.000,CFR,29.970,22274262,PCM,Little / Signed,sowt,109677,2,L R,48000,16
+,,048_Elshaddai_Mulugeta_Anthem_SCB_v00.mov,0,,0,041,048,017,SCB,1m49.57s,,-,,,,,041_DEN_FERA,04_Elshaddai_Mulugeta_Anthem,\041_DEN_FERA\04_Elshaddai_Mulugeta_Anthem\048_Elshaddai_Mulugeta_Anthem_SCB_v00.mov,-,nclc,nclc,109677,519683987,1920,1080,1.778,CFR,29.970,7145849023,PCM,Little / Signed,sowt,109677,2,L R,48000,16
+042_DEN_Image_1,00_Primary_ScreenSaver,001_Primary_ScreenSaver_AUD_F_v00.mov,0,,0,042,001,001,AUD_F,10s,,-,,,Generic Look for regular jerseys ,,042_DEN_Image_1,00_Primary_ScreenSaver,\042_DEN_Image_1\00_Primary_ScreenSaver\001_Primary_ScreenSaver_AUD_F_v00.mov,-,nclc,nclc,10010,3092814424,10160,1600,6.350,CFR,29.970,3871813435,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,004_Primary_ScreenSaver_RIB_F_v01.mov,1,,1,042,004,010,RIB_F,10s,,-,,,,,042_DEN_Image_1,00_Primary_ScreenSaver,\042_DEN_Image_1\00_Primary_ScreenSaver\004_Primary_ScreenSaver_RIB_F_v01.mov,-,nclc,nclc,10010,319797158,9504,144,66.000,CFR,29.970,402072111,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,008_Primary_ScreenSaver_SCB_v00.mov,0,,0,042,008,017,SCB,10s,,-,,,,,042_DEN_Image_1,00_Primary_ScreenSaver,\042_DEN_Image_1\00_Primary_ScreenSaver\008_Primary_ScreenSaver_SCB_v00.mov,-,nclc,nclc,10010,498489117,1920,1080,1.778,CFR,29.970,625660649,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,01_Skyline_ScreenSaver,011_Skyline_ScreenSaver_AUD_F_v00.mov,0,,0,042,011,001,AUD_F,10s,,-,,,Other Jerseys ,,042_DEN_Image_1,01_Skyline_ScreenSaver,\042_DEN_Image_1\01_Skyline_ScreenSaver\011_Skyline_ScreenSaver_AUD_F_v00.mov,-,nclc,nclc,10010,2239416349,10160,1600,6.350,CFR,29.970,2803998026,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,014_Skyline_ScreenSaver_RIB_F_v01.mov,1,,1,042,014,010,RIB_F,10s,,-,,,,,042_DEN_Image_1,01_Skyline_ScreenSaver,\042_DEN_Image_1\01_Skyline_ScreenSaver\014_Skyline_ScreenSaver_RIB_F_v01.mov,-,nclc,nclc,10010,118214873,9504,144,66.000,CFR,29.970,149841741,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,018_Skyline_ScreenSaver_SCB_v00.mov,0,,0,042,018,017,SCB,10s,,-,,,,,042_DEN_Image_1,01_Skyline_ScreenSaver,\042_DEN_Image_1\01_Skyline_ScreenSaver\018_Skyline_ScreenSaver_SCB_v00.mov,-,nclc,nclc,10010,413159151,1920,1080,1.778,CFR,29.970,518891422,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,02_MHC_ScreenSaver,021_MHC_ScreenSaver_AUD_F_v00.mov,0,,0,042,021,001,AUD_F,10s,,-,,,Other Other Jersey ,,042_DEN_Image_1,02_MHC_ScreenSaver,\042_DEN_Image_1\02_MHC_ScreenSaver\021_MHC_ScreenSaver_AUD_F_v00.mov,-,nclc,nclc,10010,3901360933,10160,1600,6.350,CFR,29.970,4883509510,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,024_MHC_ScreenSaver_RIB_F_v02.mov,2,,2,042,024,010,RIB_F,10s,,-,,,,,042_DEN_Image_1,02_MHC_ScreenSaver,\042_DEN_Image_1\02_MHC_ScreenSaver\024_MHC_ScreenSaver_RIB_F_v02.mov,-,nclc,nclc,10010,383546753,9504,144,66.000,CFR,29.970,481838872,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,028_MHC_ScreenSaver_SCB_v00.mov,0,,0,042,028,017,SCB,10s,,-,,,,,042_DEN_Image_1,02_MHC_ScreenSaver,\042_DEN_Image_1\02_MHC_ScreenSaver\028_MHC_ScreenSaver_SCB_v00.mov,-,nclc,nclc,10010,536464176,1920,1080,1.778,CFR,29.970,673176988,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,03_Playoff_ScreenSaver,031_Playoff_ScreenSaver_AUD_F_v00.mov,0,,,042,031,001,AUD_F,,,-,,,,7/23/2020 20:09:35,042_DEN_Image_1,03_Playoff_ScreenSaver,\042_DEN_Image_1\03_Playoff_ScreenSaver\031_Playoff_ScreenSaver_AUD_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,034_Playoff_ScreenSaver_RIB_F_v00.mov,0,,,042,034,010,RIB_F,,,-,,,,7/23/2020 20:09:35,042_DEN_Image_1,03_Playoff_ScreenSaver,\042_DEN_Image_1\03_Playoff_ScreenSaver\034_Playoff_ScreenSaver_RIB_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,038_Playoff_ScreenSaver_SCB_v00.mov,0,,,042,038,017,SCB,,,-,,,,,042_DEN_Image_1,03_Playoff_ScreenSaver,\042_DEN_Image_1\03_Playoff_ScreenSaver\038_Playoff_ScreenSaver_SCB_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,04_Primary_Still_ScreenSaver,041_Primary_Still_ScreenSaver_AUD_F_v00.mov,0,,,042,041,001,AUD_F,,,-,,,,7/23/2020 20:09:35,042_DEN_Image_1,04_Primary_Still_ScreenSaver,\042_DEN_Image_1\04_Primary_Still_ScreenSaver\041_Primary_Still_ScreenSaver_AUD_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,044_Primary_Still_ScreenSaver_RIB_F_v00.mov,0,,,042,044,010,RIB_F,,,-,,,,7/23/2020 20:09:38,042_DEN_Image_1,04_Primary_Still_ScreenSaver,\042_DEN_Image_1\04_Primary_Still_ScreenSaver\044_Primary_Still_ScreenSaver_RIB_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,048_Primary_Still_ScreenSaver_SCB_v00.mov,0,,,042,048,017,SCB,,,-,,,,,042_DEN_Image_1,04_Primary_Still_ScreenSaver,\042_DEN_Image_1\04_Primary_Still_ScreenSaver\048_Primary_Still_ScreenSaver_SCB_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,05_Skyline_Still_ScreenSaver,051_Skyline_Still_ScreenSaver_AUD_F_v00.mov,0,,,042,051,001,AUD_F,,,-,,,,,042_DEN_Image_1,05_Skyline_Still_ScreenSaver,\042_DEN_Image_1\05_Skyline_Still_ScreenSaver\051_Skyline_Still_ScreenSaver_AUD_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,054_Skyline_Still_ScreenSaver_RIB_F_v00.mov,0,,,042,054,010,RIB_F,,,-,,,,7/23/2020 20:09:38,042_DEN_Image_1,05_Skyline_Still_ScreenSaver,\042_DEN_Image_1\05_Skyline_Still_ScreenSaver\054_Skyline_Still_ScreenSaver_RIB_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,058_Skyline_Still_ScreenSaver_SCB_v00.mov,0,,,042,058,017,SCB,,,-,,,,,042_DEN_Image_1,05_Skyline_Still_ScreenSaver,\042_DEN_Image_1\05_Skyline_Still_ScreenSaver\058_Skyline_Still_ScreenSaver_SCB_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,06_MHC_Still_ScreenSaver,061_MHC_Still_ScreenSaver_AUD_F_v00.mov,0,,,042,061,001,AUD_F,,,-,,,,7/23/2020 20:09:38,042_DEN_Image_1,06_MHC_Still_ScreenSaver,\042_DEN_Image_1\06_MHC_Still_ScreenSaver\061_MHC_Still_ScreenSaver_AUD_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,064_MHC_Still_ScreenSaver_RIB_F_v00.mov,0,,,042,064,010,RIB_F,,,-,,,,,042_DEN_Image_1,06_MHC_Still_ScreenSaver,\042_DEN_Image_1\06_MHC_Still_ScreenSaver\064_MHC_Still_ScreenSaver_RIB_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,068_MHC_Still_ScreenSaver_SCB_v00.mov,0,,,042,068,017,SCB,,,-,,,,,042_DEN_Image_1,06_MHC_Still_ScreenSaver,\042_DEN_Image_1\06_MHC_Still_ScreenSaver\068_MHC_Still_ScreenSaver_SCB_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,07_Playoff_Still_ScreenSaver,071_Playoff_Still_ScreenSaver_AUD_F_v00.mov,0,,,042,071,001,AUD_F,,,-,,,,,042_DEN_Image_1,07_Playoff_Still_ScreenSaver,\042_DEN_Image_1\07_Playoff_Still_ScreenSaver\071_Playoff_Still_ScreenSaver_AUD_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,074_Playoff_Still_ScreenSaver_RIB_F_v00.mov,0,,,042,074,010,RIB_F,,,-,,,,,042_DEN_Image_1,07_Playoff_Still_ScreenSaver,\042_DEN_Image_1\07_Playoff_Still_ScreenSaver\074_Playoff_Still_ScreenSaver_RIB_F_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,078_Playoff_Still_ScreenSaver_SCB_v00.mov,0,,,042,078,017,SCB,,,-,,,,7/23/2020 20:09:41,042_DEN_Image_1,07_Playoff_Still_ScreenSaver,\042_DEN_Image_1\07_Playoff_Still_ScreenSaver\078_Playoff_Still_ScreenSaver_SCB_v00.mov,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,042_DEN_Image_1,07_Playoff_Still_ScreenSaver,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+043_DEN_Image_2,,,,,,,,,,,,-,,,,,043_DEN_Image_2,07_Playoff_Still_ScreenSaver,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+044_DEN_Video,00_LookFeel_Open,000_LookFeel_Open_AUDIO_v00.mov,0,,0,044,000,024,AUDIO,1m5.97s,,-,,,"Hype Video open, Jersey ",,044_DEN_Video,00_LookFeel_Open,\044_DEN_Video\00_LookFeel_Open\000_LookFeel_Open_AUDIO_v00.mov,-,nclc,nclc,66033,91295,16,16,1.000,CFR,29.970,13441456,PCM,Little / Signed,sowt,66033,2,L R,48000,16
+,,001_LookFeel_Open_AUD_F_v01.mov,1, ,1,044,001,001,AUD_F,1m5.97s,,-,,,,,044_DEN_Video,00_LookFeel_Open,\044_DEN_Video\00_LookFeel_Open\001_LookFeel_Open_AUD_F_v01.mov,-,nclc,nclc,66033,650727720,10160,1600,6.350,CFR,29.970,5371182162,-,-,-,-,-,-,-,-
+,,004_LookFeel_Open_RIB_F_v01.mov,1,,1,044,004,010,RIB_F,1m5.97s,,-,,,,,044_DEN_Video,00_LookFeel_Open,\044_DEN_Video\00_LookFeel_Open\004_LookFeel_Open_RIB_F_v01.mov,-,nclc,nclc,66033,65708496,9504,144,66.000,CFR,29.970,542375979,-,-,-,-,-,-,-,-
+,,008_LookFeel_Open_SCB_v00.mov,0,,0,044,008,017,SCB,1m5.97s,,-,,,,,044_DEN_Video,00_LookFeel_Open,\044_DEN_Video\00_LookFeel_Open\008_LookFeel_Open_SCB_v00.mov,-,nclc,nclc,66033,343810670,1920,1080,1.778,CFR,29.970,2850538925,PCM,Little / Signed,sowt,66033,2,L R,48000,16
+,01_4thQtr_Pumper,010_4thQtr_Pumper_AUDIO_v00.mov,0,,0,044,010,024,AUDIO,1m18.97s,,-,,,"At end of 3rd quarter break, 10 Sec pad at the end. Dark during it?",,044_DEN_Video,01_4thQtr_Pumper,\044_DEN_Video\01_4thQtr_Pumper\010_4thQtr_Pumper_AUDIO_v00.mov,-,nclc,nclc,79046,92615,16,16,1.000,CFR,29.970,16103182,PCM,Little / Signed,sowt,79046,2,L R,48000,16
+,,011_4thQtr_Pumper_AUD_F_v00.mov,0,,0,044,011,001,AUD_F,1m19.03s,,-,,,,,044_DEN_Video,01_4thQtr_Pumper,\044_DEN_Video\01_4thQtr_Pumper\011_4thQtr_Pumper_AUD_F_v00.mov,-,nclc,nclc,79113,2213435767,10160,1600,6.350,CFR,29.970,21888818765,-,-,-,-,-,-,-,-
+,,014_4thQtr_Pumper_RIB_F_v01.mov,1,,1,044,014,010,RIB_F,1m19.03s,,-,,,,,044_DEN_Video,01_4thQtr_Pumper,\044_DEN_Video\01_4thQtr_Pumper\014_4thQtr_Pumper_RIB_F_v01.mov,-,nclc,nclc,79113,256625646,9504,144,66.000,CFR,29.970,2537804967,-,-,-,-,-,-,-,-
+,,018_4thQtr_Pumper_SCB_v00.mov,0,,0,044,018,017,SCB,1m18.97s,,-,,,,,044_DEN_Video,01_4thQtr_Pumper,\044_DEN_Video\01_4thQtr_Pumper\018_4thQtr_Pumper_SCB_v00.mov,-,nclc,nclc,79046,401809024,1920,1080,1.778,CFR,29.970,3985357302,PCM,Little / Signed,sowt,79046,2,L R,48000,16
+,02_MHC_Open,020_MHC_Open_AUDIO_v00.mov,0,,0,044,020,024,AUDIO,1m15.97s,,-,,,Open for MHC Jersey ,,044_DEN_Video,02_MHC_Open,\044_DEN_Video\02_MHC_Open\020_MHC_Open_AUDIO_v00.mov,-,nclc,nclc,76043,83973,16,16,1.000,CFR,29.970,15409321,PCM,Little / Signed,sowt,76043,2,L R,48000,16
+,,021_MHC_Open_AUD_F_v01.mov,1,,1,044,021,001,AUD_F,1m16.03s,,-,,,,,044_DEN_Video,02_MHC_Open,\044_DEN_Video\02_MHC_Open\021_MHC_Open_AUD_F_v01.mov,-,nclc,nclc,76110,508261841,10160,1600,6.350,CFR,29.970,4835465171,-,-,-,-,-,-,-,-
+,,024_MHC_Open_RIB_F_v01.mov,1,,1,044,024,010,RIB_F,1m16.03s,,-,,,,,044_DEN_Video,02_MHC_Open,\044_DEN_Video\02_MHC_Open\024_MHC_Open_RIB_F_v01.mov,-,nclc,nclc,76110,88223599,9504,144,66.000,CFR,29.970,839346630,-,-,-,-,-,-,-,-
+,,028_MHC_Open_SCB_v00.mov,0,,0,044,028,017,SCB,1m15.97s,,-,,,,,044_DEN_Video,02_MHC_Open,\044_DEN_Video\02_MHC_Open\028_MHC_Open_SCB_v00.mov,-,nclc,nclc,76043,307939729,1920,1080,1.778,CFR,29.970,2941691084,PCM,Little / Signed,sowt,76043,2,L R,48000,16
+,03_NicknamePumper,030_NicknamePumper_AUDIO_v01.mov,1,,1,044,030,024,AUDIO,1m32.57s,,-,,,Hot Timeout or 4th quarter ,,044_DEN_Video,03_NicknamePumper,\044_DEN_Video\03_NicknamePumper\030_NicknamePumper_AUDIO_v01.mov,-,nclc,nclc,92660,83434,16,16,1.000,CFR,29.970,18890173,PCM,Little / Signed,sowt,92660,2,L R,48000,16
+,,031_NicknamePumper_AUD_F_v00.mov,0,,0,044,031,001,AUD_F,1m32.57s,,-,,,,,044_DEN_Video,03_NicknamePumper,\044_DEN_Video\03_NicknamePumper\031_NicknamePumper_AUD_F_v00.mov,-,nclc,nclc,92660,1230527261,10160,1600,6.350,CFR,29.970,14252508328,-,-,-,-,-,-,-,-
+,,034_NicknamePumper_RIB_F_v00.mov,0,,0,044,034,010,RIB_F,1m32.57s,,-,,,,,044_DEN_Video,03_NicknamePumper,\044_DEN_Video\03_NicknamePumper\034_NicknamePumper_RIB_F_v00.mov,-,nclc,nclc,92660,40278357,9504,144,66.000,CFR,29.970,466535002,-,-,-,-,-,-,-,-
+,,038_NicknamePumper_SCB_v00.mov,0,,0,044,038,017,SCB,1m32.57s,,-,,,,,044_DEN_Video,03_NicknamePumper,\044_DEN_Video\03_NicknamePumper\038_NicknamePumper_SCB_v00.mov,-,nclc,nclc,92660,276790862,1920,1080,1.778,CFR,29.970,3223721097,PCM,Little / Signed,sowt,92660,2,L R,48000,16
+,04_PineapplePumper,040_PineapplePumper_AUDIO_v00.mov,0,,0,044,040,024,AUDIO,1m32.57s,,-,,,"4th Quarter. Very long. Gotta hit right away, generic on sides ",,044_DEN_Video,04_PineapplePumper,\044_DEN_Video\04_PineapplePumper\040_PineapplePumper_AUDIO_v00.mov,-,nclc,nclc,92660,74025,16,16,1.000,CFR,29.970,18781195,PCM,Little / Signed,sowt,92660,2,L R,48000,16
+,,048_PineapplePumper_SCB_v00.mov,0,,0,044,048,017,SCB,1m32.57s,,-,,,,,044_DEN_Video,04_PineapplePumper,\044_DEN_Video\04_PineapplePumper\048_PineapplePumper_SCB_v00.mov,-,nclc,nclc,92660,405424355,1920,1080,1.778,CFR,29.970,4713619260,PCM,Little / Signed,sowt,92660,2,L R,48000,16
+,06_BestDefense,060_BestDefense_AUDIO_v00.mov,0,,,044,060,024,AUDIO,1m13.23s,,-,,,,7/23/2020 13:13:24,044_DEN_Video,06_BestDefense,\044_DEN_Video\06_BestDefense\060_BestDefense_AUDIO_v00.mov,-,nclc,nclc,73307,76871,16,16,1.000,CFR,29.970,15286762,PCM,Little / Signed,sowt,73307,2,L R,48000,16
+,,068_BestDefense_SCB_v00.mov,0,,,044,068,017,SCB,1m13.23s,,-,,,,7/23/2020 13:13:27,044_DEN_Video,06_BestDefense,\044_DEN_Video\06_BestDefense\068_BestDefense_SCB_v00.mov,-,nclc,nclc,73307,543278902,1920,1080,1.778,CFR,29.970,4992825806,PCM,Little / Signed,sowt,73307,2,L R,48000,16
+,07_BigPlays,070_BigPlays_AUDIO_v00.mov,0,,,044,070,024,AUDIO,1m0.13s,,-,,,,7/23/2020 13:13:27,044_DEN_Video,07_BigPlays,\044_DEN_Video\07_BigPlays\070_BigPlays_AUDIO_v00.mov,-,nclc,nclc,60194,77251,16,16,1.000,CFR,29.970,12492520,PCM,Little / Signed,sowt,60194,2,L R,48000,16
+,,078_BigPlays_SCB_v00.mov,0,,,044,078,017,SCB,1m0.13s,,-,,,,7/23/2020 13:13:27,044_DEN_Video,07_BigPlays,\044_DEN_Video\07_BigPlays\078_BigPlays_SCB_v00.mov,-,nclc,nclc,60194,593995713,1920,1080,1.778,CFR,29.970,4481247958,PCM,Little / Signed,sowt,60194,2,L R,48000,16
+,08_BestDunks,080_BestDunks_AUDIO_v00.mov,0,,,044,080,024,AUDIO,0m60s,,-,,,,,044_DEN_Video,08_BestDunks,\044_DEN_Video\08_BestDunks\080_BestDunks_AUDIO_v00.mov,-,nclc,nclc,60060,95452,16,16,1.000,CFR,29.970,12257014,PCM,Little / Signed,sowt,60061,2,L R,48000,16
+,,088_BestDunks_SCB_v00.mov,0,,,044,088,017,SCB,0m60s,,-,,,,,044_DEN_Video,08_BestDunks,\044_DEN_Video\08_BestDunks\088_BestDunks_SCB_v00.mov,-,nclc,nclc,60060,450226112,1920,1080,1.778,CFR,29.970,3391623300,PCM,Little / Signed,sowt,60061,2,L R,48000,16
+045_DEN_Misc,,,,,,,,,,,,-,,,,,045_DEN_Misc,08_BestDunks,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+046_DEN_Intros_1,00_Barton5,004_Barton5_RIB_F_v00.mov,0,,,046,004,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,00_Barton5,\046_DEN_Intros_1\00_Barton5\004_Barton5_RIB_F_v00.mov,-,nclc,nclc,10010,197042676,9504,144,66.000,CFR,29.970,248475412,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,008_Barton5_SCB_v00.mov,0,,,046,008,017,SCB,10s,,-,,,,7/23/2020 13:19:02,046_DEN_Intros_1,00_Barton5,\046_DEN_Intros_1\00_Barton5\008_Barton5_SCB_v00.mov,-,nclc,nclc,10010,302121008,1920,1080,1.778,CFR,29.970,379954834,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,01_Bol10,014_Bol10_RIB_F_v00.mov,0,,,046,014,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,01_Bol10,\046_DEN_Intros_1\01_Bol10\014_Bol10_RIB_F_v00.mov,-,nclc,nclc,10010,195506279,9504,144,66.000,CFR,29.970,246552993,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,018_Bol10_SCB_v00.mov,0,,,046,018,017,SCB,10s,,-,,,,7/23/2020 13:19:03,046_DEN_Intros_1,01_Bol10,\046_DEN_Intros_1\01_Bol10\018_Bol10_SCB_v00.mov,-,nclc,nclc,10010,354471419,1920,1080,1.778,CFR,29.970,445458324,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,02_Cancar31,024_Cancar31_RIB_F_v00.mov,0,,,046,024,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,02_Cancar31,\046_DEN_Intros_1\02_Cancar31\024_Cancar31_RIB_F_v00.mov,-,nclc,nclc,10010,198338823,9504,144,66.000,CFR,29.970,250097218,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,028_Cancar31_SCB_v00.mov,0,,,046,028,017,SCB,10s,,-,,,,7/23/2020 13:19:03,046_DEN_Intros_1,02_Cancar31,\046_DEN_Intros_1\02_Cancar31\028_Cancar31_SCB_v00.mov,-,nclc,nclc,10010,381861428,1920,1080,1.778,CFR,29.970,479730107,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,03_Cook34,034_Cook34_RIB_F_v00.mov,0,,,046,034,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,03_Cook34,\046_DEN_Intros_1\03_Cook34\034_Cook34_RIB_F_v00.mov,-,nclc,nclc,10010,198451635,9504,144,66.000,CFR,29.970,250238373,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,038_Cook34_SCB_v00.mov,0,,,046,038,017,SCB,10s,,-,,,,7/23/2020 13:19:05,046_DEN_Intros_1,03_Cook34,\046_DEN_Intros_1\03_Cook34\038_Cook34_SCB_v00.mov,-,nclc,nclc,10010,372721943,1920,1080,1.778,CFR,29.970,468294315,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,04_Craig3,044_Craig3_RIB_F_v00.mov,0,,,046,044,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,04_Craig3,\046_DEN_Intros_1\04_Craig3\044_Craig3_RIB_F_v00.mov,-,nclc,nclc,10010,198534086,9504,144,66.000,CFR,29.970,250341540,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,048_Craig3_SCB_v00.mov,0,,,046,048,017,SCB,10s,,-,,,,7/23/2020 13:18:59,046_DEN_Intros_1,04_Craig3,\046_DEN_Intros_1\04_Craig3\048_Craig3_SCB_v00.mov,-,nclc,nclc,10010,339106139,1920,1080,1.778,CFR,29.970,426232518,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,05_Dozier,054_Dozier35_RIB_F_v00.mov,0,,,046,054,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,05_Dozier,\046_DEN_Intros_1\05_Dozier\054_Dozier35_RIB_F_v00.mov,-,nclc,nclc,10010,195440692,9504,144,66.000,CFR,29.970,246470928,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,058_Dozier35_SCB_v00.mov,0,,,046,058,017,SCB,10s,,-,,,,7/23/2020 13:18:57,046_DEN_Intros_1,05_Dozier,\046_DEN_Intros_1\05_Dozier\058_Dozier35_SCB_v00.mov,-,nclc,nclc,10010,366980996,1920,1080,1.778,CFR,29.970,461110947,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,06_Grant9,064_Grant9_RIB_F_v00.mov,0,,,046,064,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,06_Grant9,\046_DEN_Intros_1\06_Grant9\064_Grant9_RIB_F_v00.mov,-,nclc,nclc,10010,197860840,9504,144,66.000,CFR,29.970,249499141,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,068_Grant9_SCB_v00.mov,0,,,046,068,017,SCB,10s,,-,,,,7/23/2020 13:18:57,046_DEN_Intros_1,06_Grant9,\046_DEN_Intros_1\06_Grant9\068_Grant9_SCB_v00.mov,-,nclc,nclc,10010,363431475,1920,1080,1.778,CFR,29.970,456669605,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,07_Harris14,074_Harris14_RIB_F_v00.mov,0,,,046,074,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,07_Harris14,\046_DEN_Intros_1\07_Harris14\074_Harris14_RIB_F_v00.mov,-,nclc,nclc,10010,196413886,9504,144,66.000,CFR,29.970,247688637,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,078_Harris14_SCB_v00.mov,0,,,046,078,017,SCB,10s,,-,,,,7/23/2020 13:18:54,046_DEN_Intros_1,07_Harris14,\046_DEN_Intros_1\07_Harris14\078_Harris14_SCB_v00.mov,-,nclc,nclc,10010,296118157,1920,1080,1.778,CFR,29.970,372443775,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,08_Jokic15,084_Jokic15_RIB_F_v00.mov,0,,,046,084,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,08_Jokic15,\046_DEN_Intros_1\08_Jokic15\084_Jokic15_RIB_F_v00.mov,-,nclc,nclc,10010,197942956,9504,144,66.000,CFR,29.970,249601888,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,088_Jokic15_SCB_v00.mov,0,,,046,088,017,SCB,10s,,-,,,,7/23/2020 13:18:53,046_DEN_Intros_1,08_Jokic15,\046_DEN_Intros_1\08_Jokic15\088_Jokic15_SCB_v00.mov,-,nclc,nclc,10010,322038135,1920,1080,1.778,CFR,29.970,404876164,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,09_MaloneHC,,,RIB_F not delivered yet? -kh,,,,,,,,-,,,,7/22/2020 19:29:38,046_DEN_Intros_1,09_MaloneHC,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,098_MaloneHC_SCB_v00.mov,0,,,046,098,017,SCB,10s,,-,,,,7/22/2020 19:29:42,046_DEN_Intros_1,09_MaloneHC,\046_DEN_Intros_1\09_MaloneHC\098_MaloneHC_SCB_v00.mov,-,nclc,nclc,10010,315357628,1920,1080,1.778,CFR,29.970,396517144,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,10_Millsap4,104_Millsap4_RIB_F_v00.mov,0,,,046,104,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,10_Millsap4,\046_DEN_Intros_1\10_Millsap4\104_Millsap4_RIB_F_v00.mov,-,nclc,nclc,10010,197211451,9504,144,66.000,CFR,29.970,248686592,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,108_Millsap4_SCB_v00.mov,0,,,046,108,017,SCB,10s,,-,,,,7/23/2020 13:18:52,046_DEN_Intros_1,10_Millsap4,\046_DEN_Intros_1\10_Millsap4\108_Millsap4_SCB_v00.mov,-,nclc,nclc,10010,340726624,1920,1080,1.778,CFR,29.970,428260132,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,11_Morris11,114_Morris11_RIB_F_v00.mov,0,,,046,114,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,11_Morris11,\046_DEN_Intros_1\11_Morris11\114_Morris11_RIB_F_v00.mov,-,nclc,nclc,10010,197576468,9504,144,66.000,CFR,29.970,249143320,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,118_Morris11_SCB_v00.mov,0,,,046,118,017,SCB,10s,,-,,,,7/23/2020 13:18:50,046_DEN_Intros_1,11_Morris11,\046_DEN_Intros_1\11_Morris11\118_Morris11_SCB_v00.mov,-,nclc,nclc,10010,342312017,1920,1080,1.778,CFR,29.970,430243901,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,12_Murray27,124_Murray27_RIB_F_v00.mov,0,,,046,124,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,12_Murray27,\046_DEN_Intros_1\12_Murray27\124_Murray27_RIB_F_v00.mov,-,nclc,nclc,10010,198407392,9504,144,66.000,CFR,29.970,250183014,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,128_Murray27_SCB_v00.mov,0,,,046,128,017,SCB,10s,,-,,,,7/23/2020 13:18:50,046_DEN_Intros_1,12_Murray27,\046_DEN_Intros_1\12_Murray27\128_Murray27_SCB_v00.mov,-,nclc,nclc,10010,316425308,1920,1080,1.778,CFR,29.970,397853087,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,13_Plumlee7,134_Plumlee7_RIB_F_v00.mov,0,,,046,134,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,13_Plumlee7,\046_DEN_Intros_1\13_Plumlee7\134_Plumlee7_RIB_F_v00.mov,-,nclc,nclc,10010,198061544,9504,144,66.000,CFR,29.970,249750272,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,138_Plumlee7_SCB_v00.mov,0,,,046,138,017,SCB,10s,,-,,,,7/23/2020 13:18:49,046_DEN_Intros_1,13_Plumlee7,\046_DEN_Intros_1\13_Plumlee7\138_Plumlee7_SCB_v00.mov,-,nclc,nclc,10010,364163665,1920,1080,1.778,CFR,29.970,457585778,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,14_Porter1,144_Porter1_RIB_F_v00.mov,0,,,046,144,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,14_Porter1,\046_DEN_Intros_1\14_Porter1\144_Porter1_RIB_F_v00.mov,-,nclc,nclc,10010,199336834,9504,144,66.000,CFR,29.970,251345980,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,148_Porter1_SCB_v00.mov,0,,,046,148,017,SCB,10s,,-,,,,7/23/2020 13:18:47,046_DEN_Intros_1,14_Porter1,\046_DEN_Intros_1\14_Porter1\148_Porter1_SCB_v00.mov,-,nclc,nclc,10010,338305187,1920,1080,1.778,CFR,29.970,425230306,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,15_Bates-Diop6,154_Bates-Diop6_RIB_F_v00.mov,0,,,046,154,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,15_Bates-Diop6,\046_DEN_Intros_1\15_Bates-Diop6\154_Bates-Diop6_RIB_F_v00.mov,-,nclc,nclc,10010,198026756,9504,144,66.000,CFR,29.970,249706743,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,158_Bates-Diop6_SCB_v00.mov,0,,,046,158,017,SCB,10s,,-,,,,7/23/2020 13:18:46,046_DEN_Intros_1,15_Bates-Diop6,\046_DEN_Intros_1\15_Bates-Diop6\158_Bates-Diop6_SCB_v00.mov,-,nclc,nclc,10010,403871960,1920,1080,1.778,CFR,29.970,507270808,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,16_Daniels30,164_Daniels30_RIB_F_v00.mov,0,,,046,164,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,16_Daniels30,\046_DEN_Intros_1\16_Daniels30\164_Daniels30_RIB_F_v00.mov,-,nclc,nclc,10010,198239756,9504,144,66.000,CFR,29.970,249973260,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,168_Daniels30_SCB_v00.mov,0,,,046,168,017,SCB,10s,,-,,,,7/23/2020 13:18:45,046_DEN_Intros_1,16_Daniels30,\046_DEN_Intros_1\16_Daniels30\168_Daniels30_SCB_v00.mov,-,nclc,nclc,10010,401798726,1920,1080,1.778,CFR,29.970,504676688,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,17_Vonleh32,174_Vonleh32_RIB_F_v00.mov,0,,,046,174,010,RIB_F,10s,,-,,,,,046_DEN_Intros_1,17_Vonleh32,\046_DEN_Intros_1\17_Vonleh32\174_Vonleh32_RIB_F_v00.mov,-,nclc,nclc,10010,197944653,9504,144,66.000,CFR,29.970,249604012,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+,,178_Vonleh32_SCB_v00.mov,0,,,046,178,017,SCB,10s,,-,,,,7/23/2020 13:18:43,046_DEN_Intros_1,17_Vonleh32,\046_DEN_Intros_1\17_Vonleh32\178_Vonleh32_SCB_v00.mov,-,nclc,nclc,10010,404606148,1920,1080,1.778,CFR,29.970,508189462,PCM,Little / Signed,sowt,10011,2,L R,48000,16
+047_DEN_Intros_2,,,,,,,,,,,,-,,,,,047_DEN_Intros_2,17_Vonleh32,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+048_DEN_Intros_3,,,,,,,,,,,,-,,,,,048_DEN_Intros_3,17_Vonleh32,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+049_DEN_CRN_ROTATE,00_WESTERN_UNION,007_WesternUnion_CRN_v02.mov,1,,1,049,007,014,CRN,0.03s,,-,,,,7/21/2020 13:21:56,049_DEN_CRN_ROTATE,00_WESTERN_UNION,\049_DEN_CRN_ROTATE\00_WESTERN_UNION\007_WesternUnion_CRN_v02.mov,-,nclc,nclc,34,11106402,3328,208,16.000,CFR,29.970,47003,-,-,-,-,-,-,-,-
+,01_UCHEALTH,017_UCHealth_CRN_v02.mov,1,,1,049,017,014,CRN,0.03s,,-,,,,7/21/2020 13:22:25,049_DEN_CRN_ROTATE,01_UCHEALTH,\049_DEN_CRN_ROTATE\01_UCHEALTH\017_UCHealth_CRN_v02.mov,-,nclc,nclc,34,9297413,3328,208,16.000,CFR,29.970,39458,-,-,-,-,-,-,-,-
+,02_MTN_DEW,027_MountainDew_CRN_v01.mov,1,,1,049,027,014,CRN,0.03s,,-,,,,7/21/2020 13:22:47,049_DEN_CRN_ROTATE,02_MTN_DEW,\049_DEN_CRN_ROTATE\02_MTN_DEW\027_MountainDew_CRN_v01.mov,-,nclc,nclc,34,19284856,3328,208,16.000,CFR,29.970,81114,-,-,-,-,-,-,-,-
+,03_KINGSOOPERS,037_KingSoopers_CRN_v02.mov,1,,1,049,037,014,CRN,0.03s,,-,,,,7/22/2020 10:15:44,049_DEN_CRN_ROTATE,03_KINGSOOPERS,\049_DEN_CRN_ROTATE\03_KINGSOOPERS\037_KingSoopers_CRN_v02.mov,-,nclc,nclc,34,18586675,3328,208,16.000,CFR,29.970,78202,-,-,-,-,-,-,-,-
+,04_9NEWS,047_9NEWS_CRN_v01.mov,1,,,049,047,014,CRN,0.03s,,-,,,,7/23/2020 13:23:46,049_DEN_CRN_ROTATE,04_9NEWS,\049_DEN_CRN_ROTATE\04_9NEWS\047_9NEWS_CRN_v01.mov,-,nclc,nclc,34,16518984,3328,208,16.000,CFR,29.970,69578,-,-,-,-,-,-,-,-
+,05_TOYOTA,,,not on S3 as of 07/23 10:37 PM -kh,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,05_TOYOTA,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,06_PLANET_FITNESS,067_PlanetFitness_CRN_v01.mov,1,,,049,067,014,CRN,0.03s,,-,,,,7/23/2020 13:23:49,049_DEN_CRN_ROTATE,06_PLANET_FITNESS,\049_DEN_CRN_ROTATE\06_PLANET_FITNESS\067_PlanetFitness_CRN_v01.mov,-,nclc,nclc,34,19258003,3328,208,16.000,CFR,29.970,81002,-,-,-,-,-,-,-,-
+,07_RM_HONDA,,,not on S3 as of 07/23 10:37 PM -kh,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,07_RM_HONDA,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,09_ZOOM,097_Zoom_CRN_v01.mov,1,,,049,097,014,CRN,0.03s,,-,,,,7/23/2020 13:23:50,049_DEN_CRN_ROTATE,09_ZOOM,\049_DEN_CRN_ROTATE\09_ZOOM\097_Zoom_CRN_v01.mov,-,nclc,nclc,34,14317508,3328,208,16.000,CFR,29.970,60396,-,-,-,-,-,-,-,-
+,10_SOUTHWEST,107_Southwest_CRN_v01.mov,1,,,049,107,014,CRN,0.03s,,-,,,,7/23/2020 13:23:54,049_DEN_CRN_ROTATE,10_SOUTHWEST,\049_DEN_CRN_ROTATE\10_SOUTHWEST\107_Southwest_CRN_v01.mov,-,nclc,nclc,34,9569061,3328,208,16.000,CFR,29.970,40591,-,-,-,-,-,-,-,-
+,11_CASA_MEXICO,117_CasaMexico_CRN_v02.mov,2,,,049,117,014,CRN,0.03s,,-,,,,7/23/2020 13:23:54,049_DEN_CRN_ROTATE,11_CASA_MEXICO,\049_DEN_CRN_ROTATE\11_CASA_MEXICO\117_CasaMexico_CRN_v02.mov,-,nclc,nclc,34,24535120,3328,208,16.000,CFR,29.970,103012,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,-,,,,,049_DEN_CRN_ROTATE,11_CASA_MEXICO,Skip,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
