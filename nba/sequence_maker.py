@@ -11,8 +11,8 @@ import time
 import struct
 
 # HEY! Change These per team!
-csv_filename = "csv/03_DAL.csv"
-sequence = 396
+csv_filename = "csv/02_BOS.csv"
+sequence = 296
 
 start_layer = 101
 
@@ -21,7 +21,7 @@ start_layer = 101
 cur_cue = 0
 cur_layer = 0
 cur_label = 'none'
-ma_ip = "192.168.1.141"
+ma_ip = "192.168.1.92"
 ma_port = 30000
 ma_user = "hank"
 ma_prompt = "[Fixture]>"
@@ -73,8 +73,8 @@ def setCueAppearance(tn, sequence, cue, red, green, blue):
     str(green).encode('ascii') + b" /blue=" + str(blue).encode('ascii') + eol)
     time.sleep(0.1)
 
-def offthru(tn, sequence, cue):
-    tn.write(b"Fixture 101 thru 106 at Preset 1.1" + eol)
+def offthru(tn, sequence, cue, start_layer, cur_layer):
+    tn.write(b"Fixture " + enc(start_layer) + b" thru " + enc(cur_layer) + b" at Preset 1.1" + eol)
     tn.write(b"Store Sequence " + str(sequence).encode('ascii') +b" Cue " + str(cue).encode('ascii')
             + eol)
 
@@ -123,10 +123,10 @@ with open(csv_filename) as csvfile:
                 labelcue(tn, sequence, cur_cue, cur_label)
                 print('storing cue:'+str(cur_cue)+' called:'+cur_label)
             cur_cue += 1
+            offthru(tn, sequence, cur_cue, start_layer, cur_layer)
             cur_layer = start_layer
             cur_label = cur_category[0:3] + " " + row[1]
             #set our layers to 0 in this cue
-            offthru(tn, sequence, cur_cue)
             
             clearall(tn)
 
