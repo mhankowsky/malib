@@ -11,19 +11,19 @@ import time
 import struct
 
 # HEY! Change These per team!
-csv_filename = "csv/02_BOS.csv"
-sequence = 296
+csv_filename = "csv/13_OKC.csv"
+sequence = 1395
 
-start_layer = 101
+start_layer = 201
 
 
 #These Can Probably Stay the same
 cur_cue = 0
 cur_layer = 0
 cur_label = 'none'
-ma_ip = "192.168.1.92"
+ma_ip = "192.168.1.121"
 ma_port = 30000
-ma_user = "hank"
+ma_user = "jackson"
 ma_prompt = "[Fixture]>"
 eol = b"\r\n"
 
@@ -94,7 +94,7 @@ def unBlockSequence(tn, sequence):
 tn = Telnet(ma_ip, ma_port) 
 line = tn.read_until(b"login !")
 time.sleep(0.01)
-tn.write(b"Login hank "+eol)
+tn.write(b"Login " + enc(ma_user) +eol)
 
 #We have logged in 
 
